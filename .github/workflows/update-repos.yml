@@ -29,9 +29,8 @@ jobs:
     - name: Run fetch script
       run: python fetch_repos.py
       
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update trending AI repos" && git push)
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Update trending AI repos
+        file_pattern: '*.json *.html'

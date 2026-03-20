@@ -251,12 +251,16 @@
             
             const grid = document.getElementById('reposGrid');
             
-                
-                return;
+        
+        if (filtered.length === 0) {
+            grid.innerHTML = '<div class="no-data"><h2>No repositories found in this category</h2></div>';
+            return;
+        }                
+
             }
             
             grid.innerHTML = filtered.map(repo => `
-                <div class="repo-card">
+                
                     <a href="${repo.url}" target="_blank" class="repo-name">${repo.name}</a>
                     <p class="repo-description">${repo.description || 'No description available'}</p>
                     <div class="repo-meta">

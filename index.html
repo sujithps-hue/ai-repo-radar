@@ -204,7 +204,7 @@
             .then(response => response.json())
             .then(data => {
                 allRepos = data.repos || [];
-                const lastUpdate = data.last_updated || 'Unknown';
+                const lastUpdate = data.updated || 'Unknown';
                 
                 document.getElementById('lastUpdated').textContent = `Last updated: ${new Date(lastUpdate).toLocaleString()}`;
                 document.getElementById('loading').style.display = 'none';
@@ -222,8 +222,8 @@
             });
         
         function renderCategories() {
-            const categories = ['all', ...new Set(allRepos.map(r => r.category))];
-            const categoriesDiv = document.getElementById('categories');
+        const allNiches = allRepos.flatMap(r => r.niche || []);
+        const categories = ['all', ...new Set(allNiches)];            const categoriesDiv = document.getElementById('categories');
             
             categoriesDiv.innerHTML = categories.map(cat => 
                 `<button class="category-btn ${cat === 'all' ? 'active' : ''}" onclick="filterCategory('${cat}')">
@@ -247,12 +247,11 @@
         function renderRepos() {
             const filtered = currentCategory === 'all' 
                 ? allRepos 
-                : allRepos.filter(r => r.category === currentCategory);
+                                : allRepos.filter(r => r.niche && r.niche.includes(currentCategory));
             
             const grid = document.getElementById('reposGrid');
             
-            if (filtered.length === 0) {
-                grid.innerHTML = '<div class="no-data"><h2>No repositories found in this category</h2></div>';
+                
                 return;
             }
             

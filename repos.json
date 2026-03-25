@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T01:23:06.962760",
+  "updated": "2026-03-25T01:27:29.302959",
   "count": 50,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "name": "calesthio/Crucix",
       "owner": "calesthio",
       "desc": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stars": "6.4k",
-      "forks": "981",
+      "stars": "6.7k",
+      "forks": "1.0k",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
@@ -16,7 +16,7 @@
         "Data"
       ],
       "trend": "hot",
-      "starsToday": "+712",
+      "starsToday": "+665",
       "topic": "Ai",
       "url": "https://github.com/calesthio/Crucix"
     },
@@ -25,8 +25,8 @@
       "name": "jnMetaCode/agency-agents-zh",
       "owner": "jnMetaCode",
       "desc": "180 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u4eba\u8bbe\uff08\u4e2d\u6587\u7248\uff09\u2014 \u8986\u76d6 17 \u4e2a\u90e8\u95e8\uff0c\u652f\u6301 Claude Code / OpenClaw / Cursor / Trae \u7b49 11 \u79cd\u5de5\u5177 | Chinese AI agent personas for dev tools",
-      "stars": "2.1k",
-      "forks": "366",
+      "stars": "2.3k",
+      "forks": "389",
       "lang": "Shell",
       "langColor": "#8b949e",
       "niche": [
@@ -34,7 +34,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+125",
+      "starsToday": "+129",
       "topic": "Agent Framework",
       "url": "https://github.com/jnMetaCode/agency-agents-zh"
     },
@@ -43,15 +43,15 @@
       "name": "uditgoenka/autoresearch",
       "owner": "uditgoenka",
       "desc": "Claude Autoresearch Skill \u2014 Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify \u2192 Verify \u2192 Keep/Discard \u2192 Repeat forever.",
-      "stars": "1.9k",
-      "forks": "138",
+      "stars": "2.2k",
+      "forks": "159",
       "lang": "Shell",
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+193",
+      "starsToday": "+197",
       "topic": "Ai",
       "url": "https://github.com/uditgoenka/autoresearch"
     },
@@ -60,15 +60,15 @@
       "name": "viperrcrypto/Siftly",
       "owner": "viperrcrypto",
       "desc": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stars": "1.9k",
-      "forks": "169",
+      "stars": "2.0k",
+      "forks": "180",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+97",
+      "starsToday": "+98",
       "topic": "Ai",
       "url": "https://github.com/viperrcrypto/Siftly"
     },
@@ -77,15 +77,15 @@
       "name": "knowsuchagency/mcp2cli",
       "owner": "knowsuchagency",
       "desc": "Turn any MCP, OpenAPI, or GraphQL server into a CLI \u2014 at runtime, with zero codegen",
-      "stars": "1.6k",
-      "forks": "108",
+      "stars": "1.7k",
+      "forks": "109",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+117",
+      "starsToday": "+110",
       "topic": "Ai",
       "url": "https://github.com/knowsuchagency/mcp2cli"
     },
@@ -94,15 +94,15 @@
       "name": "nikmcfly/MiroFish-Offline",
       "owner": "nikmcfly",
       "desc": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stars": "1.2k",
-      "forks": "276",
+      "stars": "1.3k",
+      "forks": "297",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+134",
+      "starsToday": "+128",
       "topic": "Ai",
       "url": "https://github.com/nikmcfly/MiroFish-Offline"
     },
@@ -112,7 +112,7 @@
       "owner": "datawhalechina",
       "desc": "\u54c8\u55bd\uff01\u9f99\u867e \ud83d\ude4b\u200d\u2640\ufe0f\uff0c\u9996\u4e2a\u4f53\u7cfb\u5316 openclaw \u4e2d\u6587\u5f00\u6e90\u6559\u7a0b \uff5c Adopt from scratch and build your first claw \ud83e\udd9e \u6765\u9886\u517b\u4f60\u7684\u7b2c\u4e00\u53ea\u9f99\u867e\uff01",
       "stars": "1.2k",
-      "forks": "120",
+      "forks": "124",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
@@ -137,7 +137,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+64",
+      "starsToday": "+60",
       "topic": "Ai",
       "url": "https://github.com/lucija8320nhung4/HacxGPT"
     },
@@ -146,8 +146,8 @@
       "name": "rasbt/llm-architecture-gallery",
       "owner": "rasbt",
       "desc": "LLM Architecture Gallery source data",
-      "stars": "880",
-      "forks": "62",
+      "stars": "907",
+      "forks": "63",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
@@ -155,7 +155,7 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+110",
+      "starsToday": "+100",
       "topic": "Ai",
       "url": "https://github.com/rasbt/llm-architecture-gallery"
     },
@@ -164,15 +164,15 @@
       "name": "rzru/nightingale",
       "owner": "rzru",
       "desc": "Machine learning powered Karaoke app (with scores!) ",
-      "stars": "868",
-      "forks": "52",
+      "stars": "880",
+      "forks": "53",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+108",
+      "starsToday": "+97",
       "topic": "Ai",
       "url": "https://github.com/rzru/nightingale"
     },
@@ -181,8 +181,8 @@
       "name": "zevorn/rt-claw",
       "owner": "zevorn",
       "desc": "Making AI Assistants Cheap Again!",
-      "stars": "722",
-      "forks": "47",
+      "stars": "782",
+      "forks": "48",
       "lang": "C",
       "langColor": "#8b949e",
       "niche": [
@@ -198,76 +198,59 @@
       "name": "sstklen/trump-code",
       "owner": "sstklen",
       "desc": "\ud83d\udd10 AI decoding Trump's posts \u00d7 stock market | AI \u89e3\u78bc\u5ddd\u666e\u63a8\u6587 \u00d7 \u7f8e\u80a1 | AI\u3067\u30c8\u30e9\u30f3\u30d7\u6295\u7a3f\u00d7\u682a\u5f0f\u5e02\u5834\u3092\u89e3\u8aad \u2014 31.5M models, 61.3% hit rate, open source",
-      "stars": "633",
-      "forks": "79",
+      "stars": "641",
+      "forks": "82",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+79",
+      "starsToday": "+71",
       "topic": "Ai",
       "url": "https://github.com/sstklen/trump-code"
     },
     {
       "rank": 13,
-      "name": "meitarbe/cognetivy",
-      "owner": "meitarbe",
-      "desc": "The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections.",
-      "stars": "574",
-      "forks": "55",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+20",
-      "topic": "Agents",
-      "url": "https://github.com/meitarbe/cognetivy"
-    },
-    {
-      "rank": 14,
       "name": "giancarloerra/SocratiCode",
       "owner": "giancarloerra",
       "desc": "Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Claude Plugin or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than standard AI grep.",
-      "stars": "570",
-      "forks": "87",
+      "stars": "626",
+      "forks": "93",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+22",
+      "starsToday": "+24",
       "topic": "Ai",
       "url": "https://github.com/giancarloerra/SocratiCode"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Shpigford/chops",
       "owner": "Shpigford",
       "desc": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-      "stars": "517",
-      "forks": "26",
+      "stars": "614",
+      "forks": "34",
       "lang": "Swift",
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "new",
-      "starsToday": "+103",
-      "topic": "Ai",
+      "starsToday": "+102",
+      "topic": "Agents",
       "url": "https://github.com/Shpigford/chops"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "binance/binance-skills-hub",
       "owner": "binance",
       "desc": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
-      "stars": "516",
-      "forks": "100",
+      "stars": "537",
+      "forks": "104",
       "lang": "Shell",
       "langColor": "#8b949e",
       "niche": [
@@ -279,28 +262,63 @@
       "url": "https://github.com/binance/binance-skills-hub"
     },
     {
+      "rank": 16,
+      "name": "CodePhiliaX/youclaw",
+      "owner": "CodePhiliaX",
+      "desc": "\ud83e\udd9e Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
+      "stars": "508",
+      "forks": "129",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+36",
+      "topic": "Ai",
+      "url": "https://github.com/CodePhiliaX/youclaw"
+    },
+    {
       "rank": 17,
-      "name": "whyzhow/PersonalStyleAI-Framework-",
-      "owner": "whyzhow",
-      "desc": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
-      "stars": "437",
-      "forks": "3",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars": "471",
+      "forks": "77",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
-        "General AI"
+        "LLMs",
+        "Agents"
       ],
-      "trend": "trending",
-      "starsToday": "+16",
-      "topic": "Ai",
-      "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-"
+      "trend": "new",
+      "starsToday": "+78",
+      "topic": "Agents",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
     {
       "rank": 18,
+      "name": "griffinmartin/opencode-claude-auth",
+      "owner": "griffinmartin",
+      "desc": "OpenCode plugin that uses your existing Claude Code credentials \u2014 no separate login needed",
+      "stars": "452",
+      "forks": "38",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "new",
+      "starsToday": "+90",
+      "topic": "Ai",
+      "url": "https://github.com/griffinmartin/opencode-claude-auth"
+    },
+    {
+      "rank": 19,
       "name": "knostic/OpenAnt",
       "owner": "knostic",
       "desc": "OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real.",
-      "stars": "426",
+      "stars": "429",
       "forks": "66",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -309,34 +327,17 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+17",
+      "starsToday": "+16",
       "topic": "Ai",
       "url": "https://github.com/knostic/OpenAnt"
-    },
-    {
-      "rank": 19,
-      "name": "CodePhiliaX/youclaw",
-      "owner": "CodePhiliaX",
-      "desc": "\ud83e\udd9e Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
-      "stars": "409",
-      "forks": "113",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+31",
-      "topic": "Ai",
-      "url": "https://github.com/CodePhiliaX/youclaw"
     },
     {
       "rank": 20,
       "name": "minsight-ai-info/AI-Search-Hub",
       "owner": "minsight-ai-info",
       "desc": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
-      "stars": "405",
-      "forks": "28",
+      "stars": "429",
+      "forks": "30",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -344,47 +345,29 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+36",
+      "starsToday": "+35",
       "topic": "Ai",
       "url": "https://github.com/minsight-ai-info/AI-Search-Hub"
     },
     {
       "rank": 21,
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "396",
-      "forks": "67",
+      "name": "whyzhow/PersonalStyleAI-Framework-",
+      "owner": "whyzhow",
+      "desc": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
+      "stars": "428",
+      "forks": "3",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
-        "LLMs",
-        "Agents"
+        "General AI"
       ],
-      "trend": "new",
-      "starsToday": "+79",
-      "topic": "Agents",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+      "trend": "trending",
+      "starsToday": "+15",
+      "topic": "Ai",
+      "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-"
     },
     {
       "rank": 22,
-      "name": "griffinmartin/opencode-claude-auth",
-      "owner": "griffinmartin",
-      "desc": "OpenCode plugin that uses your existing Claude Code credentials \u2014 no separate login needed",
-      "stars": "387",
-      "forks": "34",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+96",
-      "topic": "Ai",
-      "url": "https://github.com/griffinmartin/opencode-claude-auth"
-    },
-    {
-      "rank": 23,
       "name": "3DCF-Labs/safepilot",
       "owner": "3DCF-Labs",
       "desc": "AI assistant that executes real work, safely.",
@@ -401,11 +384,11 @@
       "url": "https://github.com/3DCF-Labs/safepilot"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "hehehai/voxt",
       "owner": "hehehai",
       "desc": "\ud83c\udf99\ufe0fVoice input and translation app for macOS. Press to talk, release to paste.",
-      "stars": "363",
+      "stars": "371",
       "forks": "26",
       "lang": "Swift",
       "langColor": "#8b949e",
@@ -418,12 +401,12 @@
       "url": "https://github.com/hehehai/voxt"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "beita6969/ScienceClaw",
       "owner": "beita6969",
       "desc": "\ud83d\udd2c\ud83e\udd9e A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory.",
-      "stars": "348",
-      "forks": "35",
+      "stars": "369",
+      "forks": "37",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -431,33 +414,33 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+29",
+      "starsToday": "+28",
       "topic": "Ai",
       "url": "https://github.com/beita6969/ScienceClaw"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "loongclaw-ai/loongclaw",
       "owner": "loongclaw-ai",
       "desc": "Lightweight, clear, and fully extensible AI agent infrastructure \u2014 learn easily, customize anything \ud83d\udc09",
-      "stars": "344",
-      "forks": "45",
+      "stars": "357",
+      "forks": "50",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+19",
+      "starsToday": "+18",
       "topic": "Agent",
       "url": "https://github.com/loongclaw-ai/loongclaw"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "tomehq/tome",
       "owner": "tomehq",
       "desc": "Beautiful documentation that doesn't cost a fortune. Open-source with all of your favorite features.",
-      "stars": "335",
+      "stars": "336",
       "forks": "19",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -465,16 +448,16 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+25",
+      "starsToday": "+24",
       "topic": "Ai",
       "url": "https://github.com/tomehq/tome"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "crabtalk/crabtalk",
       "owner": "crabtalk",
       "desc": "Agents without the bloat",
-      "stars": "326",
+      "stars": "332",
       "forks": "46",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -483,16 +466,35 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+27",
+      "starsToday": "+25",
       "topic": "Agent Framework",
       "url": "https://github.com/crabtalk/crabtalk"
+    },
+    {
+      "rank": 28,
+      "name": "Claw-Company/clawcompany",
+      "owner": "Claw-Company",
+      "desc": "Build for OPC(One Person Company), Every human being is a chairman. Multiple roles, multiple agents, multiple suppliers. Your Claws company, one key to run them all.",
+      "stars": "325",
+      "forks": "7",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents",
+        "Cloud"
+      ],
+      "trend": "trending",
+      "starsToday": "+32",
+      "topic": "Agents",
+      "url": "https://github.com/Claw-Company/clawcompany"
     },
     {
       "rank": 29,
       "name": "understudy-ai/understudy",
       "owner": "understudy-ai",
       "desc": "An understudy watches. Then performs.",
-      "stars": "316",
+      "stars": "320",
       "forks": "16",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -501,27 +503,26 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+22",
+      "starsToday": "+21",
       "topic": "Agents",
       "url": "https://github.com/understudy-ai/understudy"
     },
     {
       "rank": 30,
-      "name": "get-Lucid/Lucid",
-      "owner": "get-Lucid",
-      "desc": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale.",
+      "name": "freddy-schuetz/n8n-claw",
+      "owner": "freddy-schuetz",
+      "desc": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script",
       "stars": "302",
-      "forks": "28",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "forks": "57",
+      "lang": "Shell",
+      "langColor": "#8b949e",
       "niche": [
-        "LLMs",
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+21",
-      "topic": "Agents",
-      "url": "https://github.com/get-Lucid/Lucid"
+      "starsToday": "+12",
+      "topic": "Agent",
+      "url": "https://github.com/freddy-schuetz/n8n-claw"
     },
     {
       "rank": 31,
@@ -562,8 +563,8 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "154.0k",
-      "forks": "20.2k",
+      "stars": "154.2k",
+      "forks": "20.3k",
       "lang": "HTML",
       "langColor": "#8b949e",
       "niche": [
@@ -596,7 +597,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "89.1k",
+      "stars": "89.2k",
       "forks": "13.6k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -667,7 +668,7 @@
       "owner": "tesseract-ocr",
       "desc": "Tesseract Open Source OCR Engine (main repository)",
       "stars": "73.1k",
-      "forks": "10.5k",
+      "forks": "10.6k",
       "lang": "C++",
       "langColor": "#f34b7d",
       "niche": [
@@ -770,7 +771,7 @@
       "owner": "ultralytics",
       "desc": "Ultralytics YOLO \ud83d\ude80",
       "stars": "54.9k",
-      "forks": "10.5k",
+      "forks": "10.6k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -823,7 +824,7 @@
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
       "stars": "46.2k",
-      "forks": "9.4k",
+      "forks": "9.5k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
       "niche": [

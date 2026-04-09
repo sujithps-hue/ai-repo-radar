@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T01:49:02.302599",
+  "updated": "2026-04-09T01:28:22.159746",
   "count": 50,
   "repos": [
     {
@@ -7,15 +7,15 @@
       "name": "milla-jovovich/mempalace",
       "owner": "milla-jovovich",
       "desc": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "stars": "17.4k",
-      "forks": "2.0k",
+      "stars": "27.4k",
+      "forks": "3.4k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs"
       ],
       "trend": "new",
-      "starsToday": "+5808",
+      "starsToday": "+6862",
       "topic": "Ai",
       "url": "https://github.com/milla-jovovich/mempalace"
     },
@@ -24,7 +24,7 @@
       "name": "JCodesMore/ai-website-cloner-template",
       "owner": "JCodesMore",
       "desc": "Clone any website with one command using AI coding agents",
-      "stars": "8.8k",
+      "stars": "9.1k",
       "forks": "1.2k",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -32,7 +32,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+352",
+      "starsToday": "+351",
       "topic": "Ai",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template"
     },
@@ -50,7 +50,7 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+356",
+      "starsToday": "+343",
       "topic": "Ai",
       "url": "https://github.com/calesthio/Crucix"
     },
@@ -59,15 +59,15 @@
       "name": "JuliusBrussee/caveman",
       "owner": "JuliusBrussee",
       "desc": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": "6.0k",
-      "forks": "218",
+      "stars": "7.5k",
+      "forks": "306",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs"
       ],
       "trend": "new",
-      "starsToday": "+1992",
+      "starsToday": "+1881",
       "topic": "Ai",
       "url": "https://github.com/JuliusBrussee/caveman"
     },
@@ -76,15 +76,15 @@
       "name": "Narcooo/inkos",
       "owner": "Narcooo",
       "desc": "Autonomous novel writing CLI AI Agent \u2014 agents write, audit, and revise novels with human review gates",
-      "stars": "3.7k",
-      "forks": "691",
+      "stars": "3.8k",
+      "forks": "717",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+143",
+      "starsToday": "+141",
       "topic": "Agent",
       "url": "https://github.com/Narcooo/inkos"
     },
@@ -93,15 +93,15 @@
       "name": "uditgoenka/autoresearch",
       "owner": "uditgoenka",
       "desc": "Claude Autoresearch Skill \u2014 Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify \u2192 Verify \u2192 Keep/Discard \u2192 Repeat forever.",
-      "stars": "3.3k",
-      "forks": "258",
+      "stars": "3.4k",
+      "forks": "259",
       "lang": "Shell",
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+133",
+      "starsToday": "+130",
       "topic": "Ai",
       "url": "https://github.com/uditgoenka/autoresearch"
     },
@@ -111,7 +111,7 @@
       "owner": "alvinreal",
       "desc": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
       "stars": "2.4k",
-      "forks": "207",
+      "forks": "208",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -120,7 +120,7 @@
         "MLOps"
       ],
       "trend": "trending",
-      "starsToday": "+171",
+      "starsToday": "+161",
       "topic": "Agents",
       "url": "https://github.com/alvinreal/awesome-opensource-ai"
     },
@@ -129,15 +129,15 @@
       "name": "collaborator-ai/collab-public",
       "owner": "collaborator-ai",
       "desc": "Collaborator is a place to create with agents.",
-      "stars": "2.2k",
-      "forks": "181",
+      "stars": "2.3k",
+      "forks": "183",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+97",
+      "starsToday": "+95",
       "topic": "Agents",
       "url": "https://github.com/collaborator-ai/collab-public"
     },
@@ -146,8 +146,8 @@
       "name": "rohitg00/ai-engineering-from-scratch",
       "owner": "rohitg00",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "1.9k",
-      "forks": "377",
+      "stars": "2.0k",
+      "forks": "384",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -155,7 +155,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+96",
+      "starsToday": "+93",
       "topic": "Agents",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
@@ -165,14 +165,14 @@
       "owner": "CoderLuii",
       "desc": "AI coding workstation: Claude Code + web UI + 7 AI CLIs + headless browser + 50+ tools",
       "stars": "1.9k",
-      "forks": "212",
+      "forks": "217",
       "lang": "Dockerfile",
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+111",
+      "starsToday": "+106",
       "topic": "Ai",
       "url": "https://github.com/CoderLuii/HolyClaude"
     },
@@ -182,14 +182,14 @@
       "owner": "nikmcfly",
       "desc": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
       "stars": "1.8k",
-      "forks": "447",
+      "forks": "457",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+74",
+      "starsToday": "+72",
       "topic": "Ai",
       "url": "https://github.com/nikmcfly/MiroFish-Offline"
     },
@@ -199,15 +199,15 @@
       "owner": "Windy3f3f3f3f",
       "desc": "Deep dive into Claude Code internals \u2014 architecture, agent loop, context engineering, and more. / \u6df1\u5165\u89e3\u6790 Claude Code \u6e90\u7801\uff1a\u67b6\u6784\u3001Agent \u5faa\u73af\u3001\u4e0a\u4e0b\u6587\u5de5\u7a0b\u3001\u5de5\u5177\u7cfb\u7edf\u7b49",
       "stars": "1.6k",
-      "forks": "470",
+      "forks": "482",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
         "LLMs",
         "Agents"
       ],
-      "trend": "new",
-      "starsToday": "+228",
+      "trend": "trending",
+      "starsToday": "+204",
       "topic": "Ai",
       "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works"
     },
@@ -217,7 +217,7 @@
       "owner": "iOfficeAI",
       "desc": "OfficeCLI is the first and best command-line tool purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "stars": "1.5k",
-      "forks": "133",
+      "forks": "141",
       "lang": "C#",
       "langColor": "#8b949e",
       "niche": [
@@ -233,16 +233,16 @@
       "name": "openedclaude/claude-reviews-claude",
       "owner": "openedclaude",
       "desc": "Claude reads its own source code \u2014 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.",
-      "stars": "1.2k",
-      "forks": "639",
+      "stars": "1.3k",
+      "forks": "642",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
         "LLMs",
         "Agents"
       ],
-      "trend": "new",
-      "starsToday": "+177",
+      "trend": "trending",
+      "starsToday": "+156",
       "topic": "Agent",
       "url": "https://github.com/openedclaude/claude-reviews-claude"
     },
@@ -252,14 +252,14 @@
       "owner": "lorryjovens-hub",
       "desc": "\ud83d\ude80 Rust \u5168\u91cf\u91cd\u6784\u7684 Claude Code - \u6027\u80fd\u63d0\u5347 2.5x\uff0c\u4f53\u79ef\u51cf\u5c11 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary",
       "stars": "1.2k",
-      "forks": "500",
+      "forks": "506",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
-      "trend": "new",
-      "starsToday": "+171",
+      "trend": "trending",
+      "starsToday": "+154",
       "topic": "Ai",
       "url": "https://github.com/lorryjovens-hub/claude-code-rust"
     },
@@ -269,14 +269,14 @@
       "owner": "Shpigford",
       "desc": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
       "stars": "1.2k",
-      "forks": "69",
+      "forks": "72",
       "lang": "Swift",
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+59",
+      "starsToday": "+56",
       "topic": "Agents",
       "url": "https://github.com/Shpigford/chops"
     },
@@ -286,7 +286,7 @@
       "owner": "Claw-Company",
       "desc": "Open source AI company OS. 38 roles, 6 templates,  4-layer memory. Your AI company remembers everything \u2014 locally.  npx clawcompany",
       "stars": "1.1k",
-      "forks": "128",
+      "forks": "139",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -304,14 +304,14 @@
       "owner": "samber",
       "desc": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of Golang agentic skills that works",
       "stars": "1.1k",
-      "forks": "51",
+      "forks": "54",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+61",
+      "starsToday": "+60",
       "topic": "Agent",
       "url": "https://github.com/samber/cc-skills-golang"
     },
@@ -328,7 +328,7 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+38",
+      "starsToday": "+37",
       "topic": "Ai",
       "url": "https://github.com/zevorn/rt-claw"
     },
@@ -346,12 +346,47 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+43",
+      "starsToday": "+42",
       "topic": "Ai",
       "url": "https://github.com/rasbt/llm-architecture-gallery"
     },
     {
       "rank": 21,
+      "name": "holaboss-ai/holaboss-ai",
+      "owner": "holaboss-ai",
+      "desc": "OSS core runtime and desktop workspace stack for Holaboss",
+      "stars": "992",
+      "forks": "97",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+58",
+      "topic": "Ai",
+      "url": "https://github.com/holaboss-ai/holaboss-ai"
+    },
+    {
+      "rank": 22,
+      "name": "amitshekhariitbhu/ai-engineering-interview-questions",
+      "owner": "amitshekhariitbhu",
+      "desc": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
+      "stars": "992",
+      "forks": "179",
+      "lang": "Markdown",
+      "langColor": "#8b949e",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+55",
+      "topic": "Agents",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions"
+    },
+    {
+      "rank": 23,
       "name": "rzru/nightingale",
       "owner": "rzru",
       "desc": "Machine learning powered Karaoke app (with scores!) ",
@@ -363,51 +398,33 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+43",
+      "starsToday": "+41",
       "topic": "Ai",
       "url": "https://github.com/rzru/nightingale"
     },
     {
-      "rank": 22,
-      "name": "amitshekhariitbhu/ai-engineering-interview-questions",
-      "owner": "amitshekhariitbhu",
-      "desc": "Your Cheat Sheet for AI Engineering Interview \u2013 Questions and Answers.",
-      "stars": "979",
-      "forks": "176",
-      "lang": "Markdown",
-      "langColor": "#8b949e",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+57",
-      "topic": "Agents",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions"
-    },
-    {
-      "rank": 23,
+      "rank": 24,
       "name": "silverstein/minutes",
       "owner": "silverstein",
       "desc": "Every meeting, every idea, every voice note \u2014 searchable by your AI. Open-source, privacy-first conversation memory layer.",
-      "stars": "952",
-      "forks": "94",
+      "stars": "971",
+      "forks": "96",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+47",
+      "starsToday": "+46",
       "topic": "Agent Skills",
       "url": "https://github.com/silverstein/minutes"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "minsight-ai-info/AI-Search-Hub",
       "owner": "minsight-ai-info",
       "desc": "One Query. All Search Skill. \u805a\u5408 Gemini\u3001Grok\u3001\u8c46\u5305\u3001\u5143\u5b9d\u7b49\u5e73\u53f0\u539f\u751f AI \u641c\u7d22\u80fd\u529b\uff0c\u514d\u8d39\u83b7\u53d6\u79d1\u6280\u8d8b\u52bf\u3001\u884c\u4e1a\u8206\u60c5\u3001\u70ed\u70b9\u8ffd\u8e2a\u3001\u65c5\u884c\u89c4\u5212\u3001\u65e5\u5e38\u95ee\u9898\u7edf\u4e00\u63a5\u8fdb\u81ea\u5df1\u7684 Agent \u4e0e\u5de5\u4f5c\u6d41\uff0c\u6307\u5b9a\u94fe\u63a5\u514d\u8d39\u722c\u53d6",
-      "stars": "916",
+      "stars": "924",
       "forks": "80",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -416,103 +433,34 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+35",
+      "starsToday": "+34",
       "topic": "Ai",
       "url": "https://github.com/minsight-ai-info/AI-Search-Hub"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "777genius/claude-code-source-code",
       "owner": "777genius",
       "desc": "Claude code source code",
-      "stars": "888",
+      "stars": "891",
       "forks": "1.1k",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
-      "trend": "new",
-      "starsToday": "+126",
+      "trend": "trending",
+      "starsToday": "+111",
       "topic": "Ai",
       "url": "https://github.com/777genius/claude-code-source-code"
     },
     {
-      "rank": 26,
-      "name": "austin-weeks/miasma",
-      "owner": "austin-weeks",
-      "desc": "Trap AI web scrapers in an endless poison pit.",
-      "stars": "856",
-      "forks": "18",
-      "lang": "Rust",
-      "langColor": "#dea584",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+42",
-      "topic": "Ai",
-      "url": "https://github.com/austin-weeks/miasma"
-    },
-    {
       "rank": 27,
-      "name": "holaboss-ai/holaboss-ai",
-      "owner": "holaboss-ai",
-      "desc": "OSS core runtime and desktop workspace stack for Holaboss",
-      "stars": "819",
-      "forks": "93",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+51",
-      "topic": "Ai",
-      "url": "https://github.com/holaboss-ai/holaboss-ai"
-    },
-    {
-      "rank": 28,
-      "name": "Windy3f3f3f3f/claude-code-from-scratch",
-      "owner": "Windy3f3f3f3f",
-      "desc": "\ud83d\udd0d Claude Code \u5f00\u6e90\u4e86 50 \u4e07\u884c\u4ee3\u7801\uff0c\u8bfb\u4e0d\u52a8\uff1f\u7528 ~3000 \u884c TypeScript \u4ece\u96f6\u590d\u73b0\u6838\u5fc3\u67b6\u6784\uff0c11 \u7ae0\u5206\u6b65\u6559\u7a0b\u5e26\u4f60\u7406\u89e3 coding agent \u7cbe\u9ad3\u3002Build your own Claude Code from scratch.",
-      "stars": "793",
-      "forks": "293",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "new",
-      "starsToday": "+113",
-      "topic": "Ai",
-      "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch"
-    },
-    {
-      "rank": 29,
-      "name": "oh-my-mermaid/oh-my-mermaid",
-      "owner": "oh-my-mermaid",
-      "desc": "Turn complex codebases into clear, navigable architecture diagrams with Claude Code.",
-      "stars": "766",
-      "forks": "65",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+47",
-      "topic": "Ai",
-      "url": "https://github.com/oh-my-mermaid/oh-my-mermaid"
-    },
-    {
-      "rank": 30,
       "name": "calesthio/OpenMontage",
       "owner": "calesthio",
       "desc": "World's first open-source, agentic video production system. 11 pipelines, 49 tools, 400+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "stars": "760",
-      "forks": "137",
+      "stars": "890",
+      "forks": "157",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -521,9 +469,61 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+84",
+      "starsToday": "+89",
       "topic": "Agent",
       "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "rank": 28,
+      "name": "austin-weeks/miasma",
+      "owner": "austin-weeks",
+      "desc": "Trap AI web scrapers in an endless poison pit.",
+      "stars": "860",
+      "forks": "18",
+      "lang": "Rust",
+      "langColor": "#dea584",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+40",
+      "topic": "Ai",
+      "url": "https://github.com/austin-weeks/miasma"
+    },
+    {
+      "rank": 29,
+      "name": "oh-my-mermaid/oh-my-mermaid",
+      "owner": "oh-my-mermaid",
+      "desc": "Turn complex codebases into clear, navigable architecture diagrams with Claude Code.",
+      "stars": "828",
+      "forks": "69",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+48",
+      "topic": "Ai",
+      "url": "https://github.com/oh-my-mermaid/oh-my-mermaid"
+    },
+    {
+      "rank": 30,
+      "name": "Windy3f3f3f3f/claude-code-from-scratch",
+      "owner": "Windy3f3f3f3f",
+      "desc": "\ud83d\udd0d Claude Code \u5f00\u6e90\u4e86 50 \u4e07\u884c\u4ee3\u7801\uff0c\u8bfb\u4e0d\u52a8\uff1f\u7528 ~3000 \u884c TypeScript \u4ece\u96f6\u590d\u73b0\u6838\u5fc3\u67b6\u6784\uff0c11 \u7ae0\u5206\u6b65\u6559\u7a0b\u5e26\u4f60\u7406\u89e3 coding agent \u7cbe\u9ad3\u3002Build your own Claude Code from scratch.",
+      "stars": "812",
+      "forks": "297",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+101",
+      "topic": "Ai",
+      "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch"
     },
     {
       "rank": 31,
@@ -564,7 +564,7 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "157.9k",
+      "stars": "158.4k",
       "forks": "20.7k",
       "lang": "HTML",
       "langColor": "#8b949e",
@@ -615,7 +615,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "85.0k",
+      "stars": "85.1k",
       "forks": "20.5k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -632,7 +632,7 @@
       "name": "Developer-Y/cs-video-courses",
       "owner": "Developer-Y",
       "desc": "List of Computer Science courses with video lectures.",
-      "stars": "79.7k",
+      "stars": "79.8k",
       "forks": "11.0k",
       "lang": null,
       "langColor": "#8b949e",
@@ -702,7 +702,7 @@
       "name": "OpenBB-finance/OpenBB",
       "owner": "OpenBB-finance",
       "desc": "Financial data platform for analysts, quants and AI agents.",
-      "stars": "65.5k",
+      "stars": "65.6k",
       "forks": "6.5k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -738,7 +738,7 @@
       "owner": "ultralytics",
       "desc": "YOLOv5 \ud83d\ude80 in PyTorch > ONNX > CoreML > TFLite",
       "stars": "57.2k",
-      "forks": "17.4k",
+      "forks": "17.5k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -754,7 +754,7 @@
       "name": "ultralytics/ultralytics",
       "owner": "ultralytics",
       "desc": "Ultralytics YOLO \ud83d\ude80",
-      "stars": "55.5k",
+      "stars": "55.6k",
       "forks": "10.7k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -822,7 +822,7 @@
       "name": "apache/airflow",
       "owner": "apache",
       "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": "44.9k",
+      "stars": "45.0k",
       "forks": "16.8k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -840,7 +840,7 @@
       "name": "streamlit/streamlit",
       "owner": "streamlit",
       "desc": "Streamlit \u2014 A faster way to build and share data apps.",
-      "stars": "44.1k",
+      "stars": "44.2k",
       "forks": "4.2k",
       "lang": "Python",
       "langColor": "#3572A5",

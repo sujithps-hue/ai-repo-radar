@@ -1,30 +1,13 @@
 {
-  "updated": "2026-05-03T02:08:52.077834",
+  "updated": "2026-05-04T02:08:20.333673",
   "count": 50,
   "repos": [
     {
       "rank": 1,
-      "name": "JuliusBrussee/caveman",
-      "owner": "JuliusBrussee",
-      "desc": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "stars": "52.5k",
-      "forks": "2.8k",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "hot",
-      "starsToday": "+1875",
-      "topic": "Ai",
-      "url": "https://github.com/JuliusBrussee/caveman"
-    },
-    {
-      "rank": 2,
       "name": "MemPalace/mempalace",
       "owner": "MemPalace",
       "desc": "The best-benchmarked open-source AI memory system. And it's free.",
-      "stars": "50.8k",
+      "stars": "51.0k",
       "forks": "6.7k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -32,16 +15,16 @@
         "LLMs"
       ],
       "trend": "hot",
-      "starsToday": "+1813",
+      "starsToday": "+1757",
       "topic": "Ai",
       "url": "https://github.com/MemPalace/mempalace"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "kyegomez/OpenMythos",
       "owner": "kyegomez",
       "desc": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "stars": "11.5k",
+      "stars": "11.6k",
       "forks": "2.6k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -49,34 +32,34 @@
         "LLMs"
       ],
       "trend": "hot",
-      "starsToday": "+818",
+      "starsToday": "+772",
       "topic": "Ai",
       "url": "https://github.com/kyegomez/OpenMythos"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "AgriciDaniel/claude-obsidian",
       "owner": "AgriciDaniel",
       "desc": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "stars": "4.0k",
-      "forks": "462",
+      "stars": "4.1k",
+      "forks": "468",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+159",
+      "starsToday": "+157",
       "topic": "Ai",
       "url": "https://github.com/AgriciDaniel/claude-obsidian"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Manavarya09/design-extract",
       "owner": "Manavarya09",
       "desc": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "stars": "1.9k",
-      "forks": "172",
+      "stars": "2.0k",
+      "forks": "179",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
@@ -89,46 +72,46 @@
       "url": "https://github.com/Manavarya09/design-extract"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Tencent-Hunyuan/HY-World-2.0",
       "owner": "Tencent-Hunyuan",
       "desc": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
       "stars": "1.7k",
-      "forks": "133",
+      "forks": "134",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+78",
+      "starsToday": "+75",
       "topic": "3D",
       "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "bergside/design-md-chrome",
       "owner": "bergside",
       "desc": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
       "stars": "1.6k",
-      "forks": "201",
+      "forks": "206",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+87",
+      "starsToday": "+85",
       "topic": "Ai",
       "url": "https://github.com/bergside/design-md-chrome"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "iamzhihuix/skills-manage",
       "owner": "iamzhihuix",
       "desc": "Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.",
       "stars": "1.5k",
-      "forks": "135",
+      "forks": "139",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -136,46 +119,46 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+78",
+      "starsToday": "+77",
       "topic": "Ai",
       "url": "https://github.com/iamzhihuix/skills-manage"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "openclaw/clawsweeper",
       "owner": "openclaw",
       "desc": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-      "stars": "1.4k",
-      "forks": "159",
+      "stars": "1.5k",
+      "forks": "172",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+157",
+      "starsToday": "+148",
       "topic": "Ai",
       "url": "https://github.com/openclaw/clawsweeper"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "earthtojake/text-to-cad",
       "owner": "earthtojake",
       "desc": "An open source harness for generating CAD models",
-      "stars": "1.3k",
-      "forks": "199",
+      "stars": "1.5k",
+      "forks": "217",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+116",
-      "topic": "Agents",
+      "starsToday": "+123",
+      "topic": "3Mf",
       "url": "https://github.com/earthtojake/text-to-cad"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "BuilderPulse/BuilderPulse",
       "owner": "BuilderPulse",
       "desc": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
@@ -187,69 +170,34 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+70",
+      "starsToday": "+66",
       "topic": "Ai",
       "url": "https://github.com/BuilderPulse/BuilderPulse"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "yaojingang/GEOFlow",
       "owner": "yaojingang",
       "desc": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
       "stars": "1.2k",
-      "forks": "276",
+      "forks": "279",
       "lang": "PHP",
       "langColor": "#8b949e",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+63",
+      "starsToday": "+60",
       "topic": "Ai",
       "url": "https://github.com/yaojingang/GEOFlow"
     },
     {
-      "rank": 13,
-      "name": "VectifyAI/OpenKB",
-      "owner": "VectifyAI",
-      "desc": "OpenKB: Open LLM Knowledge Base",
-      "stars": "1.1k",
-      "forks": "107",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+40",
-      "topic": "Agents",
-      "url": "https://github.com/VectifyAI/OpenKB"
-    },
-    {
-      "rank": 14,
-      "name": "Houseofmvps/codesight",
-      "owner": "Houseofmvps",
-      "desc": "Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.",
-      "stars": "1.0k",
-      "forks": "98",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+36",
-      "topic": "Ai",
-      "url": "https://github.com/Houseofmvps/codesight"
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "name": "kessler/gemma-gem",
       "owner": "kessler",
       "desc": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU \u2014 no API keys, no cloud, no data leaving your machine.",
-      "stars": "868",
-      "forks": "90",
+      "stars": "873",
+      "forks": "91",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -259,16 +207,16 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+32",
+      "starsToday": "+31",
       "topic": "Ai",
       "url": "https://github.com/kessler/gemma-gem"
     },
     {
-      "rank": 16,
+      "rank": 13,
       "name": "future-agi/future-agi",
       "owner": "future-agi",
       "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing \u00b7 Evals \u00b7 Simulations \u00b7 Datasets \u00b7 Gateway \u00b7 Guardrails. Self-hostable. Apache 2.0.",
-      "stars": "805",
+      "stars": "816",
       "forks": "140",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -278,33 +226,51 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+89",
+      "starsToday": "+81",
       "topic": "Ai",
       "url": "https://github.com/future-agi/future-agi"
     },
     {
-      "rank": 17,
+      "rank": 14,
       "name": "thClaws/thClaws",
       "owner": "thClaws",
       "desc": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": "719",
-      "forks": "95",
+      "stars": "729",
+      "forks": "98",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+55",
+      "starsToday": "+52",
       "topic": "Agent Harness",
       "url": "https://github.com/thClaws/thClaws"
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "name": "oritera/Cairn",
+      "owner": "oritera",
+      "desc": "A AI general-purpose state-space search engine, validated first on autonomous penetration testing.",
+      "stars": "638",
+      "forks": "34",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+45",
+      "topic": "Ai",
+      "url": "https://github.com/oritera/Cairn"
+    },
+    {
+      "rank": 16,
       "name": "mohi-devhub/antivibe",
       "owner": "mohi-devhub",
       "desc": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
-      "stars": "634",
+      "stars": "635",
       "forks": "41",
       "lang": "Shell",
       "langColor": "#8b949e",
@@ -312,17 +278,17 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+28",
+      "starsToday": "+27",
       "topic": "Ai",
       "url": "https://github.com/mohi-devhub/antivibe"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "name": "alash3al/stash",
       "owner": "alash3al",
       "desc": "Stash \u2014 persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stars": "627",
-      "forks": "26",
+      "stars": "634",
+      "forks": "27",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
@@ -330,16 +296,16 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+78",
+      "starsToday": "+70",
       "topic": "Ai",
       "url": "https://github.com/alash3al/stash"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "name": "AIScientists-Dev/WorldSeed",
       "owner": "AIScientists-Dev",
       "desc": "More is Different. A multi-agent world engine where AI agents live, talk, compete, ally.",
-      "stars": "614",
+      "stars": "615",
       "forks": "26",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -348,52 +314,34 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+36",
+      "starsToday": "+34",
       "topic": "Agent Based Simulation",
       "url": "https://github.com/AIScientists-Dev/WorldSeed"
     },
     {
-      "rank": 21,
-      "name": "oritera/Cairn",
-      "owner": "oritera",
-      "desc": "A general-purpose state-space search engine, validated first on autonomous penetration testing.",
-      "stars": "603",
-      "forks": "29",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+46",
-      "topic": "Ai",
-      "url": "https://github.com/oritera/Cairn"
-    },
-    {
-      "rank": 22,
+      "rank": 19,
       "name": "xiaochong/hi-kid",
       "owner": "xiaochong",
       "desc": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-      "stars": "550",
-      "forks": "73",
+      "stars": "556",
+      "forks": "74",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+42",
+      "starsToday": "+39",
       "topic": "Ai",
       "url": "https://github.com/xiaochong/hi-kid"
     },
     {
-      "rank": 23,
+      "rank": 20,
       "name": "YGYOOO/WorldX",
       "owner": "YGYOOO",
       "desc": "One sentence creates an AI-driven world \u2014 generate maps, characters, and watch stories emerge on their own. \u4e00\u53e5\u8bdd\u751f\u6210\u4e00\u4e2aAI\u81ea\u4e3b\u9a71\u52a8\u7684\u4e16\u754c.",
-      "stars": "499",
-      "forks": "72",
+      "stars": "506",
+      "forks": "76",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -401,16 +349,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+35",
+      "starsToday": "+33",
       "topic": "Agent",
       "url": "https://github.com/YGYOOO/WorldX"
     },
     {
-      "rank": 24,
+      "rank": 21,
       "name": "Blink-h/agent-startup-kit",
       "owner": "Blink-h",
       "desc": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
-      "stars": "411",
+      "stars": "412",
       "forks": "33",
       "lang": null,
       "langColor": "#8b949e",
@@ -418,34 +366,34 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+27",
+      "starsToday": "+25",
       "topic": "Ai",
       "url": "https://github.com/Blink-h/agent-startup-kit"
     },
     {
-      "rank": 25,
+      "rank": 22,
       "name": "agi-now/buffett-skills",
       "owner": "agi-now",
       "desc": "A collection of ai skills built on Warren Buffett's investing framework.",
-      "stars": "385",
-      "forks": "117",
+      "stars": "388",
+      "forks": "118",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+16",
+      "starsToday": "+15",
       "topic": "Ai",
       "url": "https://github.com/agi-now/buffett-skills"
     },
     {
-      "rank": 26,
+      "rank": 23,
       "name": "416rehman/DeepZero",
       "owner": "416rehman",
       "desc": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents.",
-      "stars": "380",
-      "forks": "47",
+      "stars": "384",
+      "forks": "49",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -460,11 +408,11 @@
       "url": "https://github.com/416rehman/DeepZero"
     },
     {
-      "rank": 27,
+      "rank": 24,
       "name": "kklt92/awesome-ai-extensions",
       "owner": "kklt92",
       "desc": "A curated list of AI-powered browser extensions, plugins, and add-ons.",
-      "stars": "337",
+      "stars": "354",
       "forks": "0",
       "lang": null,
       "langColor": "#8b949e",
@@ -477,7 +425,24 @@
       "url": "https://github.com/kklt92/awesome-ai-extensions"
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "name": "vibheksoni/free-ai",
+      "owner": "vibheksoni",
+      "desc": "Free OpenAI-compatible API with 16,000+ models. Chat, streaming, tool calling, image generation, image editing. Get a key via Discord, no billing required.",
+      "stars": "318",
+      "forks": "74",
+      "lang": "Astro",
+      "langColor": "#8b949e",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "trending",
+      "starsToday": "+26",
+      "topic": "Ai",
+      "url": "https://github.com/vibheksoni/free-ai"
+    },
+    {
+      "rank": 26,
       "name": "simoncirstoiu/alice",
       "owner": "simoncirstoiu",
       "desc": "Analyse \u00b7 Learn \u00b7 Ingest \u00b7 Curate \u00b7 Export \u2014 AI-powered YOLO dataset management toolkit",
@@ -489,34 +454,17 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+21",
       "topic": "Ai",
       "url": "https://github.com/simoncirstoiu/alice"
     },
     {
-      "rank": 29,
-      "name": "vibheksoni/free-ai",
-      "owner": "vibheksoni",
-      "desc": "Free OpenAI-compatible API with 16,000+ models. Chat, streaming, tool calling, image generation, image editing. Get a key via Discord, no billing required.",
-      "stars": "297",
-      "forks": "69",
-      "lang": "Astro",
-      "langColor": "#8b949e",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+27",
-      "topic": "Ai",
-      "url": "https://github.com/vibheksoni/free-ai"
-    },
-    {
-      "rank": 30,
+      "rank": 27,
       "name": "JuliusBrussee/cavemem",
       "owner": "JuliusBrussee",
       "desc": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
-      "stars": "271",
-      "forks": "16",
+      "stars": "280",
+      "forks": "18",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -524,9 +472,62 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+18",
+      "starsToday": "+17",
       "topic": "Ai",
       "url": "https://github.com/JuliusBrussee/cavemem"
+    },
+    {
+      "rank": 28,
+      "name": "Zafer-Liu/VizPilot_AI",
+      "owner": "Zafer-Liu",
+      "desc": "\u4e0a\u4f20\u6570\u636e\uff0c\u667a\u80fd\u63a8\u8350\u56fe\u8868\uff0c\u4e00\u952e\u751f\u6210\u4ea4\u4e92\u5f0f\u53ef\u89c6\u5316\u3002 Upload data, get chart recommendations, and generate interactive visualizations in one click.",
+      "stars": "272",
+      "forks": "24",
+      "lang": "HTML",
+      "langColor": "#8b949e",
+      "niche": [
+        "Data"
+      ],
+      "trend": "trending",
+      "starsToday": "+22",
+      "topic": "Ai",
+      "url": "https://github.com/Zafer-Liu/VizPilot_AI"
+    },
+    {
+      "rank": 29,
+      "name": "NicholasSpisak/second-brain",
+      "owner": "NicholasSpisak",
+      "desc": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
+      "stars": "267",
+      "forks": "44",
+      "lang": "Shell",
+      "langColor": "#8b949e",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+9",
+      "topic": "Agent Skills",
+      "url": "https://github.com/NicholasSpisak/second-brain"
+    },
+    {
+      "rank": 30,
+      "name": "dog-qiuqiu/invincat",
+      "owner": "dog-qiuqiu",
+      "desc": "A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.",
+      "stars": "264",
+      "forks": "20",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+15",
+      "topic": "Agent",
+      "url": "https://github.com/dog-qiuqiu/invincat"
     },
     {
       "rank": 31,
@@ -550,7 +551,7 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "161.4k",
+      "stars": "161.5k",
       "forks": "21.1k",
       "lang": "HTML",
       "langColor": "#8b949e",
@@ -601,7 +602,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "91.8k",
+      "stars": "91.9k",
       "forks": "14.2k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -635,7 +636,7 @@
       "name": "Developer-Y/cs-video-courses",
       "owner": "Developer-Y",
       "desc": "List of Computer Science courses with video lectures.",
-      "stars": "80.8k",
+      "stars": "80.9k",
       "forks": "11.2k",
       "lang": null,
       "langColor": "#8b949e",
@@ -808,7 +809,7 @@
       "name": "microsoft/AI-For-Beginners",
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "47.1k",
+      "stars": "47.2k",
       "forks": "9.7k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",

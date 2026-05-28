@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T02:43:29.119410",
+  "updated": "2026-05-28T02:30:37.560413",
   "count": 50,
   "repos": [
     {
@@ -8,14 +8,14 @@
       "owner": "yaojingang",
       "desc": "Yao Open Prompts\uff1a\u4e2d\u6587 AI \u63d0\u793a\u8bcd\u5e93\uff0c\u8986\u76d6\u5de5\u4f5c\u3001\u5b66\u4e60\u3001\u5185\u5bb9\u3001\u8425\u9500\u548c\u751f\u6d3b\u573a\u666f",
       "stars": "2.3k",
-      "forks": "353",
+      "forks": "355",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+114",
+      "starsToday": "+109",
       "topic": "Ai",
       "url": "https://github.com/yaojingang/yao-open-prompts"
     },
@@ -24,8 +24,8 @@
       "name": "opensquilla/opensquilla",
       "owner": "opensquilla",
       "desc": "OpenSquilla \u2014 Token-Efficient AI Agent with same budget, higher intelligence density",
-      "stars": "2.0k",
-      "forks": "132",
+      "stars": "2.1k",
+      "forks": "138",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -50,7 +50,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+114",
+      "starsToday": "+107",
       "topic": "Agent",
       "url": "https://github.com/Helvesec/rmux"
     },
@@ -59,7 +59,7 @@
       "name": "KevRojo/Dulus",
       "owner": "KevRojo",
       "desc": "The best CLI agent -  The agent who could save AI \u2014 reads & edits files, runs Bash, greps your repo, browses the web, ships commits, all from your terminal. Frontier IA driving real work at $0  scraping webchats AI",
-      "stars": "702",
+      "stars": "708",
       "forks": "25",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -67,33 +67,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+33",
+      "starsToday": "+32",
       "topic": "Agent",
       "url": "https://github.com/KevRojo/Dulus"
     },
     {
       "rank": 5,
-      "name": "mrslimslim/gpt-image-canvas",
-      "owner": "mrslimslim",
-      "desc": "Local professional AI canvas built with tldraw.",
-      "stars": "563",
-      "forks": "81",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+20",
-      "topic": "Ai",
-      "url": "https://github.com/mrslimslim/gpt-image-canvas"
-    },
-    {
-      "rank": 6,
       "name": "LiuMengxuan04/shushu-internship-tool",
       "owner": "LiuMengxuan04",
       "desc": "\u628a\u5c97\u4f4d\u63cf\u8ff0\u53d8\u9879\u76ee\uff0c\u628a\u9879\u76ee\u53d8\u7b80\u5386\uff0c\u628a\u7b80\u5386\u53d8\u9762\u8bd5\u3002",
-      "stars": "547",
+      "stars": "571",
       "forks": "23",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -101,17 +84,35 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+60",
+      "starsToday": "+57",
       "topic": "Ai",
       "url": "https://github.com/LiuMengxuan04/shushu-internship-tool"
+    },
+    {
+      "rank": 6,
+      "name": "UditAkhourii/adhd",
+      "owner": "UditAkhourii",
+      "desc": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "stars": "359",
+      "forks": "17",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+179",
+      "topic": "Adhd",
+      "url": "https://github.com/UditAkhourii/adhd"
     },
     {
       "rank": 7,
       "name": "basionwang-bot/HermesPet",
       "owner": "basionwang-bot",
       "desc": "\u8ba9 AI \u4f4f\u5728\u4f60 MacBook \u7684\u5218\u6d77\u91cc \u00b7 \u96f6\u4f9d\u8d56\u5f00\u7bb1\u5373\u7528 \u00b7 \u591a\u5f15\u64ce\u5e76\u884c\u7684\u684c\u9762 AI \u4f34\u4fa3\uff08Swift 6 / SwiftUI / macOS 14+\uff09",
-      "stars": "317",
-      "forks": "40",
+      "stars": "338",
+      "forks": "43",
       "lang": "Swift",
       "langColor": "#8b949e",
       "niche": [
@@ -127,8 +128,8 @@
       "name": "Evokoa/pgGraph",
       "owner": "Evokoa",
       "desc": "Open-source graph database superpowers for your existing Postgres data.",
-      "stars": "302",
-      "forks": "25",
+      "stars": "317",
+      "forks": "26",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
@@ -136,46 +137,80 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+22",
       "topic": "Ai",
       "url": "https://github.com/Evokoa/pgGraph"
     },
     {
       "rank": 9,
+      "name": "rpamis/comet",
+      "owner": "rpamis",
+      "desc": "Comet: OpenSpec + Superpowers dual-star development workflow",
+      "stars": "301",
+      "forks": "33",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+23",
+      "topic": "Ai",
+      "url": "https://github.com/rpamis/comet"
+    },
+    {
+      "rank": 10,
       "name": "seochecks-ai/slopless",
       "owner": "seochecks-ai",
       "desc": "Deterministic textlint rules and CLI for catching prose slop in English Markdown.",
-      "stars": "293",
-      "forks": "28",
+      "stars": "297",
+      "forks": "30",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+29",
+      "starsToday": "+27",
       "topic": "Ai",
       "url": "https://github.com/seochecks-ai/slopless"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "kerlos/pordee",
       "owner": "kerlos",
       "desc": "\u0e15\u0e2d\u0e1a\u0e2a\u0e31\u0e49\u0e19\u0e46 \u0e01\u0e47\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08\u0e41\u0e1a\u0e1a\u0e1e\u0e2d\u0e14\u0e35\u0e46",
-      "stars": "286",
-      "forks": "30",
+      "stars": "287",
+      "forks": "29",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+15",
+      "starsToday": "+14",
       "topic": "Ai",
       "url": "https://github.com/kerlos/pordee"
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "name": "ajsai47/backdoor",
+      "owner": "ajsai47",
+      "desc": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
+      "stars": "261",
+      "forks": "28",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "trending",
+      "starsToday": "+26",
+      "topic": "Ai",
+      "url": "https://github.com/ajsai47/backdoor"
+    },
+    {
+      "rank": 13,
       "name": "chAng-L19/codex-redteam-mode",
       "owner": "chAng-L19",
       "desc": "\u9488\u5bf9\u4e8e\u7ea2\u961f\u653b\u51fb\u601d\u7ef4\u505a\u51fa\u7684red team\u6a21\u5f0f(\u8ba9\u4f60\u7684codex\u50cf\u7ea2\u961f\u4e00\u6837\u601d\u8003\uff01)\uff0c\u53ef\u5728\u5355\u5bf9\u8bdd\u4f7f\u7528\uff08\u76ee\u524d\u53ea\u652f\u63015.4\uff0c5.5\u9700\u8981\u8fc7cyber\u8ba4\u8bc1\uff0c\u53ef\u81ea\u884c\u9002\u914d\u5176\u4ed6AI\uff09",
@@ -187,51 +222,34 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+12",
+      "starsToday": "+11",
       "topic": "Ai",
       "url": "https://github.com/chAng-L19/codex-redteam-mode"
     },
     {
-      "rank": 12,
-      "name": "rpamis/comet",
-      "owner": "rpamis",
-      "desc": "Comet: OpenSpec + Superpowers dual-star development workflow",
-      "stars": "245",
-      "forks": "23",
+      "rank": 14,
+      "name": "gonemedia/aipointer",
+      "owner": "gonemedia",
+      "desc": "AI cursor assistant for macOS, Windows, Linux. Hold a hotkey, ask a question about what's on your screen, get an instant answer. Vision-capable AI overlay with OpenRouter, Anthropic, OpenAI, Gemini. Local-first, BYO key, no telemetry.",
+      "stars": "237",
+      "forks": "10",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+20",
+      "starsToday": "+16",
       "topic": "Ai",
-      "url": "https://github.com/rpamis/comet"
+      "url": "https://github.com/gonemedia/aipointer"
     },
     {
-      "rank": 13,
-      "name": "ajsai47/backdoor",
-      "owner": "ajsai47",
-      "desc": "Run Claude Code against any AI provider. DeepSeek, Groq, Ollama, OpenRouter \u2014 your call.",
-      "stars": "243",
-      "forks": "28",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+27",
-      "topic": "Ai",
-      "url": "https://github.com/ajsai47/backdoor"
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "name": "entropyvortex/meta-llm-charter",
       "owner": "entropyvortex",
       "desc": "Compact operational charter that turns LLM coding agents into disciplined principal engineers. Eleven rules + one meta-rule.",
-      "stars": "234",
-      "forks": "19",
+      "stars": "236",
+      "forks": "20",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -239,35 +257,34 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+15",
+      "starsToday": "+14",
       "topic": "Ai",
       "url": "https://github.com/entropyvortex/meta-llm-charter"
     },
     {
-      "rank": 15,
-      "name": "UditAkhourii/adhd",
-      "owner": "UditAkhourii",
-      "desc": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-      "stars": "186",
-      "forks": "7",
+      "rank": 16,
+      "name": "leiting-eric/DailyBrief",
+      "owner": "leiting-eric",
+      "desc": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
+      "stars": "196",
+      "forks": "84",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
-        "LLMs",
-        "Agents"
+        "LLMs"
       ],
-      "trend": "new",
-      "starsToday": "+186",
-      "topic": "Adhd",
-      "url": "https://github.com/UditAkhourii/adhd"
+      "trend": "trending",
+      "starsToday": "+21",
+      "topic": "Ai",
+      "url": "https://github.com/leiting-eric/DailyBrief"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "jungang/alumnet",
       "owner": "jungang",
       "desc": "AlumNet - AI-powered intelligent school history exhibition & alumni management system | AI \u667a\u80fd\u6821\u53f2\u5c55\u793a\u7cfb\u7edf \u2014 \u6821\u53cb\u661f\u56fe",
-      "stars": "185",
-      "forks": "12",
+      "stars": "190",
+      "forks": "14",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -279,12 +296,29 @@
       "url": "https://github.com/jungang/alumnet"
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "name": "capture0x/AdStrike",
+      "owner": "capture0x",
+      "desc": "AdStrike:AI Powered  modular Active Directory red-team framework for authorized penetration testing, AD enumeration,   attack-path analysis, Kerberos/ADCS workflows, reporting, and operator automation.",
+      "stars": "188",
+      "forks": "37",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+11",
+      "topic": "Active Directory",
+      "url": "https://github.com/capture0x/AdStrike"
+    },
+    {
+      "rank": 19,
       "name": "lthoangg/OpenAgentd",
       "owner": "lthoangg",
       "desc": "Self-hosted AI agent OS \u2014 streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
       "stars": "185",
-      "forks": "28",
+      "forks": "29",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -292,51 +326,17 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+7",
+      "starsToday": "+6",
       "topic": "Agents",
       "url": "https://github.com/lthoangg/OpenAgentd"
-    },
-    {
-      "rank": 18,
-      "name": "leiting-eric/DailyBrief",
-      "owner": "leiting-eric",
-      "desc": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
-      "stars": "184",
-      "forks": "78",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+23",
-      "topic": "Ai",
-      "url": "https://github.com/leiting-eric/DailyBrief"
-    },
-    {
-      "rank": 19,
-      "name": "vincelele/ai-fomo-skills",
-      "owner": "vincelele",
-      "desc": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
-      "stars": "165",
-      "forks": "0",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+23",
-      "topic": "Ai",
-      "url": "https://github.com/vincelele/ai-fomo-skills"
     },
     {
       "rank": 20,
       "name": "cosmicstack-labs/mercury-agent-skills",
       "owner": "cosmicstack-labs",
       "desc": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
-      "stars": "156",
-      "forks": "19",
+      "stars": "177",
+      "forks": "21",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
@@ -349,10 +349,44 @@
     },
     {
       "rank": 21,
+      "name": "vincelele/ai-fomo-skills",
+      "owner": "vincelele",
+      "desc": "Personal superalignment skills for turning AI information overload into reusable knowledge, signals, and digests.",
+      "stars": "174",
+      "forks": "0",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+21",
+      "topic": "Ai",
+      "url": "https://github.com/vincelele/ai-fomo-skills"
+    },
+    {
+      "rank": 22,
+      "name": "officecli/officedex",
+      "owner": "officecli",
+      "desc": "OfficeDex is the first Al-Native VibeOfficing platform  for documents, slides, and spreadsheets",
+      "stars": "155",
+      "forks": "31",
+      "lang": "Go",
+      "langColor": "#00ADD8",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+17",
+      "topic": "Ai",
+      "url": "https://github.com/officecli/officedex"
+    },
+    {
+      "rank": 23,
       "name": "pnegahdar/nano",
       "owner": "pnegahdar",
       "desc": "One file. Under 200 lines. Zero dependencies. It's a coding agent.",
-      "stars": "149",
+      "stars": "151",
       "forks": "4",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -366,97 +400,12 @@
       "url": "https://github.com/pnegahdar/nano"
     },
     {
-      "rank": 22,
-      "name": "capture0x/AdStrike",
-      "owner": "capture0x",
-      "desc": "AdStrike:AI Powered  modular Active Directory red-team framework for authorized penetration testing, AD enumeration,   attack-path analysis, Kerberos/ADCS workflows, reporting, and operator automation.",
-      "stars": "146",
-      "forks": "31",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+9",
-      "topic": "Active Directory",
-      "url": "https://github.com/capture0x/AdStrike"
-    },
-    {
-      "rank": 23,
-      "name": "gonemedia/aipointer",
-      "owner": "gonemedia",
-      "desc": "AI cursor assistant for macOS, Windows, Linux. Hold a hotkey, ask a question about what's on your screen, get an instant answer. Vision-capable AI overlay with OpenRouter, Anthropic, OpenAI, Gemini. Local-first, BYO key, no telemetry.",
-      "stars": "145",
-      "forks": "8",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+11",
-      "topic": "Ai",
-      "url": "https://github.com/gonemedia/aipointer"
-    },
-    {
       "rank": 24,
-      "name": "officecli/officedex",
-      "owner": "officecli",
-      "desc": "OfficeDex is the first Al-Native VibeOfficing platform  for documents, slides, and spreadsheets",
-      "stars": "135",
-      "forks": "30",
-      "lang": "Go",
-      "langColor": "#00ADD8",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+16",
-      "topic": "Ai",
-      "url": "https://github.com/officecli/officedex"
-    },
-    {
-      "rank": 25,
-      "name": "Ademking/SkillPrompts",
-      "owner": "Ademking",
-      "desc": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
-      "stars": "133",
-      "forks": "11",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+8",
-      "topic": "Ai",
-      "url": "https://github.com/Ademking/SkillPrompts"
-    },
-    {
-      "rank": 26,
-      "name": "yangliu2060/curated-translations-zh",
-      "owner": "yangliu2060",
-      "desc": "\u4f18\u8d28\u6587\u7ae0\u3001\u8bba\u6587\u4e0e\u8d44\u6599\u7684\u975e\u5b98\u65b9\u4e2d\u6587\u7ffb\u8bd1\u5b58\u6863\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
-      "stars": "132",
-      "forks": "18",
-      "lang": null,
-      "langColor": "#8b949e",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+12",
-      "topic": "Ai",
-      "url": "https://github.com/yangliu2060/curated-translations-zh"
-    },
-    {
-      "rank": 27,
       "name": "fitchmultz/pi-cursor-sdk",
       "owner": "fitchmultz",
       "desc": "Cursor SDK provider extension for pi, adding Cursor models to pi's native model picker.",
-      "stars": "131",
-      "forks": "1",
+      "stars": "135",
+      "forks": "2",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -468,11 +417,45 @@
       "url": "https://github.com/fitchmultz/pi-cursor-sdk"
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "name": "yangliu2060/curated-translations-zh",
+      "owner": "yangliu2060",
+      "desc": "\u4f18\u8d28\u6587\u7ae0\u3001\u8bba\u6587\u4e0e\u8d44\u6599\u7684\u975e\u5b98\u65b9\u4e2d\u6587\u7ffb\u8bd1\u5b58\u6863\uff0c\u4ec5\u4f9b\u5b66\u4e60\u4ea4\u6d41\u3002",
+      "stars": "135",
+      "forks": "18",
+      "lang": null,
+      "langColor": "#8b949e",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+11",
+      "topic": "Ai",
+      "url": "https://github.com/yangliu2060/curated-translations-zh"
+    },
+    {
+      "rank": 26,
+      "name": "Ademking/SkillPrompts",
+      "owner": "Ademking",
+      "desc": "A browser extension to create, organize, and reuse customizable AI prompts across multiple AI chat platforms for faster, more efficient interactions.",
+      "stars": "133",
+      "forks": "11",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+7",
+      "topic": "Ai",
+      "url": "https://github.com/Ademking/SkillPrompts"
+    },
+    {
+      "rank": 27,
       "name": "eggbrid2/mobileClaw",
       "owner": "eggbrid2",
       "desc": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihomo VPN workflows.",
-      "stars": "128",
+      "stars": "129",
       "forks": "7",
       "lang": "Kotlin",
       "langColor": "#8b949e",
@@ -486,11 +469,11 @@
       "url": "https://github.com/eggbrid2/mobileClaw"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "k4cper-g/agent-ctrl",
       "owner": "k4cper-g",
       "desc": "Desktop automation CLI for AI agents. Fast native Rust CLI.",
-      "stars": "126",
+      "stars": "127",
       "forks": "4",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -503,11 +486,11 @@
       "url": "https://github.com/k4cper-g/agent-ctrl"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "prasenjeet-symon/ogcode",
       "owner": "prasenjeet-symon",
       "desc": "A web UI coding agent that handles the full development loop: understand your codebase, plan features collaboratively, spin up isolated branch agents, write the code, and ship PRs \u2014 all in parallel. Written in Go.",
-      "stars": "119",
+      "stars": "120",
       "forks": "9",
       "lang": "Go",
       "langColor": "#00ADD8",
@@ -519,6 +502,23 @@
       "starsToday": "+4",
       "topic": "Ai",
       "url": "https://github.com/prasenjeet-symon/ogcode"
+    },
+    {
+      "rank": 30,
+      "name": "cccyd2003-qwq/pinkbin",
+      "owner": "cccyd2003-qwq",
+      "desc": "\u626b\u76d8 \u00b7 \u770b\u61c2 \u00b7 \u5220\u9664\u3002\u78c1\u76d8\u626b\u63cf+\u6e05\u7406Agent\uff08Tauri 2 + React + Rust\uff09",
+      "stars": "116",
+      "forks": "5",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+4",
+      "topic": "Ai",
+      "url": "https://github.com/cccyd2003-qwq/pinkbin"
     },
     {
       "rank": 31,
@@ -593,7 +593,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "96.0k",
+      "stars": "96.1k",
       "forks": "14.7k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -611,7 +611,7 @@
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "stars": "86.0k",
-      "forks": "20.9k",
+      "forks": "20.8k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
       "niche": [
@@ -644,7 +644,7 @@
       "name": "netdata/netdata",
       "owner": "netdata",
       "desc": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "stars": "78.9k",
+      "stars": "79.0k",
       "forks": "6.4k",
       "lang": "C",
       "langColor": "#8b949e",
@@ -663,7 +663,7 @@
       "name": "OpenBB-finance/OpenBB",
       "owner": "OpenBB-finance",
       "desc": "Financial data platform for analysts, quants and AI agents.",
-      "stars": "68.1k",
+      "stars": "68.2k",
       "forks": "6.9k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -699,7 +699,7 @@
       "owner": "keras-team",
       "desc": "Deep Learning for humans",
       "stars": "64.1k",
-      "forks": "19.8k",
+      "forks": "19.7k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -715,7 +715,7 @@
       "name": "ultralytics/ultralytics",
       "owner": "ultralytics",
       "desc": "Ultralytics YOLO \ud83d\ude80",
-      "stars": "57.6k",
+      "stars": "57.7k",
       "forks": "11.1k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -800,7 +800,7 @@
       "name": "apache/airflow",
       "owner": "apache",
       "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": "45.5k",
+      "stars": "45.6k",
       "forks": "17.1k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -819,7 +819,7 @@
       "owner": "streamlit",
       "desc": "Streamlit \u2014 A faster way to build and share data apps.",
       "stars": "44.7k",
-      "forks": "4.3k",
+      "forks": "4.2k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [

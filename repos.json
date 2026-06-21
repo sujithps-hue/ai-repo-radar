@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:40:46.915829",
+  "updated": "2026-06-21T02:57:03.005621",
   "count": 50,
   "repos": [
     {
@@ -7,15 +7,15 @@
       "name": "XiaomiMiMo/MiMo-Code",
       "owner": "XiaomiMiMo",
       "desc": "MiMo Code: Where Models and Agents Co-Evolve",
-      "stars": "9.9k",
-      "forks": "916",
+      "stars": "10.1k",
+      "forks": "931",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "hot",
-      "starsToday": "+1105",
+      "starsToday": "+1009",
       "topic": "Ai",
       "url": "https://github.com/XiaomiMiMo/MiMo-Code"
     },
@@ -24,16 +24,16 @@
       "name": "omnigent-ai/omnigent",
       "owner": "omnigent-ai",
       "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": "4.1k",
-      "forks": "460",
+      "stars": "4.2k",
+      "forks": "473",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs",
         "Agents"
       ],
-      "trend": "hot",
-      "starsToday": "+507",
+      "trend": "trending",
+      "starsToday": "+467",
       "topic": "Agent Framework",
       "url": "https://github.com/omnigent-ai/omnigent"
     },
@@ -42,20 +42,37 @@
       "name": "code-yeongyu/lazycodex",
       "owner": "code-yeongyu",
       "desc": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
-      "stars": "1.5k",
-      "forks": "79",
+      "stars": "1.6k",
+      "forks": "92",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+60",
+      "starsToday": "+63",
       "topic": "Ai",
       "url": "https://github.com/code-yeongyu/lazycodex"
     },
     {
       "rank": 4,
+      "name": "StarTrail-org/PixelRAG",
+      "owner": "StarTrail-org",
+      "desc": "The end of web parsing. The beginning of scalable pixel-native search.",
+      "stars": "1.4k",
+      "forks": "125",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+61",
+      "topic": "Agent",
+      "url": "https://github.com/StarTrail-org/PixelRAG"
+    },
+    {
+      "rank": 5,
       "name": "boona13/image-extender",
       "owner": "boona13",
       "desc": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.",
@@ -67,34 +84,34 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+42",
+      "starsToday": "+40",
       "topic": "Ai",
       "url": "https://github.com/boona13/image-extender"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "agent0ai/dox",
       "owner": "agent0ai",
       "desc": "Self-documenting AGENTS.md",
-      "stars": "924",
-      "forks": "122",
+      "stars": "928",
+      "forks": "124",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+51",
+      "starsToday": "+48",
       "topic": "Agents Md",
       "url": "https://github.com/agent0ai/dox"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "superloglabs/superlog",
       "owner": "superloglabs",
       "desc": "Open-source observability tool that uses AI agents to self-heal your software",
-      "stars": "898",
-      "forks": "65",
+      "stars": "910",
+      "forks": "67",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -102,17 +119,17 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+52",
+      "starsToday": "+50",
       "topic": "Ai",
       "url": "https://github.com/superloglabs/superlog"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "UditAkhourii/adhd",
       "owner": "UditAkhourii",
       "desc": "ADHD \u2014 a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-      "stars": "853",
-      "forks": "44",
+      "stars": "860",
+      "forks": "46",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -120,50 +137,50 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+34",
+      "starsToday": "+33",
       "topic": "Adhd",
       "url": "https://github.com/UditAkhourii/adhd"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "amElnagdy/guard-skills",
       "owner": "amElnagdy",
       "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "stars": "838",
-      "forks": "99",
+      "stars": "852",
+      "forks": "102",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+64",
+      "starsToday": "+60",
       "topic": "Agent Skills",
       "url": "https://github.com/amElnagdy/guard-skills"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "name": "alchaincyf/fanbox",
       "owner": "alchaincyf",
       "desc": "vibe coding \u7684\u9a7e\u9a76\u8231\uff1a\u5de6\u8fb9\u6587\u4ef6\uff0c\u53f3\u8fb9/\u4e0b\u8fb9\u7ec8\u7aef\uff0c\u4e2d\u95f4\u770b\u6e05\u6bcf\u4e00\u6b21\u6539\u52a8\u3002 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "stars": "734",
-      "forks": "101",
+      "stars": "747",
+      "forks": "103",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+73",
+      "starsToday": "+67",
       "topic": "Agent",
       "url": "https://github.com/alchaincyf/fanbox"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "name": "coder/boo",
       "owner": "coder",
       "desc": "A GNU screen style terminal multiplexer built on libghostty.",
-      "stars": "676",
+      "stars": "682",
       "forks": "20",
       "lang": "Zig",
       "langColor": "#8b949e",
@@ -171,17 +188,17 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+67",
+      "starsToday": "+62",
       "topic": "Ai",
       "url": "https://github.com/coder/boo"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "tastyeffectco/sandboxd",
       "owner": "tastyeffectco",
       "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "stars": "676",
-      "forks": "29",
+      "stars": "677",
+      "forks": "30",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
@@ -189,33 +206,50 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+42",
+      "starsToday": "+39",
       "topic": "Ai",
       "url": "https://github.com/tastyeffectco/sandboxd"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "name": "eli-labz/Third-Eye",
+      "owner": "eli-labz",
+      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "stars": "658",
+      "forks": "8",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+94",
+      "topic": "Ai",
+      "url": "https://github.com/eli-labz/Third-Eye"
+    },
+    {
+      "rank": 14,
       "name": "TestSprite/testsprite-cli",
       "owner": "TestSprite",
       "desc": "Official TestSprite CLI \u2014 AI-powered automated testing from your terminal",
-      "stars": "541",
-      "forks": "23",
+      "stars": "635",
+      "forks": "24",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+67",
+      "starsToday": "+70",
       "topic": "Ai",
       "url": "https://github.com/TestSprite/testsprite-cli"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "name": "PentesterFlow/agent",
       "owner": "PentesterFlow",
       "desc": "Agentic offensive-security in your terminal",
-      "stars": "495",
+      "stars": "498",
       "forks": "73",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -223,34 +257,17 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+24",
       "topic": "Ai",
       "url": "https://github.com/PentesterFlow/agent"
     },
     {
-      "rank": 14,
-      "name": "StarTrail-org/PixelRAG",
-      "owner": "StarTrail-org",
-      "desc": "The end of web parsing. The beginning of scalable pixel-native search.",
-      "stars": "473",
-      "forks": "55",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+22",
-      "topic": "Agent",
-      "url": "https://github.com/StarTrail-org/PixelRAG"
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "name": "fancyboi999/ai-engineering-from-scratch-zh",
       "owner": "fancyboi999",
       "desc": "Agent\u5de5\u7a0b\u5e08\u6700\u5168\u5b66\u4e60\u8def\u5f84 \u00b7 \u4ece\u96f6\u7cbe\u901a AI \u5de5\u7a0b \u00b7 20 \u9636\u6bb5 503 \u8bfe \u00b7 \u4e2d\u6587\u5168\u91cf\u7ffb\u8bd1 + \u914d\u5957\u7ad9\u70b9 + \u52a8\u753b\u8bb2\u89e3\u89c6\u9891 \u00b7 \u5982\u4f55\u6210\u4e3a AI Agent \u5de5\u7a0b\u5e08\u7684\u4fee\u6210\u6307\u5357",
-      "stars": "438",
-      "forks": "70",
+      "stars": "445",
+      "forks": "73",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -258,33 +275,33 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+18",
+      "starsToday": "+17",
       "topic": "Agents",
       "url": "https://github.com/fancyboi999/ai-engineering-from-scratch-zh"
     },
     {
-      "rank": 16,
-      "name": "eli-labz/Third-Eye",
-      "owner": "eli-labz",
-      "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "stars": "417",
-      "forks": "5",
+      "rank": 17,
+      "name": "Dong90/oh-my-taiyiforge",
+      "owner": "Dong90",
+      "desc": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+      "stars": "385",
+      "forks": "9",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
-        "Agents"
+        "LLMs"
       ],
-      "trend": "new",
-      "starsToday": "+69",
+      "trend": "trending",
+      "starsToday": "+24",
       "topic": "Ai",
-      "url": "https://github.com/eli-labz/Third-Eye"
+      "url": "https://github.com/Dong90/oh-my-taiyiforge"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "cellinlab/how-pi-agent-works",
       "owner": "cellinlab",
       "desc": "Pi Agent \u539f\u7406\u4e0e\u5b9e\u73b0",
-      "stars": "378",
+      "stars": "379",
       "forks": "28",
       "lang": null,
       "langColor": "#8b949e",
@@ -297,45 +314,29 @@
       "url": "https://github.com/cellinlab/how-pi-agent-works"
     },
     {
-      "rank": 18,
-      "name": "razr001/align-dev",
-      "owner": "razr001",
-      "desc": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-      "stars": "372",
-      "forks": "21",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+23",
-      "topic": "Ai",
-      "url": "https://github.com/razr001/align-dev"
-    },
-    {
       "rank": 19,
-      "name": "Dong90/oh-my-taiyiforge",
-      "owner": "Dong90",
-      "desc": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
-      "stars": "353",
-      "forks": "9",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "name": "OtterMind/Nubase",
+      "owner": "OtterMind",
+      "desc": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
+      "stars": "357",
+      "forks": "30",
+      "lang": "Java",
+      "langColor": "#b07219",
       "niche": [
-        "LLMs"
+        "Agents",
+        "Data"
       ],
       "trend": "trending",
-      "starsToday": "+23",
-      "topic": "Ai",
-      "url": "https://github.com/Dong90/oh-my-taiyiforge"
+      "starsToday": "+29",
+      "topic": "Agent",
+      "url": "https://github.com/OtterMind/Nubase"
     },
     {
       "rank": 20,
       "name": "johnbean393/KeyType",
       "owner": "johnbean393",
       "desc": "An open-source Cotypist with macOS system wide AI autocomplete",
-      "stars": "339",
+      "stars": "341",
       "forks": "15",
       "lang": "Swift",
       "langColor": "#8b949e",
@@ -349,27 +350,10 @@
     },
     {
       "rank": 21,
-      "name": "buynao/aipath",
-      "owner": "buynao",
-      "desc": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
-      "stars": "332",
-      "forks": "35",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+47",
-      "topic": "Ai",
-      "url": "https://github.com/buynao/aipath"
-    },
-    {
-      "rank": 22,
       "name": "myccarl/ai-shortVideo-pipeline",
       "owner": "myccarl",
       "desc": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
-      "stars": "321",
+      "stars": "337",
       "forks": "3",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -384,81 +368,80 @@
       "url": "https://github.com/myccarl/ai-shortVideo-pipeline"
     },
     {
-      "rank": 23,
-      "name": "OtterMind/Nubase",
-      "owner": "OtterMind",
-      "desc": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Turn AI-written code into real apps. Nubase is an open-source, AI-native backend platform for AI Coding, agentic applications, and modern product teams: Memory, Database, Storage, and Auth in one self-hostable service.",
-      "stars": "312",
-      "forks": "26",
-      "lang": "Java",
-      "langColor": "#b07219",
-      "niche": [
-        "Agents",
-        "Data"
-      ],
-      "trend": "trending",
-      "starsToday": "+28",
-      "topic": "Agent",
-      "url": "https://github.com/OtterMind/Nubase"
-    },
-    {
-      "rank": 24,
-      "name": "xingwudao/xquant-beginner",
-      "owner": "xingwudao",
-      "desc": "\u300aXQuant\uff1a\u4eba\u4eba\u90fd\u662f\u91cf\u5316\u4ea4\u6613\u5458\u300b\u5f00\u6e90\u4e66\u7a3f",
-      "stars": "276",
-      "forks": "45",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "rank": 22,
+      "name": "buynao/aipath",
+      "owner": "buynao",
+      "desc": "Interactive AI General Education Course \u2014 30 Lessons, Zero Math",
+      "stars": "336",
+      "forks": "35",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+27",
+      "starsToday": "+42",
       "topic": "Ai",
-      "url": "https://github.com/xingwudao/xquant-beginner"
+      "url": "https://github.com/buynao/aipath"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "name": "gykim80/perfectpixel-studio",
       "owner": "gykim80",
       "desc": "AI-powered animation sprite studio \u2014 generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "stars": "264",
-      "forks": "43",
+      "stars": "309",
+      "forks": "46",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
         "General AI"
       ],
       "trend": "new",
-      "starsToday": "+52",
+      "starsToday": "+51",
       "topic": "Ai",
       "url": "https://github.com/gykim80/perfectpixel-studio"
     },
     {
-      "rank": 26,
-      "name": "AI272/speaker",
-      "owner": "AI272",
-      "desc": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
-      "stars": "257",
-      "forks": "9",
-      "lang": "Python",
-      "langColor": "#3572A5",
+      "rank": 24,
+      "name": "xingwudao/xquant-beginner",
+      "owner": "xingwudao",
+      "desc": "\u300aXQuant\uff1a\u4eba\u4eba\u90fd\u662f\u91cf\u5316\u4ea4\u6613\u5458\u300b\u5f00\u6e90\u4e66\u7a3f",
+      "stars": "279",
+      "forks": "48",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+16",
+      "starsToday": "+25",
       "topic": "Ai",
-      "url": "https://github.com/AI272/speaker"
+      "url": "https://github.com/xingwudao/xquant-beginner"
     },
     {
-      "rank": 27,
+      "rank": 25,
+      "name": "datalab-to/lift",
+      "owner": "datalab-to",
+      "desc": "Extract structured data from documents quickly and accurately.",
+      "stars": "268",
+      "forks": "18",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Data"
+      ],
+      "trend": "trending",
+      "starsToday": "+15",
+      "topic": "Ai",
+      "url": "https://github.com/datalab-to/lift"
+    },
+    {
+      "rank": 26,
       "name": "zhnt/loushang",
       "owner": "zhnt",
       "desc": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.",
-      "stars": "252",
-      "forks": "57",
+      "stars": "267",
+      "forks": "60",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -471,11 +454,28 @@
       "url": "https://github.com/zhnt/loushang"
     },
     {
+      "rank": 27,
+      "name": "AI272/speaker",
+      "owner": "AI272",
+      "desc": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area.",
+      "stars": "261",
+      "forks": "9",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+15",
+      "topic": "Ai",
+      "url": "https://github.com/AI272/speaker"
+    },
+    {
       "rank": 28,
       "name": "854875058/Symbio",
       "owner": "854875058",
       "desc": "\ud83e\uddec Symbio\uff08\u5171\u751f\uff09- AI Infra \u7ea7\u591a Agent \u534f\u540c\u6846\u67b6 | 33 Killer Features: \u52a8\u6001 DAG, \u672c\u4f53\u5316\u8bb0\u5fc6, \u9632\u8fc7\u65e9\u5b8c\u6210, \u6570\u636e\u98de\u8f6e, \u795e\u7ecf\u7b26\u53f7\u5b89\u5168, OpenTelemetry \u53ef\u89c2\u6d4b, HITL \u4eba\u7c7b\u4ecb\u5165, MCP \u539f\u751f\u652f\u6301, \u8bed\u4e49\u7f13\u5b58, PromptOps, \u8fb9\u7f18\u8ba1\u7b97, \u9690\u79c1\u8ba1\u7b97 | Next-Gen AI Infrastructure for Multi-Agent Orchestration",
-      "stars": "204",
+      "stars": "211",
       "forks": "0",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -493,7 +493,7 @@
       "name": "ChenChenyaqi/learn-anything",
       "owner": "ChenChenyaqi",
       "desc": "Learn Anything is an AI-powered recursive learning system \u2014 Socratic deep-dives and TDD-style exercises integrated directly into your coding assistant.",
-      "stars": "201",
+      "stars": "203",
       "forks": "16",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -510,7 +510,7 @@
       "name": "itsinseong/value-for-fable",
       "owner": "itsinseong",
       "desc": "Opus\uc5d0 \uadfc\uc811\ud55c \ud488\uc9c8\uc744 Sonnet \ub2e8\uac00\uc5d0 \u2014 \uac00\uc131\ube44 AI \uc6b4\uc601 \ubaa8\ub378\uc744 \uc9c1\uc811 \uad6c\ucd95\ud55c Claude Code \ud504\ub85c\uc81d\ud2b8",
-      "stars": "196",
+      "stars": "197",
       "forks": "47",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -518,7 +518,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+24",
+      "starsToday": "+21",
       "topic": "Agentic",
       "url": "https://github.com/itsinseong/value-for-fable"
     },
@@ -561,7 +561,7 @@
       "name": "huggingface/transformers",
       "owner": "huggingface",
       "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "stars": "161.7k",
+      "stars": "161.8k",
       "forks": "33.6k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -595,7 +595,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "97.4k",
+      "stars": "97.5k",
       "forks": "14.9k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -612,7 +612,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "87.0k",
+      "stars": "87.1k",
       "forks": "21.1k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -682,7 +682,7 @@
       "name": "OpenBB-finance/OpenBB",
       "owner": "OpenBB-finance",
       "desc": "Financial data platform for analysts, quants and AI agents.",
-      "stars": "69.4k",
+      "stars": "69.5k",
       "forks": "7.0k",
       "lang": "Python",
       "langColor": "#3572A5",

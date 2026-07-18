@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T01:58:55.580083",
+  "updated": "2026-07-18T01:48:42.513275",
   "count": 50,
   "repos": [
     {
@@ -7,7 +7,7 @@
       "name": "elder-plinius/T3MP3ST",
       "owner": "elder-plinius",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stars": "4.8k",
+      "stars": "4.9k",
       "forks": "1.0k",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -15,7 +15,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+346",
+      "starsToday": "+326",
       "topic": "Agents",
       "url": "https://github.com/elder-plinius/T3MP3ST"
     },
@@ -25,7 +25,7 @@
       "owner": "synthetic-sciences",
       "desc": "The open-source AI workbench for scientific research",
       "stars": "2.5k",
-      "forks": "359",
+      "forks": "363",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -33,7 +33,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+193",
+      "starsToday": "+181",
       "topic": "Agent",
       "url": "https://github.com/synthetic-sciences/openscience"
     },
@@ -43,7 +43,7 @@
       "owner": "sums001",
       "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
       "stars": "1.1k",
-      "forks": "375",
+      "forks": "373",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -51,7 +51,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+41",
+      "starsToday": "+40",
       "topic": "Ai",
       "url": "https://github.com/sums001/Windows-Copilot-API"
     },
@@ -60,7 +60,7 @@
       "name": "jmerelnyc/Talos",
       "owner": "jmerelnyc",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "992",
+      "stars": "990",
       "forks": "17",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -68,7 +68,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+70",
+      "starsToday": "+66",
       "topic": "Ai",
       "url": "https://github.com/jmerelnyc/Talos"
     },
@@ -77,15 +77,15 @@
       "name": "modiqo/skillspec",
       "owner": "modiqo",
       "desc": "SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.",
-      "stars": "974",
-      "forks": "59",
+      "stars": "979",
+      "forks": "60",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+36",
+      "starsToday": "+34",
       "topic": "Ai",
       "url": "https://github.com/modiqo/skillspec"
     },
@@ -103,7 +103,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+25",
       "topic": "Ai",
       "url": "https://github.com/raiyanyahya/recall"
     },
@@ -112,8 +112,8 @@
       "name": "William-Lu-stack/Flawless",
       "owner": "William-Lu-stack",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "691",
-      "forks": "131",
+      "stars": "707",
+      "forks": "142",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -122,7 +122,7 @@
         "Cloud"
       ],
       "trend": "new",
-      "starsToday": "+115",
+      "starsToday": "+101",
       "topic": "Agenticops",
       "url": "https://github.com/William-Lu-stack/Flawless"
     },
@@ -149,7 +149,7 @@
       "name": "Brain0-ai/brain0",
       "owner": "Brain0-ai",
       "desc": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
-      "stars": "449",
+      "stars": "452",
       "forks": "15",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -158,7 +158,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+32",
+      "starsToday": "+30",
       "topic": "Ai",
       "url": "https://github.com/Brain0-ai/brain0"
     },
@@ -167,15 +167,15 @@
       "name": "bkingfilm/lapian-notes",
       "owner": "bkingfilm",
       "desc": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
-      "stars": "360",
-      "forks": "48",
+      "stars": "367",
+      "forks": "49",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+45",
+      "starsToday": "+40",
       "topic": "Ai",
       "url": "https://github.com/bkingfilm/lapian-notes"
     },
@@ -184,7 +184,7 @@
       "name": "lemma-work/lemma-platform",
       "owner": "lemma-work",
       "desc": "The open-source workspace where humans and AI agents work as one team.",
-      "stars": "329",
+      "stars": "330",
       "forks": "54",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -192,36 +192,52 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+14",
+      "starsToday": "+13",
       "topic": "Ai",
       "url": "https://github.com/lemma-work/lemma-platform"
     },
     {
       "rank": 12,
-      "name": "databufflabs/databuff",
-      "owner": "databufflabs",
-      "desc": "AI-native OpenTelemetry APM with multi-agent root-cause analysis across traces, metrics, and service topology",
+      "name": "umputun/agterm",
+      "owner": "umputun",
+      "desc": "Terminal for agentic flow",
       "stars": "325",
-      "forks": "64",
-      "lang": "Java",
-      "langColor": "#b07219",
+      "forks": "30",
+      "lang": "Swift",
+      "langColor": "#8b949e",
       "niche": [
-        "LLMs",
-        "Agents",
-        "MLOps"
+        "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+11",
+      "starsToday": "+12",
       "topic": "Ai",
-      "url": "https://github.com/databufflabs/databuff"
+      "url": "https://github.com/umputun/agterm"
     },
     {
       "rank": 13,
+      "name": "QuantumByteOSS/quantumbyte",
+      "owner": "QuantumByteOSS",
+      "desc": "Open-source app builder engine \u2014 intent to working app",
+      "stars": "324",
+      "forks": "44",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+108",
+      "topic": "Agents",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte"
+    },
+    {
+      "rank": 14,
       "name": "Karovia/fullstack-ai-agent-roadmap",
       "owner": "Karovia",
       "desc": "\ud83c\udfaf \u4ece\u96f6\u57fa\u7840\u5230 AI Agent \u5168\u6808\u5de5\u7a0b\u5e08 \u00b7 110 \u4e2a\u8be6\u7ec6\u6559\u7a0b \u00b7 58 \u4e07\u5b57 \u00b7 400+ GitHub \u9879\u76ee\u7cbe\u9009 \u00b7 Obsidian \u53cb\u597d \u00b7 \u4e2d\u6587",
-      "stars": "320",
-      "forks": "27",
+      "stars": "321",
+      "forks": "28",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
@@ -234,42 +250,7 @@
       "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap"
     },
     {
-      "rank": 14,
-      "name": "QuantumByteOSS/quantumbyte",
-      "owner": "QuantumByteOSS",
-      "desc": "Open-source app builder engine \u2014 intent to working app",
-      "stars": "316",
-      "forks": "42",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "new",
-      "starsToday": "+158",
-      "topic": "Agents",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte"
-    },
-    {
       "rank": 15,
-      "name": "umputun/agterm",
-      "owner": "umputun",
-      "desc": "Terminal for agentic flow",
-      "stars": "316",
-      "forks": "28",
-      "lang": "Swift",
-      "langColor": "#8b949e",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+12",
-      "topic": "Ai",
-      "url": "https://github.com/umputun/agterm"
-    },
-    {
-      "rank": 16,
       "name": "ik190/macos-chatgpt-overlay-bar",
       "owner": "ik190",
       "desc": "ChatGPT for Mac, living in your menubar.",
@@ -281,16 +262,16 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+15",
+      "starsToday": "+14",
       "topic": "Ai",
       "url": "https://github.com/ik190/macos-chatgpt-overlay-bar"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "eli-labz/Godcoder",
       "owner": "eli-labz",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stars": "290",
+      "stars": "291",
       "forks": "8",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -299,35 +280,33 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+14",
+      "starsToday": "+13",
       "topic": "Ai",
       "url": "https://github.com/eli-labz/Godcoder"
     },
     {
-      "rank": 18,
-      "name": "jaredrhod/ai-memory-vault",
-      "owner": "jaredrhod",
-      "desc": "Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your AI's working memory. No vector database, just markdown.",
-      "stars": "288",
-      "forks": "54",
-      "lang": null,
-      "langColor": "#8b949e",
+      "rank": 17,
+      "name": "aipoch/open-science",
+      "owner": "aipoch",
+      "desc": "An open-source, model-agnostic AI workbench for scientific discovery.",
+      "stars": "262",
+      "forks": "71",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
       "niche": [
-        "LLMs",
-        "Agents",
-        "Data"
+        "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+9",
-      "topic": "Agent Memory",
-      "url": "https://github.com/jaredrhod/ai-memory-vault"
+      "starsToday": "+18",
+      "topic": "Agent",
+      "url": "https://github.com/aipoch/open-science"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "umacloud/umadev",
       "owner": "umacloud",
       "desc": "UmaDev: A coding agent that works like a real dev team, commanding the Claude Code / Codex / OpenCode you already use.",
-      "stars": "240",
+      "stars": "241",
       "forks": "60",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -340,63 +319,28 @@
       "url": "https://github.com/umacloud/umadev"
     },
     {
-      "rank": 20,
-      "name": "datagallery-lab/datafoundry",
-      "owner": "datagallery-lab",
-      "desc": "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.",
-      "stars": "238",
-      "forks": "33",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents",
-        "Data"
-      ],
-      "trend": "trending",
-      "starsToday": "+8",
-      "topic": "Ag Ui",
-      "url": "https://github.com/datagallery-lab/datafoundry"
-    },
-    {
-      "rank": 21,
-      "name": "aipoch/open-science",
-      "owner": "aipoch",
-      "desc": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "stars": "233",
-      "forks": "68",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+17",
-      "topic": "Agent",
-      "url": "https://github.com/aipoch/open-science"
-    },
-    {
-      "rank": 22,
+      "rank": 19,
       "name": "Aspirin0000/zhouli-translator",
       "owner": "Aspirin0000",
       "desc": "\u5408\u4e4e\u5468\u793c\uff1aDeepSeek-powered Zhouli-style Chinese translator, web app, and distributable Skill package.",
-      "stars": "220",
-      "forks": "21",
+      "stars": "224",
+      "forks": "22",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+9",
+      "starsToday": "+8",
       "topic": "Ai",
       "url": "https://github.com/Aspirin0000/zhouli-translator"
     },
     {
-      "rank": 23,
+      "rank": 20,
       "name": "EXXETA/exxperts",
       "owner": "EXXETA",
       "desc": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-      "stars": "208",
+      "stars": "215",
       "forks": "19",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -404,16 +348,33 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+21",
       "topic": "Agents",
       "url": "https://github.com/EXXETA/exxperts"
     },
     {
-      "rank": 24,
+      "rank": 21,
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "owner": "yuwen-cool",
+      "desc": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+      "stars": "215",
+      "forks": "19",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+107",
+      "topic": "Agent Skills",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
+    },
+    {
+      "rank": 22,
       "name": "haloshin/ip-diagram-creator",
       "owner": "haloshin",
       "desc": "\u4e2a\u4eba IP \u56fe\u89e3\u521b\u4f5c\u5668\uff1a\u7528\u4f60\u7684 IP \u5f62\u8c61\uff0c\u751f\u6210\u4e13\u5c5e\u5185\u5bb9\u56fe\u89e3\u3002",
-      "stars": "207",
+      "stars": "209",
       "forks": "29",
       "lang": null,
       "langColor": "#8b949e",
@@ -424,6 +385,43 @@
       "starsToday": "+8",
       "topic": "Ai",
       "url": "https://github.com/haloshin/ip-diagram-creator"
+    },
+    {
+      "rank": 23,
+      "name": "usedotai/dot-loom",
+      "owner": "usedotai",
+      "desc": "Provider-pluggable orchestration runtime for multi-model AI inference. ( Sakana Fugu style )",
+      "stars": "205",
+      "forks": "0",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+8",
+      "topic": "Agents",
+      "url": "https://github.com/usedotai/dot-loom"
+    },
+    {
+      "rank": 24,
+      "name": "barretlee/agent-pulse",
+      "owner": "barretlee",
+      "desc": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stars": "205",
+      "forks": "24",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents",
+        "Data"
+      ],
+      "trend": "new",
+      "starsToday": "+34",
+      "topic": "Ai",
+      "url": "https://github.com/barretlee/agent-pulse"
     },
     {
       "rank": 25,
@@ -439,49 +437,12 @@
         "MLOps"
       ],
       "trend": "trending",
-      "starsToday": "+8",
+      "starsToday": "+7",
       "topic": "Ai",
       "url": "https://github.com/onism1767-creator/potato"
     },
     {
       "rank": 26,
-      "name": "barretlee/agent-pulse",
-      "owner": "barretlee",
-      "desc": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "197",
-      "forks": "20",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs",
-        "Agents",
-        "Data"
-      ],
-      "trend": "new",
-      "starsToday": "+39",
-      "topic": "Ai",
-      "url": "https://github.com/barretlee/agent-pulse"
-    },
-    {
-      "rank": 27,
-      "name": "usedotai/dot-loom",
-      "owner": "usedotai",
-      "desc": "Provider-pluggable orchestration runtime for multi-model AI inference. ( Sakana Fugu style )",
-      "stars": "190",
-      "forks": "0",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+8",
-      "topic": "Agents",
-      "url": "https://github.com/usedotai/dot-loom"
-    },
-    {
-      "rank": 28,
       "name": "ohad6k/emulo",
       "owner": "ohad6k",
       "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
@@ -494,16 +455,50 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+21",
       "topic": "Agent Memory",
       "url": "https://github.com/ohad6k/emulo"
+    },
+    {
+      "rank": 27,
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "owner": "MIgHTy-alIeN",
+      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": "179",
+      "forks": "100",
+      "lang": "Solidity",
+      "langColor": "#8b949e",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "new",
+      "starsToday": "+179",
+      "topic": "Ai",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot"
+    },
+    {
+      "rank": 28,
+      "name": "Extraltodeus/J-Wash",
+      "owner": "Extraltodeus",
+      "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+      "stars": "173",
+      "forks": "15",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "new",
+      "starsToday": "+43",
+      "topic": "Abliteration",
+      "url": "https://github.com/Extraltodeus/J-Wash"
     },
     {
       "rank": 29,
       "name": "Green-PT/honey-for-devs",
       "owner": "Green-PT",
       "desc": "Honey (I Shrunk the AI) by GreenPT: a cross-tool coding skill that cuts AI coding-agent token usage and LLM API costs \u2014 write less code, less prose, and denser agent-to-agent handoffs (\u221253%, lossless in benchmarks) with no loss of quality. Works with Claude Code, Cursor, GitHub Copilot, Codex, Gemini CLI, Windsurf, Cline & Kiro.",
-      "stars": "170",
+      "stars": "173",
       "forks": "8",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
@@ -518,20 +513,22 @@
     },
     {
       "rank": 30,
-      "name": "Extraltodeus/J-Wash",
-      "owner": "Extraltodeus",
-      "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "170",
-      "forks": "14",
+      "name": "Alisa0808/vox-director",
+      "owner": "Alisa0808",
+      "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "stars": "171",
+      "forks": "22",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
-        "LLMs"
+        "LLMs",
+        "Agents",
+        "Cloud"
       ],
       "trend": "new",
-      "starsToday": "+56",
-      "topic": "Abliteration",
-      "url": "https://github.com/Extraltodeus/J-Wash"
+      "starsToday": "+24",
+      "topic": "Ai",
+      "url": "https://github.com/Alisa0808/vox-director"
     },
     {
       "rank": 31,
@@ -606,7 +603,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "99.2k",
+      "stars": "99.3k",
       "forks": "15.2k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -773,30 +770,12 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+54",
+      "starsToday": "+53",
       "topic": "Chatbot",
       "url": "https://github.com/pathwaycom/llm-app"
     },
     {
       "rank": 45,
-      "name": "asgeirtj/system_prompts_leaks",
-      "owner": "asgeirtj",
-      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "stars": "58.4k",
-      "forks": "9.6k",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+132",
-      "topic": "Ai",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks"
-    },
-    {
-      "rank": 46,
       "name": "ultralytics/yolov5",
       "owner": "ultralytics",
       "desc": "Ultralytics YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
@@ -813,7 +792,7 @@
       "url": "https://github.com/ultralytics/yolov5"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "name": "ageitgey/face_recognition",
       "owner": "ageitgey",
       "desc": "The world's simplest facial recognition api for Python and the command line",
@@ -830,7 +809,7 @@
       "url": "https://github.com/ageitgey/face_recognition"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "name": "deepfakes/faceswap",
       "owner": "deepfakes",
       "desc": "Deepfakes Software For All",
@@ -847,7 +826,7 @@
       "url": "https://github.com/deepfakes/faceswap"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "name": "microsoft/AI-For-Beginners",
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
@@ -864,7 +843,7 @@
       "url": "https://github.com/microsoft/AI-For-Beginners"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "JuliaLang/julia",
       "owner": "JuliaLang",
       "desc": "The Julia Programming Language",
@@ -879,6 +858,23 @@
       "starsToday": "+8",
       "topic": "Hacktoberfest",
       "url": "https://github.com/JuliaLang/julia"
+    },
+    {
+      "rank": 50,
+      "name": "roboflow/supervision",
+      "owner": "roboflow",
+      "desc": "We write your reusable computer vision tools. \ud83d\udc9c",
+      "stars": "48.1k",
+      "forks": "4.4k",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+36",
+      "topic": "Classification",
+      "url": "https://github.com/roboflow/supervision"
     }
   ]
 }

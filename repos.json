@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T01:55:47.638226",
+  "updated": "2026-07-23T02:03:49.087704",
   "count": 50,
   "repos": [
     {
@@ -8,14 +8,14 @@
       "owner": "elder-plinius",
       "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "stars": "5.1k",
-      "forks": "1.0k",
+      "forks": "1.1k",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+267",
+      "starsToday": "+255",
       "topic": "Agents",
       "url": "https://github.com/elder-plinius/T3MP3ST"
     },
@@ -33,16 +33,33 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+148",
+      "starsToday": "+141",
       "topic": "Agent",
       "url": "https://github.com/synthetic-sciences/openscience"
     },
     {
       "rank": 3,
+      "name": "penecho/penecho",
+      "owner": "penecho",
+      "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stars": "1.0k",
+      "forks": "102",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+126",
+      "topic": "Ai",
+      "url": "https://github.com/penecho/penecho"
+    },
+    {
+      "rank": 4,
       "name": "jmerelnyc/Talos",
       "owner": "jmerelnyc",
       "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "stars": "988",
+      "stars": "987",
       "forks": "17",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -50,36 +67,17 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+52",
+      "starsToday": "+49",
       "topic": "Ai",
       "url": "https://github.com/jmerelnyc/Talos"
-    },
-    {
-      "rank": 4,
-      "name": "William-Lu-stack/Flawless",
-      "owner": "William-Lu-stack",
-      "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stars": "845",
-      "forks": "213",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs",
-        "Agents",
-        "Cloud"
-      ],
-      "trend": "trending",
-      "starsToday": "+76",
-      "topic": "Agenticops",
-      "url": "https://github.com/William-Lu-stack/Flawless"
     },
     {
       "rank": 5,
       "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
       "owner": "MIgHTy-alIeN",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "739",
-      "forks": "497",
+      "stars": "920",
+      "forks": "650",
       "lang": "Solidity",
       "langColor": "#8b949e",
       "niche": [
@@ -92,10 +90,29 @@
     },
     {
       "rank": 6,
+      "name": "William-Lu-stack/Flawless",
+      "owner": "William-Lu-stack",
+      "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "stars": "849",
+      "forks": "213",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents",
+        "Cloud"
+      ],
+      "trend": "trending",
+      "starsToday": "+70",
+      "topic": "Agenticops",
+      "url": "https://github.com/William-Lu-stack/Flawless"
+    },
+    {
+      "rank": 7,
       "name": "Brain0-ai/brain0",
       "owner": "Brain0-ai",
       "desc": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
-      "stars": "465",
+      "stars": "469",
       "forks": "15",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -104,84 +121,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+24",
+      "starsToday": "+23",
       "topic": "Ai",
       "url": "https://github.com/Brain0-ai/brain0"
     },
     {
-      "rank": 7,
-      "name": "penecho/penecho",
-      "owner": "penecho",
-      "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "stars": "461",
-      "forks": "55",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+65",
-      "topic": "Ai",
-      "url": "https://github.com/penecho/penecho"
-    },
-    {
       "rank": 8,
-      "name": "bkingfilm/lapian-notes",
-      "owner": "bkingfilm",
-      "desc": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
-      "stars": "403",
-      "forks": "52",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+31",
-      "topic": "Ai",
-      "url": "https://github.com/bkingfilm/lapian-notes"
-    },
-    {
-      "rank": 9,
-      "name": "yuwen-cool/yuwen-publish-precheck",
-      "owner": "yuwen-cool",
-      "desc": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-      "stars": "367",
-      "forks": "34",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "new",
-      "starsToday": "+61",
-      "topic": "Agent Skills",
-      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
-    },
-    {
-      "rank": 10,
-      "name": "lemma-work/lemma-platform",
-      "owner": "lemma-work",
-      "desc": "The open-source workspace where humans and AI agents work as one team.",
-      "stars": "338",
-      "forks": "55",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+12",
-      "topic": "Ai",
-      "url": "https://github.com/lemma-work/lemma-platform"
-    },
-    {
-      "rank": 11,
       "name": "ik190/macos-chatgpt-overlay-bar",
       "owner": "ik190",
       "desc": "ChatGPT for Mac, living in your menubar.",
-      "stars": "337",
+      "stars": "410",
       "forks": "22",
       "lang": null,
       "langColor": "#8b949e",
@@ -189,35 +138,51 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+13",
+      "starsToday": "+15",
       "topic": "Ai",
       "url": "https://github.com/ik190/macos-chatgpt-overlay-bar"
     },
     {
-      "rank": 12,
-      "name": "QuantumByteOSS/quantumbyte",
-      "owner": "QuantumByteOSS",
-      "desc": "Open-source app builder engine \u2014 intent to working app",
-      "stars": "333",
-      "forks": "48",
+      "rank": 9,
+      "name": "bkingfilm/lapian-notes",
+      "owner": "bkingfilm",
+      "desc": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1a\u5bfc\u5165\u5f71\u7247\uff0cAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u89c2\u4f17\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u4f60\u7684\u62c9\u7247\u7b14\u8bb0\u3002\u514d\u8d39\u5f00\u6e90\uff0c\u6570\u636e\u5168\u5728\u672c\u5730",
+      "stars": "406",
+      "forks": "53",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+29",
+      "topic": "Ai",
+      "url": "https://github.com/bkingfilm/lapian-notes"
+    },
+    {
+      "rank": 10,
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "owner": "yuwen-cool",
+      "desc": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
+      "stars": "376",
+      "forks": "35",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
-        "LLMs",
         "Agents"
       ],
       "trend": "new",
-      "starsToday": "+47",
-      "topic": "Agents",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte"
+      "starsToday": "+53",
+      "topic": "Agent Skills",
+      "url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
     },
     {
-      "rank": 13,
+      "rank": 11,
       "name": "Alisa0808/vox-director",
       "owner": "Alisa0808",
       "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "stars": "319",
-      "forks": "44",
+      "stars": "358",
+      "forks": "46",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -231,12 +196,12 @@
       "url": "https://github.com/Alisa0808/vox-director"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "name": "aipoch/open-science",
       "owner": "aipoch",
       "desc": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "stars": "318",
-      "forks": "75",
+      "stars": "339",
+      "forks": "77",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -246,6 +211,41 @@
       "starsToday": "+17",
       "topic": "Agent",
       "url": "https://github.com/aipoch/open-science"
+    },
+    {
+      "rank": 13,
+      "name": "QuantumByteOSS/quantumbyte",
+      "owner": "QuantumByteOSS",
+      "desc": "Open-source app builder engine \u2014 intent to working app",
+      "stars": "334",
+      "forks": "48",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+41",
+      "topic": "Agents",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte"
+    },
+    {
+      "rank": 14,
+      "name": "Kritt-ai/open-kritt",
+      "owner": "Kritt-ai",
+      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "stars": "322",
+      "forks": "71",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+161",
+      "topic": "Agent",
+      "url": "https://github.com/Kritt-ai/open-kritt"
     },
     {
       "rank": 15,
@@ -267,28 +267,11 @@
     },
     {
       "rank": 16,
-      "name": "Kritt-ai/open-kritt",
-      "owner": "Kritt-ai",
-      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "258",
-      "forks": "48",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "new",
-      "starsToday": "+258",
-      "topic": "Agent",
-      "url": "https://github.com/Kritt-ai/open-kritt"
-    },
-    {
-      "rank": 17,
       "name": "livetennisapi/livetennisapi-mcp",
       "owner": "livetennisapi",
       "desc": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "stars": "249",
-      "forks": "11",
+      "stars": "271",
+      "forks": "125",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
@@ -297,59 +280,77 @@
         "Data"
       ],
       "trend": "new",
-      "starsToday": "+83",
+      "starsToday": "+67",
       "topic": "Ai",
       "url": "https://github.com/livetennisapi/livetennisapi-mcp"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "TencentCloud/Octop",
       "owner": "TencentCloud",
       "desc": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
-      "stars": "246",
-      "forks": "29",
+      "stars": "267",
+      "forks": "33",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+18",
+      "starsToday": "+19",
       "topic": "Agent",
       "url": "https://github.com/TencentCloud/Octop"
     },
     {
-      "rank": 19,
-      "name": "usedotai/dot-loom",
-      "owner": "usedotai",
-      "desc": "Provider-pluggable orchestration runtime for multi-model AI inference. ( Sakana Fugu style )",
-      "stars": "239",
-      "forks": "0",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
+      "rank": 18,
+      "name": "runvendo/vendo",
+      "owner": "runvendo",
+      "desc": "Embedded agents your customers use to automate work, build views, and connect their tools.",
+      "stars": "253",
+      "forks": "25",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
       "niche": [
         "LLMs",
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+8",
+      "starsToday": "+11",
       "topic": "Agents",
-      "url": "https://github.com/usedotai/dot-loom"
+      "url": "https://github.com/runvendo/vendo"
+    },
+    {
+      "rank": 19,
+      "name": "KlaatAI/klaatcode",
+      "owner": "KlaatAI",
+      "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "stars": "248",
+      "forks": "86",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+49",
+      "topic": "Agentic Ai",
+      "url": "https://github.com/KlaatAI/klaatcode"
     },
     {
       "rank": 20,
       "name": "EXXETA/exxperts",
       "owner": "EXXETA",
       "desc": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
-      "stars": "224",
-      "forks": "20",
+      "stars": "225",
+      "forks": "21",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+16",
+      "starsToday": "+15",
       "topic": "Agents",
       "url": "https://github.com/EXXETA/exxperts"
     },
@@ -368,30 +369,12 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+22",
+      "starsToday": "+20",
       "topic": "Ai",
       "url": "https://github.com/barretlee/agent-pulse"
     },
     {
       "rank": 22,
-      "name": "KlaatAI/klaatcode",
-      "owner": "KlaatAI",
-      "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "stars": "206",
-      "forks": "67",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "new",
-      "starsToday": "+51",
-      "topic": "Agentic Ai",
-      "url": "https://github.com/KlaatAI/klaatcode"
-    },
-    {
-      "rank": 23,
       "name": "ohad6k/emulo",
       "owner": "ohad6k",
       "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
@@ -404,16 +387,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+15",
+      "starsToday": "+14",
       "topic": "Agent Memory",
       "url": "https://github.com/ohad6k/emulo"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "Extraltodeus/J-Wash",
       "owner": "Extraltodeus",
       "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "186",
+      "stars": "188",
       "forks": "17",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -421,16 +404,16 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+20",
       "topic": "Abliteration",
       "url": "https://github.com/Extraltodeus/J-Wash"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "sums001/Deepseek-API",
       "owner": "sums001",
       "desc": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
-      "stars": "174",
+      "stars": "176",
       "forks": "33",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -444,11 +427,28 @@
       "url": "https://github.com/sums001/Deepseek-API"
     },
     {
+      "rank": 25,
+      "name": "bytedoger/awesome-OpenPrice",
+      "owner": "bytedoger",
+      "desc": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
+      "stars": "174",
+      "forks": "1",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "new",
+      "starsToday": "+29",
+      "topic": "Ai",
+      "url": "https://github.com/bytedoger/awesome-OpenPrice"
+    },
+    {
       "rank": 26,
       "name": "KORAYTEACHER/fintech-advisor",
       "owner": "KORAYTEACHER",
       "desc": "ai fintech financial advisor for your portfolio",
-      "stars": "167",
+      "stars": "166",
       "forks": "1.2k",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -456,7 +456,7 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+13",
+      "starsToday": "+12",
       "topic": "Ai",
       "url": "https://github.com/KORAYTEACHER/fintech-advisor"
     },
@@ -465,7 +465,7 @@
       "name": "theteatoast/local-vuln-research-pipeline",
       "owner": "theteatoast",
       "desc": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
-      "stars": "164",
+      "stars": "165",
       "forks": "20",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -476,7 +476,7 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+13",
+      "starsToday": "+12",
       "topic": "Agents",
       "url": "https://github.com/theteatoast/local-vuln-research-pipeline"
     },
@@ -493,12 +493,29 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+13",
+      "starsToday": "+12",
       "topic": "Ai",
       "url": "https://github.com/SilentFleetKK/ai-market-pulse"
     },
     {
       "rank": 29,
+      "name": "beany-vu/michi-vz-mono",
+      "owner": "beany-vu",
+      "desc": "D3 charts for React, Angular, Vue, Svelte & Web Components \u2014 SVG/Canvas/WebGPU & built-in devtools",
+      "stars": "159",
+      "forks": "0",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+6",
+      "topic": "Ai",
+      "url": "https://github.com/beany-vu/michi-vz-mono"
+    },
+    {
+      "rank": 30,
       "name": "benlamiro/ShipGenAI",
       "owner": "benlamiro",
       "desc": "\ud83d\ude80 50 production-ready Generative AI SaaS apps \u2014 brand them, ship them, keep 100% of the revenue. Stripe billing \u00b7 Google OAuth \u00b7 Vercel deploy \u00b7 MIT licensed",
@@ -513,23 +530,6 @@
       "starsToday": "+5",
       "topic": "Ai",
       "url": "https://github.com/benlamiro/ShipGenAI"
-    },
-    {
-      "rank": 30,
-      "name": "bytedoger/awesome-OpenPrice",
-      "owner": "bytedoger",
-      "desc": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
-      "stars": "156",
-      "forks": "1",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "new",
-      "starsToday": "+31",
-      "topic": "Ai",
-      "url": "https://github.com/bytedoger/awesome-OpenPrice"
     },
     {
       "rank": 31,
@@ -587,8 +587,8 @@
       "name": "pytorch/pytorch",
       "owner": "pytorch",
       "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": "101.8k",
-      "forks": "28.4k",
+      "stars": "101.9k",
+      "forks": "28.5k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -604,7 +604,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "99.5k",
+      "stars": "99.6k",
       "forks": "15.3k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -621,7 +621,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "88.4k",
+      "stars": "88.5k",
       "forks": "21.6k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -638,7 +638,7 @@
       "name": "Developer-Y/cs-video-courses",
       "owner": "Developer-Y",
       "desc": "List of Computer Science courses with video lectures.",
-      "stars": "82.6k",
+      "stars": "82.7k",
       "forks": "11.4k",
       "lang": null,
       "langColor": "#8b949e",
@@ -691,7 +691,7 @@
       "name": "OpenBB-finance/OpenBB",
       "owner": "OpenBB-finance",
       "desc": "Open Data Platform for analysts, quants and AI agents.",
-      "stars": "70.8k",
+      "stars": "70.9k",
       "forks": "7.2k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -709,7 +709,7 @@
       "name": "scikit-learn/scikit-learn",
       "owner": "scikit-learn",
       "desc": "scikit-learn: machine learning in Python",
-      "stars": "66.7k",
+      "stars": "66.8k",
       "forks": "27.2k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -743,7 +743,7 @@
       "name": "ultralytics/ultralytics",
       "owner": "ultralytics",
       "desc": "Ultralytics YOLO26, YOLO11, YOLOv8 \u2014 object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
-      "stars": "59.7k",
+      "stars": "59.8k",
       "forks": "11.4k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -814,8 +814,8 @@
       "name": "microsoft/AI-For-Beginners",
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "52.5k",
-      "forks": "10.6k",
+      "stars": "52.7k",
+      "forks": "10.7k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
       "niche": [
@@ -848,7 +848,7 @@
       "name": "roboflow/supervision",
       "owner": "roboflow",
       "desc": "We write your reusable computer vision tools. \ud83d\udc9c",
-      "stars": "48.2k",
+      "stars": "48.3k",
       "forks": "4.4k",
       "lang": "Python",
       "langColor": "#3572A5",

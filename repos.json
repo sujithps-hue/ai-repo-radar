@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T01:58:32.683042",
+  "updated": "2026-07-26T02:03:00.987399",
   "count": 50,
   "repos": [
     {
@@ -15,7 +15,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+234",
+      "starsToday": "+225",
       "topic": "Agents",
       "url": "https://github.com/elder-plinius/T3MP3ST"
     },
@@ -24,8 +24,8 @@
       "name": "synthetic-sciences/openscience",
       "owner": "synthetic-sciences",
       "desc": "The open-source AI workbench for scientific research",
-      "stars": "2.7k",
-      "forks": "378",
+      "stars": "2.8k",
+      "forks": "384",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -33,7 +33,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+129",
+      "starsToday": "+126",
       "topic": "Agent",
       "url": "https://github.com/synthetic-sciences/openscience"
     },
@@ -42,15 +42,15 @@
       "name": "penecho/penecho",
       "owner": "penecho",
       "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "stars": "1.5k",
-      "forks": "154",
+      "stars": "1.6k",
+      "forks": "169",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+149",
+      "starsToday": "+146",
       "topic": "Ai",
       "url": "https://github.com/penecho/penecho"
     },
@@ -59,15 +59,15 @@
       "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
       "owner": "MIgHTy-alIeN",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "1.4k",
-      "forks": "1.0k",
+      "stars": "1.5k",
+      "forks": "1.1k",
       "lang": "Solidity",
       "langColor": "#8b949e",
       "niche": [
         "General AI"
       ],
-      "trend": "new",
-      "starsToday": "+205",
+      "trend": "trending",
+      "starsToday": "+190",
       "topic": "Ai",
       "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
     },
@@ -84,7 +84,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+40",
+      "starsToday": "+38",
       "topic": "Ai",
       "url": "https://github.com/jmerelnyc/Talos"
     },
@@ -103,7 +103,7 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+60",
+      "starsToday": "+56",
       "topic": "Agenticops",
       "url": "https://github.com/William-Lu-stack/Flawless"
     },
@@ -112,7 +112,7 @@
       "name": "aipoch/open-science",
       "owner": "aipoch",
       "desc": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "stars": "569",
+      "stars": "672",
       "forks": "80",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -121,7 +121,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+27",
+      "starsToday": "+30",
       "topic": "Agent",
       "url": "https://github.com/aipoch/open-science"
     },
@@ -130,15 +130,15 @@
       "name": "bytedoger/awesome-OpenPrice",
       "owner": "bytedoger",
       "desc": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c",
-      "stars": "491",
-      "forks": "19",
+      "stars": "511",
+      "forks": "22",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+61",
+      "starsToday": "+56",
       "topic": "Ai",
       "url": "https://github.com/bytedoger/awesome-OpenPrice"
     },
@@ -147,8 +147,8 @@
       "name": "Alisa0808/vox-director",
       "owner": "Alisa0808",
       "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "stars": "418",
-      "forks": "53",
+      "stars": "430",
+      "forks": "54",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -157,7 +157,7 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+29",
+      "starsToday": "+28",
       "topic": "Ai",
       "url": "https://github.com/Alisa0808/vox-director"
     },
@@ -166,7 +166,7 @@
       "name": "bkingfilm/lapian-notes",
       "owner": "bkingfilm",
       "desc": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1aAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u62c9\u7247\u7b14\u8bb0\uff0c\u514d\u8d39\u5f00\u6e90\u5168\u672c\u5730 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
-      "stars": "417",
+      "stars": "418",
       "forks": "53",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -174,33 +174,16 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+24",
       "topic": "Ai",
       "url": "https://github.com/bkingfilm/lapian-notes"
     },
     {
       "rank": 11,
-      "name": "ik190/macos-chatgpt-overlay-bar",
-      "owner": "ik190",
-      "desc": "ChatGPT for Mac, living in your menubar.",
-      "stars": "410",
-      "forks": "22",
-      "lang": null,
-      "langColor": "#8b949e",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+14",
-      "topic": "Ai",
-      "url": "https://github.com/ik190/macos-chatgpt-overlay-bar"
-    },
-    {
-      "rank": 12,
       "name": "Brain0-ai/brain0",
       "owner": "Brain0-ai",
       "desc": "The black box for AI-written code. Passive decision graph linking every commit to the agent prompts behind it: drift detection, DLP audit of what agents read, evidence-driven risk, MCP memory for coding agents, signed provenance attestations. One command, offline by default.",
-      "stars": "399",
+      "stars": "398",
       "forks": "13",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -209,9 +192,26 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+18",
+      "starsToday": "+17",
       "topic": "Ai",
       "url": "https://github.com/Brain0-ai/brain0"
+    },
+    {
+      "rank": 12,
+      "name": "Kritt-ai/open-kritt",
+      "owner": "Kritt-ai",
+      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "stars": "391",
+      "forks": "79",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+78",
+      "topic": "Agent",
+      "url": "https://github.com/Kritt-ai/open-kritt"
     },
     {
       "rank": 13,
@@ -226,34 +226,17 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+42",
+      "starsToday": "+38",
       "topic": "Agent Skills",
       "url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
     },
     {
       "rank": 14,
-      "name": "Kritt-ai/open-kritt",
-      "owner": "Kritt-ai",
-      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "374",
-      "forks": "78",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "new",
-      "starsToday": "+93",
-      "topic": "Agent",
-      "url": "https://github.com/Kritt-ai/open-kritt"
-    },
-    {
-      "rank": 15,
       "name": "runvendo/vendo",
       "owner": "runvendo",
       "desc": "Embedded agents your customers use to automate work, build views, and connect their tools.",
-      "stars": "316",
-      "forks": "29",
+      "stars": "328",
+      "forks": "31",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -266,42 +249,42 @@
       "url": "https://github.com/runvendo/vendo"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "TencentCloud/Octop",
       "owner": "TencentCloud",
       "desc": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
-      "stars": "299",
-      "forks": "41",
+      "stars": "301",
+      "forks": "43",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+18",
+      "starsToday": "+17",
       "topic": "Agent",
       "url": "https://github.com/TencentCloud/Octop"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "KlaatAI/klaatcode",
       "owner": "KlaatAI",
       "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "stars": "287",
-      "forks": "106",
+      "stars": "290",
+      "forks": "107",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "LLMs",
         "Agents"
       ],
-      "trend": "new",
-      "starsToday": "+41",
+      "trend": "trending",
+      "starsToday": "+36",
       "topic": "Agentic Ai",
       "url": "https://github.com/KlaatAI/klaatcode"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "eli-labz/Godcoder",
       "owner": "eli-labz",
       "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
@@ -319,7 +302,7 @@
       "url": "https://github.com/eli-labz/Godcoder"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "EXXETA/exxperts",
       "owner": "EXXETA",
       "desc": "Persistent AI rooms with governed, approval-gated memory: local-first, on your machine.",
@@ -331,16 +314,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+13",
+      "starsToday": "+12",
       "topic": "Agents",
       "url": "https://github.com/EXXETA/exxperts"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "barretlee/agent-pulse",
       "owner": "barretlee",
       "desc": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "222",
+      "stars": "223",
       "forks": "25",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -350,16 +333,16 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+17",
+      "starsToday": "+15",
       "topic": "Ai",
       "url": "https://github.com/barretlee/agent-pulse"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "livetennisapi/livetennisapi-mcp",
       "owner": "livetennisapi",
       "desc": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
-      "stars": "205",
+      "stars": "213",
       "forks": "84",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
@@ -369,16 +352,16 @@
         "Data"
       ],
       "trend": "new",
-      "starsToday": "+34",
+      "starsToday": "+30",
       "topic": "Ai",
       "url": "https://github.com/livetennisapi/livetennisapi-mcp"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ohad6k/emulo",
       "owner": "ohad6k",
       "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "stars": "202",
+      "stars": "203",
       "forks": "17",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -387,16 +370,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+12",
+      "starsToday": "+11",
       "topic": "Agent Memory",
       "url": "https://github.com/ohad6k/emulo"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "Extraltodeus/J-Wash",
       "owner": "Extraltodeus",
       "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "194",
+      "stars": "197",
       "forks": "19",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -404,16 +387,33 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+17",
+      "starsToday": "+16",
       "topic": "Abliteration",
       "url": "https://github.com/Extraltodeus/J-Wash"
+    },
+    {
+      "rank": 23,
+      "name": "rollingSirius/equity-research-skill",
+      "owner": "rollingSirius",
+      "desc": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
+      "stars": "182",
+      "forks": "29",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+16",
+      "topic": "Agent Skills",
+      "url": "https://github.com/rollingSirius/equity-research-skill"
     },
     {
       "rank": 24,
       "name": "sums001/Deepseek-API",
       "owner": "sums001",
       "desc": "Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.",
-      "stars": "178",
+      "stars": "179",
       "forks": "34",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -428,37 +428,38 @@
     },
     {
       "rank": 25,
-      "name": "beany-vu/michi-vz-mono",
-      "owner": "beany-vu",
-      "desc": "D3 charts for React, Angular, Vue, Svelte & Web Components \u2014 SVG/Canvas/WebGPU & built-in devtools",
-      "stars": "172",
-      "forks": "0",
+      "name": "Prism-Shadow/penguin-harness",
+      "owner": "Prism-Shadow",
+      "desc": "\ud83d\udc27 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
+      "stars": "169",
+      "forks": "17",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+28",
+      "topic": "Agent",
+      "url": "https://github.com/Prism-Shadow/penguin-harness"
+    },
+    {
+      "rank": 26,
+      "name": "KORAYTEACHER/fintech-advisor",
+      "owner": "KORAYTEACHER",
+      "desc": "ai fintech financial advisor for your portfolio",
+      "stars": "167",
+      "forks": "1.2k",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+6",
+      "starsToday": "+10",
       "topic": "Ai",
-      "url": "https://github.com/beany-vu/michi-vz-mono"
-    },
-    {
-      "rank": 26,
-      "name": "rollingSirius/equity-research-skill",
-      "owner": "rollingSirius",
-      "desc": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
-      "stars": "167",
-      "forks": "28",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+16",
-      "topic": "Agent Skills",
-      "url": "https://github.com/rollingSirius/equity-research-skill"
+      "url": "https://github.com/KORAYTEACHER/fintech-advisor"
     },
     {
       "rank": 27,
@@ -476,29 +477,12 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+11",
+      "starsToday": "+10",
       "topic": "Agents",
       "url": "https://github.com/theteatoast/local-vuln-research-pipeline"
     },
     {
       "rank": 28,
-      "name": "KORAYTEACHER/fintech-advisor",
-      "owner": "KORAYTEACHER",
-      "desc": "ai fintech financial advisor for your portfolio",
-      "stars": "166",
-      "forks": "1.2k",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+11",
-      "topic": "Ai",
-      "url": "https://github.com/KORAYTEACHER/fintech-advisor"
-    },
-    {
-      "rank": 29,
       "name": "SilentFleetKK/ai-market-pulse",
       "owner": "SilentFleetKK",
       "desc": "Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
@@ -513,6 +497,23 @@
       "starsToday": "+10",
       "topic": "Ai",
       "url": "https://github.com/SilentFleetKK/ai-market-pulse"
+    },
+    {
+      "rank": 29,
+      "name": "syrizelink/OpenFic",
+      "owner": "syrizelink",
+      "desc": "\u4e13\u4e3a\u5c0f\u8bf4\u521b\u4f5c\u6253\u9020\u7684\u8de8\u5e73\u53f0\u3001\u7528\u6237\u53cb\u597d\u3001AI Native \u7684\u4e00\u7ad9\u5f0f Vibe Wrting \u5de5\u5177",
+      "stars": "154",
+      "forks": "21",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+5",
+      "topic": "Agent",
+      "url": "https://github.com/syrizelink/OpenFic"
     },
     {
       "rank": 30,
@@ -537,7 +538,7 @@
       "owner": "tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
       "stars": "196.5k",
-      "forks": "75.5k",
+      "forks": "75.6k",
       "lang": "C++",
       "langColor": "#f34b7d",
       "niche": [
@@ -553,7 +554,7 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "166.3k",
+      "stars": "166.4k",
       "forks": "21.5k",
       "lang": "HTML",
       "langColor": "#8b949e",
@@ -570,7 +571,7 @@
       "name": "huggingface/transformers",
       "owner": "huggingface",
       "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "stars": "162.9k",
+      "stars": "163.0k",
       "forks": "34.0k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -587,7 +588,7 @@
       "name": "pytorch/pytorch",
       "owner": "pytorch",
       "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": "101.9k",
+      "stars": "102.0k",
       "forks": "28.5k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -621,7 +622,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "88.5k",
+      "stars": "88.6k",
       "forks": "21.6k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -674,7 +675,7 @@
       "name": "tesseract-ocr/tesseract",
       "owner": "tesseract-ocr",
       "desc": "Tesseract Open Source OCR Engine (main repository)",
-      "stars": "75.5k",
+      "stars": "75.6k",
       "forks": "10.7k",
       "lang": "C++",
       "langColor": "#f34b7d",
@@ -743,7 +744,7 @@
       "name": "ultralytics/ultralytics",
       "owner": "ultralytics",
       "desc": "Ultralytics YOLO26, YOLO11, YOLOv8 \u2014 object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
-      "stars": "59.8k",
+      "stars": "59.9k",
       "forks": "11.4k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -797,7 +798,7 @@
       "name": "microsoft/AI-For-Beginners",
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "52.8k",
+      "stars": "52.9k",
       "forks": "10.7k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -832,7 +833,7 @@
       "owner": "roboflow",
       "desc": "We write your reusable computer vision tools. \ud83d\udc9c",
       "stars": "48.4k",
-      "forks": "4.4k",
+      "forks": "4.5k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -867,7 +868,7 @@
       "owner": "apache",
       "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
       "stars": "46.2k",
-      "forks": "17.4k",
+      "forks": "17.5k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [

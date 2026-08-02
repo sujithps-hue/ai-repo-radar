@@ -1,24 +1,23 @@
 {
-  "updated": "2026-08-01T02:05:17.639972",
+  "updated": "2026-08-02T02:01:50.740496",
   "count": 50,
   "repos": [
     {
       "rank": 1,
-      "name": "synthetic-sciences/openscience",
-      "owner": "synthetic-sciences",
-      "desc": "The open-source AI workbench for scientific research",
-      "stars": "3.0k",
-      "forks": "411",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "name": "MIgHTy-alIeN/Ethereum-Trading-Bot",
+      "owner": "MIgHTy-alIeN",
+      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "stars": "1.8k",
+      "forks": "1.3k",
+      "lang": "Solidity",
+      "langColor": "#8b949e",
       "niche": [
-        "LLMs",
-        "Agents"
+        "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+107",
-      "topic": "Agent",
-      "url": "https://github.com/synthetic-sciences/openscience"
+      "starsToday": "+122",
+      "topic": "Ai",
+      "url": "https://github.com/MIgHTy-alIeN/Ethereum-Trading-Bot"
     },
     {
       "rank": 2,
@@ -26,41 +25,24 @@
       "owner": "penecho",
       "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "stars": "1.8k",
-      "forks": "209",
+      "forks": "213",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+107",
+      "starsToday": "+102",
       "topic": "Ai",
       "url": "https://github.com/penecho/penecho"
     },
     {
       "rank": 3,
-      "name": "MIgHTy-alIeN/Ethereum-Flashloan-Mev-Bot",
-      "owner": "MIgHTy-alIeN",
-      "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "1.8k",
-      "forks": "1.2k",
-      "lang": "Solidity",
-      "langColor": "#8b949e",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+125",
-      "topic": "Ai",
-      "url": "https://github.com/MIgHTy-alIeN/Ethereum-Flashloan-Mev-Bot"
-    },
-    {
-      "rank": 4,
       "name": "Alisa0808/vox-director",
       "owner": "Alisa0808",
       "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "stars": "861",
-      "forks": "126",
+      "stars": "915",
+      "forks": "134",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -74,7 +56,7 @@
       "url": "https://github.com/Alisa0808/vox-director"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "William-Lu-stack/Flawless",
       "owner": "William-Lu-stack",
       "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
@@ -88,33 +70,33 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+40",
+      "starsToday": "+39",
       "topic": "Agenticops",
       "url": "https://github.com/William-Lu-stack/Flawless"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "TencentCloud/Octop",
       "owner": "TencentCloud",
       "desc": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
-      "stars": "605",
-      "forks": "83",
+      "stars": "615",
+      "forks": "85",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+25",
       "topic": "Agent",
       "url": "https://github.com/TencentCloud/Octop"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "bytedoger/awesome-OpenPrice",
       "owner": "bytedoger",
       "desc": "open price ,\u4e00\u4e2a\u5f00\u6e90\u7684\u6536\u5f55\u5168\u7f51\u5361\u7f51\u6e20\u9053\u5404\u79cdAI\u8ba2\u9605\u4ef7\u683c\u7684\u9879\u76ee\u3002\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u4e00\u7ad9\u5f0f\u83b7\u53d6\u5404\u4e2a\u6e20\u9053\u7684 Claude\u3001GPT\u3001gemini \u3001cursor\u4ea7\u54c1\u7684\u6700\u65b0\u4ef7\u683c\uff0c\u65b9\u4fbf\u6bd4\u4ef7",
-      "stars": "585",
+      "stars": "592",
       "forks": "26",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -122,16 +104,16 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+39",
+      "starsToday": "+37",
       "topic": "Ai",
       "url": "https://github.com/bytedoger/awesome-OpenPrice"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "0xwilliamortiz/openclaude-improved",
       "owner": "0xwilliamortiz",
       "desc": "runs anywhere. uses anything",
-      "stars": "563",
+      "stars": "566",
       "forks": "80",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -140,16 +122,16 @@
         "Agents"
       ],
       "trend": "new",
-      "starsToday": "+112",
+      "starsToday": "+94",
       "topic": "Agentic Ai",
       "url": "https://github.com/0xwilliamortiz/openclaude-improved"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "bkingfilm/lapian-notes",
       "owner": "bkingfilm",
       "desc": "AI \u8f85\u52a9\u7684\u7535\u5f71\u62c9\u7247\u5de5\u5177\uff1aAI \u62c6\u51fa\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74\u3001\u7ed3\u6784\u6811\u3001\u60c5\u7eea\u66f2\u7ebf\uff0c\u8fb9\u64ad\u8fb9\u5199\u62c9\u7247\u7b14\u8bb0\uff0c\u514d\u8d39\u5f00\u6e90\u5168\u672c\u5730 | AI-assisted film breakdown notebook: story-lane timeline, structure tree, emotion curve. Free, open source, fully local.",
-      "stars": "530",
+      "stars": "531",
       "forks": "64",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -157,24 +139,42 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+22",
       "topic": "Ai",
       "url": "https://github.com/bkingfilm/lapian-notes"
+    },
+    {
+      "rank": 9,
+      "name": "MemTensor/memmy-agent",
+      "owner": "MemTensor",
+      "desc": "\ud83c\udf59 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context \u2014 all AI remember the same you.",
+      "stars": "495",
+      "forks": "49",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+30",
+      "topic": "Agent",
+      "url": "https://github.com/MemTensor/memmy-agent"
     },
     {
       "rank": 10,
       "name": "Kritt-ai/open-kritt",
       "owner": "Kritt-ai",
       "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stars": "464",
-      "forks": "95",
+      "stars": "482",
+      "forks": "99",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+42",
+      "starsToday": "+40",
       "topic": "Agent",
       "url": "https://github.com/Kritt-ai/open-kritt"
     },
@@ -191,34 +191,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+25",
       "topic": "Agent Skills",
       "url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
     },
     {
       "rank": 12,
-      "name": "MemTensor/memmy-agent",
-      "owner": "MemTensor",
-      "desc": "\ud83c\udf59 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context \u2014 all AI remember the same you.",
-      "stars": "421",
-      "forks": "42",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+28",
-      "topic": "Agent",
-      "url": "https://github.com/MemTensor/memmy-agent"
-    },
-    {
-      "rank": 13,
       "name": "deerwork-ai/deer-workflow",
       "owner": "deerwork-ai",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "367",
+      "stars": "375",
       "forks": "29",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -227,12 +209,12 @@
         "Agents"
       ],
       "trend": "new",
-      "starsToday": "+73",
+      "starsToday": "+62",
       "topic": "Agent",
       "url": "https://github.com/deerwork-ai/deer-workflow"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "KlaatAI/klaatcode",
       "owner": "KlaatAI",
       "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
@@ -245,12 +227,12 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+25",
+      "starsToday": "+23",
       "topic": "Agentic Ai",
       "url": "https://github.com/KlaatAI/klaatcode"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "Paritok-official/paritok-4b-v1",
       "owner": "Paritok-official",
       "desc": "The first open-source compression model trained specifically for coding agents. 4B, Apache 2.0.",
@@ -263,17 +245,17 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+21",
+      "starsToday": "+20",
       "topic": "Agentic Coding",
       "url": "https://github.com/Paritok-official/paritok-4b-v1"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "gakonst/nanocodex",
       "owner": "gakonst",
       "desc": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": "334",
-      "forks": "29",
+      "stars": "336",
+      "forks": "31",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
@@ -281,12 +263,12 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+20",
+      "starsToday": "+19",
       "topic": "Ai",
       "url": "https://github.com/gakonst/nanocodex"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "avifenesh/memra",
       "owner": "avifenesh",
       "desc": "from-scratch LLM inference for RTX 5090 (sm_120a) and H100 (sm_90a)",
@@ -298,16 +280,16 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+11",
+      "starsToday": "+10",
       "topic": "Ai",
       "url": "https://github.com/avifenesh/memra"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "EXXETA/exxperts",
       "owner": "EXXETA",
       "desc": "Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered without your say-so, nothing leaves your machine.",
-      "stars": "285",
+      "stars": "288",
       "forks": "32",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -321,12 +303,12 @@
       "url": "https://github.com/EXXETA/exxperts"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "Prism-Shadow/penguin-harness",
       "owner": "Prism-Shadow",
-      "desc": "\ud83d\udc27 Automated Agent Builder on Your Desktop: Create Self-Evolving Agents in One Click",
-      "stars": "236",
-      "forks": "27",
+      "desc": "\ud83d\udc27 Automated Agent Builder. Use DeepSeek, Gemini to Create Self-Evolving Agents in One Click",
+      "stars": "242",
+      "forks": "29",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -334,9 +316,26 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+19",
+      "starsToday": "+18",
       "topic": "Agent",
       "url": "https://github.com/Prism-Shadow/penguin-harness"
+    },
+    {
+      "rank": 19,
+      "name": "starling-build/starling",
+      "owner": "starling-build",
+      "desc": "Starling \u2014 a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "stars": "231",
+      "forks": "14",
+      "lang": "Swift",
+      "langColor": "#8b949e",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "new",
+      "starsToday": "+57",
+      "topic": "Ai",
+      "url": "https://github.com/starling-build/starling"
     },
     {
       "rank": 20,
@@ -353,7 +352,7 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+11",
+      "starsToday": "+10",
       "topic": "Ai",
       "url": "https://github.com/barretlee/agent-pulse"
     },
@@ -362,7 +361,7 @@
       "name": "rollingSirius/equity-research-skill",
       "owner": "rollingSirius",
       "desc": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
-      "stars": "222",
+      "stars": "226",
       "forks": "36",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -370,12 +369,47 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+13",
+      "starsToday": "+12",
       "topic": "Agent Skills",
       "url": "https://github.com/rollingSirius/equity-research-skill"
     },
     {
       "rank": 22,
+      "name": "rengwu/chartr",
+      "owner": "rengwu",
+      "desc": "Agent multiplexer with map-charting capabilities",
+      "stars": "216",
+      "forks": "11",
+      "lang": "Go",
+      "langColor": "#00ADD8",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+19",
+      "topic": "Agent",
+      "url": "https://github.com/rengwu/chartr"
+    },
+    {
+      "rank": 23,
+      "name": "ohad6k/emulo",
+      "owner": "ohad6k",
+      "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+      "stars": "214",
+      "forks": "20",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+8",
+      "topic": "Agent Memory",
+      "url": "https://github.com/ohad6k/emulo"
+    },
+    {
+      "rank": 24,
       "name": "livetennisapi/livetennisapi-mcp",
       "owner": "livetennisapi",
       "desc": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
@@ -389,85 +423,33 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+16",
+      "starsToday": "+15",
       "topic": "Ai",
       "url": "https://github.com/livetennisapi/livetennisapi-mcp"
     },
     {
-      "rank": 23,
-      "name": "ohad6k/emulo",
-      "owner": "ohad6k",
-      "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
-      "stars": "213",
-      "forks": "20",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+9",
-      "topic": "Agent Memory",
-      "url": "https://github.com/ohad6k/emulo"
-    },
-    {
-      "rank": 24,
+      "rank": 25,
       "name": "Extraltodeus/J-Wash",
       "owner": "Extraltodeus",
       "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "203",
-      "forks": "19",
+      "stars": "204",
+      "forks": "20",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+11",
+      "starsToday": "+10",
       "topic": "Abliteration",
       "url": "https://github.com/Extraltodeus/J-Wash"
     },
     {
-      "rank": 25,
-      "name": "rengwu/chartr",
-      "owner": "rengwu",
-      "desc": "Agent multiplexer with map-charting capabilities",
-      "stars": "197",
-      "forks": "9",
-      "lang": "Go",
-      "langColor": "#00ADD8",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+19",
-      "topic": "Agent",
-      "url": "https://github.com/rengwu/chartr"
-    },
-    {
       "rank": 26,
-      "name": "starling-build/starling",
-      "owner": "starling-build",
-      "desc": "Starling \u2014 a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "185",
-      "forks": "9",
-      "lang": "Swift",
-      "langColor": "#8b949e",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+61",
-      "topic": "Ai",
-      "url": "https://github.com/starling-build/starling"
-    },
-    {
-      "rank": 27,
       "name": "flatkey-ai/flatkey-cli",
       "owner": "flatkey-ai",
       "desc": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
-      "stars": "185",
+      "stars": "201",
       "forks": "0",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
@@ -480,11 +462,46 @@
       "url": "https://github.com/flatkey-ai/flatkey-cli"
     },
     {
+      "rank": 27,
+      "name": "open-ribbi/velocut",
+      "owner": "open-ribbi",
+      "desc": "AI-native, local-first video editor by Ribbi \u2014 runs entirely in the browser. Rust/WASM engine, WebGPU compositing, WebCodecs export; humans and LLM agents edit through the same JSON command protocol.",
+      "stars": "181",
+      "forks": "0",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+7",
+      "topic": "Ai",
+      "url": "https://github.com/open-ribbi/velocut"
+    },
+    {
       "rank": 28,
+      "name": "tjakoen/bread",
+      "owner": "tjakoen",
+      "desc": "BREAD: one vocabulary, two operators. A no-build, AI-native web stack: batch (substrate) \u00b7 grain (design system) \u00b7 mill (CMS) \u00b7 proof (plan board) \u00b7 crumb (guided tours).",
+      "stars": "175",
+      "forks": "0",
+      "lang": "Shell",
+      "langColor": "#8b949e",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+7",
+      "topic": "Ai",
+      "url": "https://github.com/tjakoen/bread"
+    },
+    {
+      "rank": 29,
       "name": "ailinone/collective-intelligence",
       "owner": "ailinone",
       "desc": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-      "stars": "169",
+      "stars": "172",
       "forks": "11",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -493,12 +510,12 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+14",
+      "starsToday": "+13",
       "topic": "Ai",
       "url": "https://github.com/ailinone/collective-intelligence"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "theteatoast/local-vuln-research-pipeline",
       "owner": "theteatoast",
       "desc": "Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
@@ -518,29 +535,12 @@
       "url": "https://github.com/theteatoast/local-vuln-research-pipeline"
     },
     {
-      "rank": 30,
-      "name": "KORAYTEACHER/fintech-advisor",
-      "owner": "KORAYTEACHER",
-      "desc": "ai fintech financial advisor for your portfolio",
-      "stars": "165",
-      "forks": "1.1k",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+7",
-      "topic": "Ai",
-      "url": "https://github.com/KORAYTEACHER/fintech-advisor"
-    },
-    {
       "rank": 31,
       "name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
-      "stars": "196.6k",
-      "forks": "75.7k",
+      "stars": "196.7k",
+      "forks": "75.8k",
       "lang": "C++",
       "langColor": "#f34b7d",
       "niche": [
@@ -607,7 +607,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "100.2k",
+      "stars": "100.3k",
       "forks": "15.4k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -624,7 +624,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "88.8k",
+      "stars": "88.9k",
       "forks": "21.7k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -694,7 +694,7 @@
       "name": "OpenBB-finance/OpenBB",
       "owner": "OpenBB-finance",
       "desc": "Open Data Platform for analysts, quants and AI agents.",
-      "stars": "71.2k",
+      "stars": "71.3k",
       "forks": "7.3k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -780,10 +780,27 @@
     },
     {
       "rank": 45,
+      "name": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": "57.3k",
+      "forks": "11.3k",
+      "lang": "Jupyter Notebook",
+      "langColor": "#8b949e",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "trending",
+      "starsToday": "+28",
+      "topic": "Ai",
+      "url": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+      "rank": 46,
       "name": "deepfakes/faceswap",
       "owner": "deepfakes",
       "desc": "Deepfakes Software For All",
-      "stars": "57.0k",
+      "stars": "57.2k",
       "forks": "13.5k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -794,23 +811,6 @@
       "starsToday": "+18",
       "topic": "Deep Face Swap",
       "url": "https://github.com/deepfakes/faceswap"
-    },
-    {
-      "rank": 46,
-      "name": "microsoft/AI-For-Beginners",
-      "owner": "microsoft",
-      "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "55.4k",
-      "forks": "11.2k",
-      "lang": "Jupyter Notebook",
-      "langColor": "#8b949e",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+28",
-      "topic": "Ai",
-      "url": "https://github.com/microsoft/AI-For-Beginners"
     },
     {
       "rank": 47,
@@ -869,7 +869,7 @@
       "name": "apache/airflow",
       "owner": "apache",
       "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": "46.3k",
+      "stars": "46.4k",
       "forks": "17.5k",
       "lang": "Python",
       "langColor": "#3572A5",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:06:29.682640",
+  "updated": "2026-08-10T01:08:03.188391",
   "count": 50,
   "repos": [
     {
@@ -7,15 +7,15 @@
       "name": "MIgHTy-alIeN/ai-trader-bot",
       "owner": "MIgHTy-alIeN",
       "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "stars": "2.6k",
-      "forks": "1.8k",
+      "stars": "2.7k",
+      "forks": "1.9k",
       "lang": "Solidity",
       "langColor": "#8b949e",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+117",
+      "starsToday": "+116",
       "topic": "Ai",
       "url": "https://github.com/MIgHTy-alIeN/ai-trader-bot"
     },
@@ -24,15 +24,15 @@
       "name": "genspark-ai/genoffice",
       "owner": "genspark-ai",
       "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stars": "2.3k",
-      "forks": "389",
+      "stars": "2.4k",
+      "forks": "420",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+282",
+      "starsToday": "+262",
       "topic": "Ai",
       "url": "https://github.com/genspark-ai/genoffice"
     },
@@ -41,15 +41,15 @@
       "name": "Jakubantalik/thinking-orbs",
       "owner": "Jakubantalik",
       "desc": "Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light",
-      "stars": "2.1k",
-      "forks": "162",
+      "stars": "2.2k",
+      "forks": "170",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+117",
+      "starsToday": "+115",
       "topic": "Ai",
       "url": "https://github.com/Jakubantalik/thinking-orbs"
     },
@@ -59,14 +59,14 @@
       "owner": "penecho",
       "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "stars": "2.0k",
-      "forks": "233",
+      "forks": "237",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+78",
+      "starsToday": "+76",
       "topic": "Ai",
       "url": "https://github.com/penecho/penecho"
     },
@@ -74,17 +74,17 @@
       "rank": 5,
       "name": "Kritt-ai/open-kritt",
       "owner": "Kritt-ai",
-      "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "desc": "Open-source, self-hosted AI vulnerability research tool that orchestrates agents to find and validate security issues in code.",
       "stars": "1.6k",
-      "forks": "284",
+      "forks": "285",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+84",
-      "topic": "Agent",
+      "starsToday": "+81",
+      "topic": "Ai",
       "url": "https://github.com/Kritt-ai/open-kritt"
     },
     {
@@ -92,8 +92,8 @@
       "name": "Prism-Shadow/penguin-harness",
       "owner": "Prism-Shadow",
       "desc": "\ud83d\udc27 Automated Agent Builder. Create Self-Evolving Agents in One Click (DeepSeek/Kimi/GPT/Claude/Gemini)",
-      "stars": "1.0k",
-      "forks": "97",
+      "stars": "1.1k",
+      "forks": "103",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -110,8 +110,8 @@
       "name": "Paritok-official/paritok-4b-v1",
       "owner": "Paritok-official",
       "desc": "Non-destructive compression gateway for AI coding agents. Cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3\u00d7 more turns in the same context window. Powered by our open-source code-native 4B model. Drop-in for Claude Code, Cursor, Codex, OpenHands, and any BASE_URL agent.",
-      "stars": "906",
-      "forks": "113",
+      "stars": "917",
+      "forks": "114",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -119,7 +119,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+37",
+      "starsToday": "+36",
       "topic": "Agentic Coding",
       "url": "https://github.com/Paritok-official/paritok-4b-v1"
     },
@@ -128,7 +128,7 @@
       "name": "bytedoger/awesome-OpenPrice",
       "owner": "bytedoger",
       "desc": "\u5f00\u6e90\u7684 AI \u8ba2\u9605\u4ef7\u683c\u805a\u5408\u4e0e\u6bd4\u4ef7\u5e73\u53f0\uff0c\u6536\u5f55 ChatGPT\u3001Claude\u3001Gemini\u3001Grok\u3001Cursor \u7b49\u4ea7\u54c1\u7684\u5b98\u65b9\u8ba2\u9605\u4ef7\u683c\u548c\u5361\u7f51\u6e20\u9053\u62a5\u4ef7\uff0c\u5e2e\u52a9\u7528\u6237\u5feb\u901f\u67e5\u8be2\u5e76\u6bd4\u8f83\u4e0d\u540c\u8d2d\u4e70\u6e20\u9053\u3002",
-      "stars": "753",
+      "stars": "759",
       "forks": "43",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -136,7 +136,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+32",
+      "starsToday": "+31",
       "topic": "Ai",
       "url": "https://github.com/bytedoger/awesome-OpenPrice"
     },
@@ -145,8 +145,8 @@
       "name": "MemTensor/memmy-agent",
       "owner": "MemTensor",
       "desc": "\ud83c\udf59 A personal AI agent & local memory hub for all AI agents like Claude Code, Codex, OpenClaw and Hermes Agent. Gives every AI one shared, fully controlled memory  and persistent context \u2014 all AI remember the same you.",
-      "stars": "619",
-      "forks": "65",
+      "stars": "622",
+      "forks": "66",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -154,7 +154,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+25",
       "topic": "Agent",
       "url": "https://github.com/MemTensor/memmy-agent"
     },
@@ -172,7 +172,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+43",
+      "starsToday": "+40",
       "topic": "Agentic Ai",
       "url": "https://github.com/0xwilliamortiz/openclaude-improved"
     },
@@ -181,7 +181,7 @@
       "name": "yuwen-cool/yuwen-publish-precheck",
       "owner": "yuwen-cool",
       "desc": "\u53d1\u5e03\u524d\u5ba1\uff5c\u53d1\u6296\u97f3/\u5c0f\u7ea2\u4e66/\u89c6\u9891\u53f7\u524d\u5148\u8ba9 AI \u5ba1\u4e00\u904d\uff1a\u54ea\u53e5\u8e29\u7ebf\u3001\u4f9d\u636e\u54ea\u6761\u5b98\u65b9\u89c4\u5219\u3001\u7ed9\u80fd\u76f4\u63a5\u7528\u7684\u6539\u6cd5\u300238 \u7bc7\u771f\u5b9e\u6837\u672c\u6821\u51c6\u5224\u5b9a\u5c3a\u5ea6\uff0c72 \u6761\u5b98\u65b9\u539f\u6587\u5f15\u6587\u53ef\u67e5\u8bc1\uff0c\u4f60\u8e29\u8fc7\u7684\u5751\u6c89\u6dc0\u6210\u672c\u5730\u89c4\u5219\u5e93\u8d8a\u7528\u8d8a\u51c6\u3002\u4e0d\u627f\u8bfa\u8fc7\u5ba1\uff0c\u4e0d\u6559\u7ed5\u5ba1\u3002",
-      "stars": "453",
+      "stars": "455",
       "forks": "43",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -206,7 +206,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+33",
+      "starsToday": "+31",
       "topic": "Ai",
       "url": "https://github.com/vercel-labs/marketing-team-eve-template"
     },
@@ -224,7 +224,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+17",
+      "starsToday": "+16",
       "topic": "Agents",
       "url": "https://github.com/QuantumByteOSS/quantumbyte"
     },
@@ -233,8 +233,8 @@
       "name": "deerwork-ai/deer-workflow",
       "owner": "deerwork-ai",
       "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "407",
-      "forks": "36",
+      "stars": "412",
+      "forks": "38",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -242,7 +242,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+31",
+      "starsToday": "+29",
       "topic": "Agent",
       "url": "https://github.com/deerwork-ai/deer-workflow"
     },
@@ -251,8 +251,8 @@
       "name": "gakonst/nanocodex",
       "owner": "gakonst",
       "desc": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": "378",
-      "forks": "41",
+      "stars": "380",
+      "forks": "42",
       "lang": "Rust",
       "langColor": "#dea584",
       "niche": [
@@ -266,28 +266,10 @@
     },
     {
       "rank": 16,
-      "name": "KlaatAI/klaatcode",
-      "owner": "KlaatAI",
-      "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
-      "stars": "355",
-      "forks": "136",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+16",
-      "topic": "Agentic Ai",
-      "url": "https://github.com/KlaatAI/klaatcode"
-    },
-    {
-      "rank": 17,
       "name": "flatkey-ai/flatkey-cli",
       "owner": "flatkey-ai",
       "desc": "Flatkey media generation CLI for images, videos, audio, text, credits, and model discovery.",
-      "stars": "337",
+      "stars": "366",
       "forks": "0",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
@@ -300,11 +282,29 @@
       "url": "https://github.com/flatkey-ai/flatkey-cli"
     },
     {
+      "rank": 17,
+      "name": "KlaatAI/klaatcode",
+      "owner": "KlaatAI",
+      "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "stars": "355",
+      "forks": "136",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+15",
+      "topic": "Agentic Ai",
+      "url": "https://github.com/KlaatAI/klaatcode"
+    },
+    {
       "rank": 18,
       "name": "starling-build/starling",
       "owner": "starling-build",
       "desc": "Starling \u2014 a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "299",
+      "stars": "301",
       "forks": "17",
       "lang": "Swift",
       "langColor": "#8b949e",
@@ -312,16 +312,33 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+27",
+      "starsToday": "+25",
       "topic": "Ai",
       "url": "https://github.com/starling-build/starling"
     },
     {
       "rank": 19,
+      "name": "sequilade/tokentab",
+      "owner": "sequilade",
+      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "stars": "273",
+      "forks": "21",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+11",
+      "topic": "Ai",
+      "url": "https://github.com/sequilade/tokentab"
+    },
+    {
+      "rank": 20,
       "name": "rengwu/chartr",
       "owner": "rengwu",
       "desc": "Agent multiplexer with map-charting capabilities",
-      "stars": "265",
+      "stars": "269",
       "forks": "15",
       "lang": "Go",
       "langColor": "#00ADD8",
@@ -334,28 +351,11 @@
       "url": "https://github.com/rengwu/chartr"
     },
     {
-      "rank": 20,
-      "name": "sequilade/tokentab",
-      "owner": "sequilade",
-      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-      "stars": "257",
-      "forks": "20",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+11",
-      "topic": "Ai",
-      "url": "https://github.com/sequilade/tokentab"
-    },
-    {
       "rank": 21,
       "name": "rollingSirius/equity-research-skill",
       "owner": "rollingSirius",
       "desc": "\u53ef\u80fd\u662f\u6700\u6df1\u5ea6\u7684 AI \u6295\u7814\u62a5\u544a Skill\uff1a\u4e5d\u7ae0\u4e2a\u80a1\u6df1\u7814 + \u4e5d\u7ae0\u8d22\u62a5\u6df1\u5ea6\u5206\u6790\uff0c\u811a\u672c\u5316 DCF/EPV \u4e0e\u53ef\u590d\u7b97\u4f30\u503c",
-      "stars": "236",
+      "stars": "238",
       "forks": "38",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -369,29 +369,27 @@
     },
     {
       "rank": 22,
-      "name": "barretlee/agent-pulse",
-      "owner": "barretlee",
-      "desc": "Evidence-backed AI industry intelligence \u2014 trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stars": "231",
-      "forks": "25",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "name": "waiterve/wai-play",
+      "owner": "waiterve",
+      "desc": "WAI Play - AI web game testing and quality evaluation platform",
+      "stars": "230",
+      "forks": "8",
+      "lang": "Python",
+      "langColor": "#3572A5",
       "niche": [
-        "LLMs",
-        "Agents",
-        "Data"
+        "Agents"
       ],
-      "trend": "trending",
-      "starsToday": "+8",
+      "trend": "new",
+      "starsToday": "+46",
       "topic": "Ai",
-      "url": "https://github.com/barretlee/agent-pulse"
+      "url": "https://github.com/waiterve/wai-play"
     },
     {
       "rank": 23,
       "name": "Extraltodeus/J-Wash",
       "owner": "Extraltodeus",
       "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
-      "stars": "212",
+      "stars": "213",
       "forks": "21",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -399,7 +397,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+8",
+      "starsToday": "+7",
       "topic": "Abliteration",
       "url": "https://github.com/Extraltodeus/J-Wash"
     },
@@ -408,7 +406,7 @@
       "name": "hardrave/NIGHTRUN",
       "owner": "hardrave",
       "desc": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-      "stars": "202",
+      "stars": "205",
       "forks": "17",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -416,12 +414,29 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+16",
+      "starsToday": "+15",
       "topic": "Ai",
       "url": "https://github.com/hardrave/NIGHTRUN"
     },
     {
       "rank": 25,
+      "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+      "owner": "HELPMEEADICE",
+      "desc": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
+      "stars": "203",
+      "forks": "14",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "new",
+      "starsToday": "+33",
+      "topic": "Ai",
+      "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS"
+    },
+    {
+      "rank": 26,
       "name": "iishyfishyy/operator-oss",
       "owner": "iishyfishyy",
       "desc": "Run many Claude Code (or Codex) sessions in parallel \u2014 across every project \u2014 from one screen. Local-first, git-worktree-isolated tasks, no API key.",
@@ -438,7 +453,7 @@
       "url": "https://github.com/iishyfishyy/operator-oss"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "livetennisapi/livetennisapi-mcp",
       "owner": "livetennisapi",
       "desc": "MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
@@ -452,33 +467,16 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+9",
+      "starsToday": "+8",
       "topic": "Ai",
       "url": "https://github.com/livetennisapi/livetennisapi-mcp"
-    },
-    {
-      "rank": 27,
-      "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-      "owner": "HELPMEEADICE",
-      "desc": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
-      "stars": "188",
-      "forks": "13",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+37",
-      "topic": "Ai",
-      "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS"
     },
     {
       "rank": 28,
       "name": "ailinone/collective-intelligence",
       "owner": "ailinone",
       "desc": "Ailin\u00b9 is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
-      "stars": "184",
+      "stars": "185",
       "forks": "11",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -487,26 +485,26 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+9",
+      "starsToday": "+8",
       "topic": "Ai",
       "url": "https://github.com/ailinone/collective-intelligence"
     },
     {
       "rank": 29,
-      "name": "waiterve/wai-play",
-      "owner": "waiterve",
-      "desc": "WAI Play - AI web game testing and quality evaluation platform",
-      "stars": "184",
-      "forks": "6",
+      "name": "Aaryanverma/graybox",
+      "owner": "Aaryanverma",
+      "desc": "A local-first, long-term memory for anything you'd otherwise forget.",
+      "stars": "182",
+      "forks": "13",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
-        "Agents"
+        "General AI"
       ],
-      "trend": "new",
-      "starsToday": "+46",
+      "trend": "trending",
+      "starsToday": "+13",
       "topic": "Ai",
-      "url": "https://github.com/waiterve/wai-play"
+      "url": "https://github.com/Aaryanverma/graybox"
     },
     {
       "rank": 30,
@@ -521,7 +519,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+16",
+      "starsToday": "+14",
       "topic": "Ai",
       "url": "https://github.com/arcships/aimux"
     },
@@ -531,7 +529,7 @@
       "owner": "tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
       "stars": "196.9k",
-      "forks": "75.9k",
+      "forks": "76.0k",
       "lang": "C++",
       "langColor": "#f34b7d",
       "niche": [
@@ -565,7 +563,7 @@
       "owner": "huggingface",
       "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "stars": "163.5k",
-      "forks": "34.1k",
+      "forks": "34.2k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -598,7 +596,7 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "101.5k",
+      "stars": "102.1k",
       "forks": "15.6k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -668,8 +666,8 @@
       "name": "OpenBB-finance/OpenBB",
       "owner": "OpenBB-finance",
       "desc": "Open Data Platform for analysts, quants and AI agents.",
-      "stars": "71.6k",
-      "forks": "7.3k",
+      "stars": "71.7k",
+      "forks": "7.4k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -720,8 +718,8 @@
       "name": "microsoft/AI-For-Beginners",
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "63.6k",
-      "forks": "12.3k",
+      "stars": "64.0k",
+      "forks": "12.4k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
       "niche": [
@@ -772,7 +770,7 @@
       "owner": "roboflow",
       "desc": "We write your reusable computer vision tools. \ud83d\udc9c",
       "stars": "49.2k",
-      "forks": "4.6k",
+      "forks": "4.7k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -841,7 +839,7 @@
       "name": "rohitg00/ai-engineering-from-scratch",
       "owner": "rohitg00",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "46.3k",
+      "stars": "46.4k",
       "forks": "8.0k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -850,7 +848,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+323",
+      "starsToday": "+322",
       "topic": "Agents",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },

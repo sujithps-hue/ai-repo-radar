@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T00:50:12.474393",
+  "updated": "2026-08-25T00:49:46.203537",
   "count": 50,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "name": "guillaumemeyer/watermarks-remover",
       "owner": "guillaumemeyer",
       "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "stars": "17.4k",
-      "forks": "2.0k",
+      "stars": "17.9k",
+      "forks": "2.1k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -17,7 +17,7 @@
         "Data"
       ],
       "trend": "hot",
-      "starsToday": "+1453",
+      "starsToday": "+1377",
       "topic": "Agent Skill",
       "url": "https://github.com/guillaumemeyer/watermarks-remover"
     },
@@ -26,7 +26,7 @@
       "name": "yc-software/qm",
       "owner": "yc-software",
       "desc": "Multiplayer agent harness for work.",
-      "stars": "14.1k",
+      "stars": "14.2k",
       "forks": "1.7k",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -34,7 +34,7 @@
         "Agents"
       ],
       "trend": "hot",
-      "starsToday": "+564",
+      "starsToday": "+544",
       "topic": "Ai",
       "url": "https://github.com/yc-software/qm"
     },
@@ -43,15 +43,15 @@
       "name": "genspark-ai/genoffice",
       "owner": "genspark-ai",
       "desc": "Free, open-source AI office suite for macOS, Windows & Linux \u2014 Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
-      "stars": "3.5k",
-      "forks": "590",
+      "stars": "3.6k",
+      "forks": "600",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+154",
+      "starsToday": "+148",
       "topic": "Ai",
       "url": "https://github.com/genspark-ai/genoffice"
     },
@@ -61,14 +61,14 @@
       "owner": "ShawnPana",
       "desc": "let your agent control your phone",
       "stars": "2.0k",
-      "forks": "184",
+      "forks": "186",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+124",
+      "starsToday": "+117",
       "topic": "Agent",
       "url": "https://github.com/ShawnPana/phone-harness"
     },
@@ -77,8 +77,8 @@
       "name": "fuxicodex/Fuxi",
       "owner": "fuxicodex",
       "desc": "FuXi is a fast, self-contained AI coding agent that lives in your terminal \u2014 edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
-      "stars": "1.9k",
-      "forks": "59",
+      "stars": "2.0k",
+      "forks": "62",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -95,15 +95,15 @@
       "name": "vercel-labs/eve-software-factory-template",
       "owner": "vercel-labs",
       "desc": "Meet Foreman, an eve Software Factory.",
-      "stars": "993",
-      "forks": "62",
+      "stars": "997",
+      "forks": "64",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+90",
+      "starsToday": "+83",
       "topic": "Agent",
       "url": "https://github.com/vercel-labs/eve-software-factory-template"
     },
@@ -112,8 +112,8 @@
       "name": "0xsline/awesome-deepseek-harness",
       "owner": "0xsline",
       "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "stars": "856",
-      "forks": "318",
+      "stars": "886",
+      "forks": "322",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -121,7 +121,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+71",
+      "starsToday": "+68",
       "topic": "Agent",
       "url": "https://github.com/0xsline/awesome-deepseek-harness"
     },
@@ -138,7 +138,7 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+55",
+      "starsToday": "+51",
       "topic": "Ai",
       "url": "https://github.com/fromleda/text-humanizer"
     },
@@ -147,7 +147,7 @@
       "name": "pgrundev/pgbot",
       "owner": "pgrundev",
       "desc": "Postgres intelligence for ai agents & apps",
-      "stars": "594",
+      "stars": "603",
       "forks": "30",
       "lang": "Go",
       "langColor": "#00ADD8",
@@ -156,7 +156,7 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+49",
+      "starsToday": "+46",
       "topic": "Ai",
       "url": "https://github.com/pgrundev/pgbot"
     },
@@ -165,7 +165,7 @@
       "name": "DrHazemAli/enterprise-system-design",
       "owner": "DrHazemAli",
       "desc": "A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
-      "stars": "573",
+      "stars": "576",
       "forks": "118",
       "lang": null,
       "langColor": "#8b949e",
@@ -173,7 +173,7 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+52",
+      "starsToday": "+48",
       "topic": "Ai",
       "url": "https://github.com/DrHazemAli/enterprise-system-design"
     },
@@ -182,55 +182,37 @@
       "name": "bawadou/ai-data-extractor",
       "owner": "bawadou",
       "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "stars": "542",
-      "forks": "99",
+      "stars": "544",
+      "forks": "100",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Data"
       ],
-      "trend": "new",
-      "starsToday": "+77",
+      "trend": "trending",
+      "starsToday": "+68",
       "topic": "Ai",
       "url": "https://github.com/bawadou/ai-data-extractor"
     },
     {
       "rank": 12,
-      "name": "deerwork-ai/deer-workflow",
-      "owner": "deerwork-ai",
-      "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stars": "486",
-      "forks": "52",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "name": "fuxiaoai/tidings-rss",
+      "owner": "fuxiaoai",
+      "desc": "Curated, live-verified OPML collections for AI, news, research, blogs, videos, podcasts, and engineering.",
+      "stars": "346",
+      "forks": "22",
+      "lang": "Python",
+      "langColor": "#3572A5",
       "niche": [
-        "LLMs",
-        "Agents"
+        "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+17",
-      "topic": "Agent",
-      "url": "https://github.com/deerwork-ai/deer-workflow"
+      "starsToday": "+12",
+      "topic": "Ai",
+      "url": "https://github.com/fuxiaoai/tidings-rss"
     },
     {
       "rank": 13,
-      "name": "vercel-labs/marketing-team-eve-template",
-      "owner": "vercel-labs",
-      "desc": "Team of marketing agents built on eve.",
-      "stars": "453",
-      "forks": "23",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+16",
-      "topic": "Ai",
-      "url": "https://github.com/vercel-labs/marketing-team-eve-template"
-    },
-    {
-      "rank": 14,
       "name": "i3T4AN/KADATH",
       "owner": "i3T4AN",
       "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
@@ -243,33 +225,16 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+22",
+      "starsToday": "+21",
       "topic": "Agent Evaluation Tools",
       "url": "https://github.com/i3T4AN/KADATH"
     },
     {
-      "rank": 15,
-      "name": "fuxiaoai/tidings-rss",
-      "owner": "fuxiaoai",
-      "desc": "Curated, live-verified OPML collections for AI, news, research, blogs, videos, podcasts, and engineering.",
-      "stars": "339",
-      "forks": "22",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+13",
-      "topic": "Ai",
-      "url": "https://github.com/fuxiaoai/tidings-rss"
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "name": "starling-build/starling",
       "owner": "starling-build",
       "desc": "Starling \u2014 a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
-      "stars": "331",
+      "stars": "332",
       "forks": "18",
       "lang": "Swift",
       "langColor": "#8b949e",
@@ -282,11 +247,29 @@
       "url": "https://github.com/starling-build/starling"
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "name": "NomaDamas/CozyClay",
+      "owner": "NomaDamas",
+      "desc": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
+      "stars": "316",
+      "forks": "43",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+11",
+      "topic": "3D",
+      "url": "https://github.com/NomaDamas/CozyClay"
+    },
+    {
+      "rank": 16,
       "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
       "owner": "HELPMEEADICE",
       "desc": "MiniMax-H3\u8d85\u7ea7\u7f13\u5b58\u52a0\u901f\u63d2\u4ef6",
-      "stars": "269",
+      "stars": "273",
       "forks": "17",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -299,12 +282,12 @@
       "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "sam70361/emotion-ball",
       "owner": "sam70361",
       "desc": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
-      "stars": "244",
-      "forks": "26",
+      "stars": "266",
+      "forks": "27",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
@@ -312,29 +295,29 @@
         "Agents"
       ],
       "trend": "new",
-      "starsToday": "+48",
+      "starsToday": "+44",
       "topic": "Ai",
       "url": "https://github.com/sam70361/emotion-ball"
     },
     {
-      "rank": 19,
-      "name": "Aaryanverma/graybox",
-      "owner": "Aaryanverma",
-      "desc": "A local-first, long-term memory for anything you'd otherwise forget.",
-      "stars": "227",
-      "forks": "17",
-      "lang": "Python",
-      "langColor": "#3572A5",
+      "rank": 18,
+      "name": "xbsheng/atguigu-note",
+      "owner": "xbsheng",
+      "desc": "\u5c1a\u7845\u8c37 AI \u8bfe\u7a0b\u7b14\u8bb0",
+      "stars": "230",
+      "forks": "119",
+      "lang": "Jupyter Notebook",
+      "langColor": "#8b949e",
       "niche": [
-        "General AI"
+        "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+8",
-      "topic": "Ai",
-      "url": "https://github.com/Aaryanverma/graybox"
+      "starsToday": "+9",
+      "topic": "Agent",
+      "url": "https://github.com/xbsheng/atguigu-note"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "wzchav/tokentab",
       "owner": "wzchav",
       "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
@@ -346,16 +329,16 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+20",
+      "starsToday": "+18",
       "topic": "Ai",
       "url": "https://github.com/wzchav/tokentab"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "hardrave/NIGHTRUN",
       "owner": "hardrave",
       "desc": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
-      "stars": "224",
+      "stars": "225",
       "forks": "19",
       "lang": "Rust",
       "langColor": "#dea584",
@@ -368,42 +351,24 @@
       "url": "https://github.com/hardrave/NIGHTRUN"
     },
     {
+      "rank": 21,
+      "name": "NxcoreAI/EverRoom",
+      "owner": "NxcoreAI",
+      "desc": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
+      "stars": "200",
+      "forks": "5",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+20",
+      "topic": "Ai",
+      "url": "https://github.com/NxcoreAI/EverRoom"
+    },
+    {
       "rank": 22,
-      "name": "xbsheng/atguigu-note",
-      "owner": "xbsheng",
-      "desc": "\u5c1a\u7845\u8c37 AI \u8bfe\u7a0b\u7b14\u8bb0",
-      "stars": "221",
-      "forks": "112",
-      "lang": "Jupyter Notebook",
-      "langColor": "#8b949e",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+9",
-      "topic": "Agent",
-      "url": "https://github.com/xbsheng/atguigu-note"
-    },
-    {
-      "rank": 23,
-      "name": "NomaDamas/CozyClay",
-      "owner": "NomaDamas",
-      "desc": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
-      "stars": "217",
-      "forks": "26",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+8",
-      "topic": "3D",
-      "url": "https://github.com/NomaDamas/CozyClay"
-    },
-    {
-      "rank": 24,
       "name": "arcships/aimux",
       "owner": "arcships",
       "desc": "Unified LLM access layer in Rust \u2014 one API for 325 AI providers. \u7edf\u4e00 LLM \u670d\u52a1\u63a5\u5165\u5c42\uff1a\u4e00\u5957 API \u63a5\u5165 325 \u5bb6 AI \u670d\u52a1\u5546\u3002",
@@ -415,33 +380,16 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+7",
+      "starsToday": "+6",
       "topic": "Ai",
       "url": "https://github.com/arcships/aimux"
     },
     {
-      "rank": 25,
-      "name": "NxcoreAI/EverRoom",
-      "owner": "NxcoreAI",
-      "desc": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
-      "stars": "179",
-      "forks": "1",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+19",
-      "topic": "Ai",
-      "url": "https://github.com/NxcoreAI/EverRoom"
-    },
-    {
-      "rank": 26,
+      "rank": 23,
       "name": "activeing123/mcptoon",
       "owner": "activeing123",
       "desc": "Token-efficient MCP CLI. 99.9% less tokens on tool discovery. Zero deps. Cross-platform. Works with every AI agent.",
-      "stars": "178",
+      "stars": "181",
       "forks": "7",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -455,11 +403,11 @@
       "url": "https://github.com/activeing123/mcptoon"
     },
     {
-      "rank": 27,
+      "rank": 24,
       "name": "margelo/ai-chat-demo",
       "owner": "margelo",
       "desc": " A ChatGPT-style mobile chat app in React Native with context about Margelo",
-      "stars": "176",
+      "stars": "178",
       "forks": "18",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -467,12 +415,29 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+9",
+      "starsToday": "+8",
       "topic": "Ai",
       "url": "https://github.com/margelo/ai-chat-demo"
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "name": "zachahn/vomit",
+      "owner": "zachahn",
+      "desc": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
+      "stars": "168",
+      "forks": "5",
+      "lang": "Go",
+      "langColor": "#00ADD8",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "trending",
+      "starsToday": "+18",
+      "topic": "Ai",
+      "url": "https://github.com/zachahn/vomit"
+    },
+    {
+      "rank": 26,
       "name": "AdrianBesleaga/AIFA",
       "owner": "AdrianBesleaga",
       "desc": "AI Atomic Feature Architecture",
@@ -484,16 +449,16 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+9",
+      "starsToday": "+8",
       "topic": "Ai",
       "url": "https://github.com/AdrianBesleaga/AIFA"
     },
     {
-      "rank": 29,
+      "rank": 27,
       "name": "kasturikhanke/generative-loaders",
       "owner": "kasturikhanke",
       "desc": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
-      "stars": "162",
+      "stars": "163",
       "forks": "8",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -506,28 +471,62 @@
       "url": "https://github.com/kasturikhanke/generative-loaders"
     },
     {
-      "rank": 30,
-      "name": "zachahn/vomit",
-      "owner": "zachahn",
-      "desc": "Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless",
-      "stars": "158",
-      "forks": "5",
+      "rank": 28,
+      "name": "pulseaiclub/phi",
+      "owner": "pulseaiclub",
+      "desc": "a coding Agent from pi. \u221e providers, sub-agents, hashline edits, and a permission gate",
+      "stars": "149",
+      "forks": "9",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
-        "LLMs"
+        "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+19",
+      "starsToday": "+7",
       "topic": "Ai",
-      "url": "https://github.com/zachahn/vomit"
+      "url": "https://github.com/pulseaiclub/phi"
+    },
+    {
+      "rank": 29,
+      "name": "AlgoNoRhythm/Flare",
+      "owner": "AlgoNoRhythm",
+      "desc": "The graph based agentic IDE",
+      "stars": "148",
+      "forks": "24",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+6",
+      "topic": "Agent",
+      "url": "https://github.com/AlgoNoRhythm/Flare"
+    },
+    {
+      "rank": 30,
+      "name": "GOROman/vibewatch",
+      "owner": "GOROman",
+      "desc": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+      "stars": "140",
+      "forks": "7",
+      "lang": "C++",
+      "langColor": "#f34b7d",
+      "niche": [
+        "General AI"
+      ],
+      "trend": "trending",
+      "starsToday": "+8",
+      "topic": "Ai",
+      "url": "https://github.com/GOROman/vibewatch"
     },
     {
       "rank": 31,
       "name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
-      "stars": "197.4k",
+      "stars": "197.6k",
       "forks": "76.1k",
       "lang": "C++",
       "langColor": "#f34b7d",
@@ -544,7 +543,7 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "167.8k",
+      "stars": "167.9k",
       "forks": "21.7k",
       "lang": "HTML",
       "langColor": "#8b949e",
@@ -578,8 +577,8 @@
       "name": "rasbt/LLMs-from-scratch",
       "owner": "rasbt",
       "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "stars": "103.6k",
-      "forks": "15.8k",
+      "stars": "103.7k",
+      "forks": "15.9k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
       "niche": [
@@ -612,8 +611,8 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "89.7k",
-      "forks": "22.0k",
+      "stars": "89.8k",
+      "forks": "22.1k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
       "niche": [
@@ -648,7 +647,7 @@
       "name": "tesseract-ocr/tesseract",
       "owner": "tesseract-ocr",
       "desc": "Tesseract Open Source OCR Engine (main repository)",
-      "stars": "76.1k",
+      "stars": "76.2k",
       "forks": "10.8k",
       "lang": "C++",
       "langColor": "#f34b7d",
@@ -683,7 +682,7 @@
       "name": "scikit-learn/scikit-learn",
       "owner": "scikit-learn",
       "desc": "scikit-learn: machine learning in Python",
-      "stars": "67.0k",
+      "stars": "67.1k",
       "forks": "27.3k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -785,8 +784,8 @@
       "name": "rohitg00/ai-engineering-from-scratch",
       "owner": "rohitg00",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "47.9k",
-      "forks": "8.4k",
+      "stars": "48.3k",
+      "forks": "8.5k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -838,7 +837,7 @@
       "name": "paperless-ngx/paperless-ngx",
       "owner": "paperless-ngx",
       "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": "44.5k",
+      "stars": "44.6k",
       "forks": "3.1k",
       "lang": "Python",
       "langColor": "#3572A5",

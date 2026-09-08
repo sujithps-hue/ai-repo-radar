@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:10:49.334538",
+  "updated": "2026-09-08T02:22:59.702392",
   "count": 50,
   "repos": [
     {
@@ -7,7 +7,7 @@
       "name": "guillaumemeyer/watermarks-remover",
       "owner": "guillaumemeyer",
       "desc": "A privacy-first app that strips AI watermarks from content you own.",
-      "stars": "21.0k",
+      "stars": "21.2k",
       "forks": "2.4k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -16,26 +16,26 @@
         "Agents"
       ],
       "trend": "hot",
-      "starsToday": "+808",
+      "starsToday": "+787",
       "topic": "Agent Skill",
       "url": "https://github.com/guillaumemeyer/watermarks-remover"
     },
     {
       "rank": 2,
-      "name": "damejan80/tokentab",
-      "owner": "damejan80",
-      "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "name": "pierrenade/short-video-generator-AI",
+      "owner": "pierrenade",
+      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "stars": "1.2k",
-      "forks": "213",
+      "forks": "159",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "General AI"
       ],
-      "trend": "trending",
-      "starsToday": "+116",
+      "trend": "new",
+      "starsToday": "+589",
       "topic": "Ai",
-      "url": "https://github.com/damejan80/tokentab"
+      "url": "https://github.com/pierrenade/short-video-generator-AI"
     },
     {
       "rank": 3,
@@ -50,17 +50,17 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+44",
+      "starsToday": "+42",
       "topic": "Agent",
       "url": "https://github.com/vercel-labs/eve-software-factory-template"
     },
     {
       "rank": 4,
-      "name": "0xsline/awesome-deepseek-harness",
-      "owner": "0xsline",
-      "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "name": "2akouwu/reverify",
+      "owner": "2akouwu",
+      "desc": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
       "stars": "1.0k",
-      "forks": "371",
+      "forks": "214",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -68,17 +68,35 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+38",
+      "starsToday": "+127",
+      "topic": "Ai",
+      "url": "https://github.com/2akouwu/reverify"
+    },
+    {
+      "rank": 5,
+      "name": "0xsline/awesome-deepseek-harness",
+      "owner": "0xsline",
+      "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "stars": "1.0k",
+      "forks": "373",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+37",
       "topic": "Agent",
       "url": "https://github.com/0xsline/awesome-deepseek-harness"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "pgrundev/pgbot",
       "owner": "pgrundev",
       "desc": "Postgres intelligence for ai agents & apps",
-      "stars": "983",
-      "forks": "48",
+      "stars": "1.0k",
+      "forks": "49",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
@@ -91,47 +109,30 @@
       "url": "https://github.com/pgrundev/pgbot"
     },
     {
-      "rank": 6,
-      "name": "2akouwu/reverify",
-      "owner": "2akouwu",
-      "desc": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
-      "stars": "967",
-      "forks": "208",
+      "rank": 7,
+      "name": "xzf-thu/VoiceMem",
+      "owner": "xzf-thu",
+      "desc": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
+      "stars": "931",
+      "forks": "77",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs",
         "Agents"
       ],
-      "trend": "new",
-      "starsToday": "+138",
+      "trend": "trending",
+      "starsToday": "+44",
       "topic": "Ai",
-      "url": "https://github.com/2akouwu/reverify"
-    },
-    {
-      "rank": 7,
-      "name": "pierrenade/short-video-generator-AI",
-      "owner": "pierrenade",
-      "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stars": "914",
-      "forks": "154",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+914",
-      "topic": "Ai",
-      "url": "https://github.com/pierrenade/short-video-generator-AI"
+      "url": "https://github.com/xzf-thu/VoiceMem"
     },
     {
       "rank": 8,
       "name": "NxcoreAI/EverRoom",
       "owner": "NxcoreAI",
       "desc": "EverRoom - A workspace that remembers your projects, decisions, and sources.",
-      "stars": "876",
-      "forks": "108",
+      "stars": "922",
+      "forks": "116",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -144,28 +145,27 @@
     },
     {
       "rank": 9,
-      "name": "xzf-thu/VoiceMem",
-      "owner": "xzf-thu",
-      "desc": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
-      "stars": "828",
-      "forks": "72",
-      "lang": "Python",
-      "langColor": "#3572A5",
+      "name": "aminkheddache-dotcom/Ptero",
+      "owner": "aminkheddache-dotcom",
+      "desc": "AI Chat with powerful models for free",
+      "stars": "789",
+      "forks": "5",
+      "lang": "PHP",
+      "langColor": "#8b949e",
       "niche": [
-        "LLMs",
-        "Agents"
+        "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+41",
+      "starsToday": "+39",
       "topic": "Ai",
-      "url": "https://github.com/xzf-thu/VoiceMem"
+      "url": "https://github.com/aminkheddache-dotcom/Ptero"
     },
     {
       "rank": 10,
       "name": "fromleda/text-humanizer",
       "owner": "fromleda",
       "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
-      "stars": "740",
+      "stars": "742",
       "forks": "249",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -173,33 +173,16 @@
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+27",
+      "starsToday": "+26",
       "topic": "Ai",
       "url": "https://github.com/fromleda/text-humanizer"
     },
     {
       "rank": 11,
-      "name": "aminkheddache-dotcom/Ptero",
-      "owner": "aminkheddache-dotcom",
-      "desc": "AI Chat with powerful models for free",
-      "stars": "654",
-      "forks": "3",
-      "lang": "PHP",
-      "langColor": "#8b949e",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "trending",
-      "starsToday": "+34",
-      "topic": "Ai",
-      "url": "https://github.com/aminkheddache-dotcom/Ptero"
-    },
-    {
-      "rank": 12,
       "name": "hkqr/my-free-code",
       "owner": "hkqr",
       "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "626",
+      "stars": "629",
       "forks": "211",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -208,12 +191,12 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+62",
+      "starsToday": "+57",
       "topic": "Ai",
       "url": "https://github.com/hkqr/my-free-code"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "DrHazemAli/enterprise-system-design",
       "owner": "DrHazemAli",
       "desc": "A source-grounded course and architectural reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
@@ -225,12 +208,12 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+22",
       "topic": "Ai",
       "url": "https://github.com/DrHazemAli/enterprise-system-design"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "bawadou/ai-data-extractor",
       "owner": "bawadou",
       "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
@@ -242,34 +225,33 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+26",
+      "starsToday": "+25",
       "topic": "Ai",
       "url": "https://github.com/bawadou/ai-data-extractor"
     },
     {
-      "rank": 15,
-      "name": "Prysai/Prysai-LLM-Playbook",
-      "owner": "Prysai",
-      "desc": "An evidence-led, eight-locale LLM playbook: a transferable core, the Codex flagship track, and adapters for ChatGPT, Claude Code, Gemini, DeepSeek, and Grok.",
-      "stars": "433",
-      "forks": "7",
-      "lang": "Python",
-      "langColor": "#3572A5",
+      "rank": 14,
+      "name": "Sidiora-Labs/LayerX-Network",
+      "owner": "Sidiora-Labs",
+      "desc": "LayerX Network is a deterministic execution and accounting network for autonomous agents.",
+      "stars": "383",
+      "forks": "72",
+      "lang": "Go",
+      "langColor": "#00ADD8",
       "niche": [
-        "LLMs",
         "Agents"
       ],
       "trend": "trending",
       "starsToday": "+15",
-      "topic": "Agent Workflows",
-      "url": "https://github.com/Prysai/Prysai-LLM-Playbook"
+      "topic": "Agent",
+      "url": "https://github.com/Sidiora-Labs/LayerX-Network"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "sam70361/aora-bot",
       "owner": "sam70361",
       "desc": "Emotion Ball \u662f\u4e00\u5957\u9762\u5411 AI \u52a9\u624b\u7684\u8868\u60c5\u5f15\u64ce:32 \u79cd\u72b6\u6001\u8868\u60c5\u5168\u90e8\u7531\u7eaf SVG \u4e0e\u539f\u751f JavaScript \u5b9e\u65f6\u9a71\u52a8,\u96f6\u6846\u67b6\u3001\u96f6\u56fe\u7247\u8d44\u6e90\u3002AI \u4fa7\u53ea\u9700\u8f93\u51fa\u4e00\u4e2a emotionId,\u5c0f\u7403\u5373\u53ef\u5207\u6362\u5230\u5bf9\u5e94\u8868\u60c5,\u53ef\u76f4\u63a5\u7528\u4f5c\u804a\u5929\u673a\u5668\u4eba\u3001\u684c\u9762\u5ba0\u7269\u3001\u60ac\u6d6e\u52a9\u624b\u7684\u60c5\u7eea\u8868\u8fbe\u5c42\u3002",
-      "stars": "346",
+      "stars": "348",
       "forks": "43",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
@@ -278,33 +260,50 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+18",
+      "starsToday": "+17",
       "topic": "Ai",
       "url": "https://github.com/sam70361/aora-bot"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "tabtin-ai/TabTin",
       "owner": "tabtin-ai",
       "desc": "A workspace where people and multiple AI agents work together.",
-      "stars": "306",
-      "forks": "73",
+      "stars": "322",
+      "forks": "82",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+17",
+      "starsToday": "+16",
       "topic": "Agents",
       "url": "https://github.com/tabtin-ai/TabTin"
+    },
+    {
+      "rank": 17,
+      "name": "Merit-Systems/OpenInstinct",
+      "owner": "Merit-Systems",
+      "desc": "iMessage personal assistant + password vault",
+      "stars": "290",
+      "forks": "39",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+22",
+      "topic": "Agent",
+      "url": "https://github.com/Merit-Systems/OpenInstinct"
     },
     {
       "rank": 18,
       "name": "useagenthq/useagent",
       "owner": "useagenthq",
       "desc": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "stars": "283",
+      "stars": "284",
       "forks": "58",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -314,34 +313,34 @@
         "Cloud"
       ],
       "trend": "trending",
-      "starsToday": "+35",
+      "starsToday": "+31",
       "topic": "Agents",
       "url": "https://github.com/useagenthq/useagent"
     },
     {
       "rank": 19,
-      "name": "Merit-Systems/OpenInstinct",
-      "owner": "Merit-Systems",
-      "desc": "iMessage personal assistant + password vault",
-      "stars": "282",
-      "forks": "37",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
+      "name": "Dpro-at/Tel-Agent",
+      "owner": "Dpro-at",
+      "desc": "AI phone assistant | open-source ",
+      "stars": "249",
+      "forks": "66",
+      "lang": "Python",
+      "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+23",
+      "starsToday": "+11",
       "topic": "Agent",
-      "url": "https://github.com/Merit-Systems/OpenInstinct"
+      "url": "https://github.com/Dpro-at/Tel-Agent"
     },
     {
       "rank": 20,
       "name": "banmu123/LoomFlow",
       "owner": "banmu123",
       "desc": "Lightweight AI-native workflow builder for individuals and small teams \u2014 describe your idea in natural language, get a runnable workflow on a visual canvas, publish it as an API. One-command Docker self-hosting. Open-source alternative to Dify / n8n.",
-      "stars": "217",
-      "forks": "8",
+      "stars": "219",
+      "forks": "9",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -376,7 +375,7 @@
       "name": "zachahn/vomit",
       "owner": "zachahn",
       "desc": "Clean up Claude's token vomit with a separate LLM. Save your tokens, Opus is hopeless",
-      "stars": "191",
+      "stars": "192",
       "forks": "7",
       "lang": "Go",
       "langColor": "#00ADD8",
@@ -390,28 +389,11 @@
     },
     {
       "rank": 23,
-      "name": "Dpro-at/Tel-Agent",
-      "owner": "Dpro-at",
-      "desc": "AI phone assistant | open-source ",
-      "stars": "170",
-      "forks": "52",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+8",
-      "topic": "Agent",
-      "url": "https://github.com/Dpro-at/Tel-Agent"
-    },
-    {
-      "rank": 24,
       "name": "ValerianXXX/JobFlow",
       "owner": "ValerianXXX",
       "desc": "Local-first, AI-centered, evidence-gated job application workflow",
-      "stars": "170",
-      "forks": "22",
+      "stars": "177",
+      "forks": "24",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -421,6 +403,24 @@
       "starsToday": "+7",
       "topic": "Ai",
       "url": "https://github.com/ValerianXXX/JobFlow"
+    },
+    {
+      "rank": 24,
+      "name": "XHToken/Spark-X2.5",
+      "owner": "XHToken",
+      "desc": "Spark-x2.5 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models",
+      "stars": "177",
+      "forks": "25",
+      "lang": null,
+      "langColor": "#8b949e",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+12",
+      "topic": "Agent",
+      "url": "https://github.com/XHToken/Spark-X2.5"
     },
     {
       "rank": 25,
@@ -441,28 +441,10 @@
     },
     {
       "rank": 26,
-      "name": "XHToken/Spark-X2.5",
-      "owner": "XHToken",
-      "desc": "Spark-x2.5 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models",
-      "stars": "159",
-      "forks": "22",
-      "lang": null,
-      "langColor": "#8b949e",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+12",
-      "topic": "Agent",
-      "url": "https://github.com/XHToken/Spark-X2.5"
-    },
-    {
-      "rank": 27,
       "name": "biuworks/bilibili-digest",
       "owner": "biuworks",
       "desc": "\u5df2\u4e0a\u67b6 Chrome / Edge \u5546\u5e97 \ud83d\ude80 \u628a B \u7ad9\u89c6\u9891\u53d8\u6210\u5b66\u4e60\u8d44\u6e90\u7684\u6d4f\u89c8\u5668\u6269\u5c55\uff1a\u5b57\u5e55\u9605\u8bfb\u3001\u53cc\u8bed\u5bf9\u7167\u3001AI \u7ae0\u8282\u6982\u89c8\u3001\u5212\u8bcd\u89e3\u91ca\u548c\u5e26\u65f6\u95f4\u6233\u7684\u7b14\u8bb0",
-      "stars": "146",
+      "stars": "147",
       "forks": "24",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
@@ -475,7 +457,7 @@
       "url": "https://github.com/biuworks/bilibili-digest"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "memoket/memoket-kite",
       "owner": "memoket",
       "desc": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
@@ -493,6 +475,23 @@
       "url": "https://github.com/memoket/memoket-kite"
     },
     {
+      "rank": 28,
+      "name": "Vincent-Xi08/IntentRoute-AI",
+      "owner": "Vincent-Xi08",
+      "desc": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
+      "stars": "136",
+      "forks": "3",
+      "lang": "C#",
+      "langColor": "#8b949e",
+      "niche": [
+        "Data"
+      ],
+      "trend": "trending",
+      "starsToday": "+11",
+      "topic": "Ai",
+      "url": "https://github.com/Vincent-Xi08/IntentRoute-AI"
+    },
+    {
       "rank": 29,
       "name": "Akimiya-z/codex-guard",
       "owner": "Akimiya-z",
@@ -505,33 +504,33 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+8",
+      "starsToday": "+7",
       "topic": "Ai",
       "url": "https://github.com/Akimiya-z/codex-guard"
     },
     {
       "rank": 30,
-      "name": "Vieeeeeee/wibi-style",
-      "owner": "Vieeeeeee",
-      "desc": "20+ \u6b3e\u53ef\u72ec\u7acb\u5b89\u88c5\u7684 AI \u89c6\u89c9\u98ce\u683c Skill\uff1a\u6311\u4e00\u6b3e\u3001\u4e0a\u4f20\u4e00\u5f20\u7167\u7247\uff0c\u5728 Codex \u91cc\u76f4\u63a5\u751f\u6210\u6210\u54c1\u3002\u4f5c\u8005 @\u5a01\u6bd4 Hunter Wei.\uff08\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u540c\u540d\uff09",
+      "name": "nari-labs/nari-qwen3-tts",
+      "owner": "nari-labs",
+      "desc": "Ultrafast Qwen3-TTS: sub-50 ms time-to-first-audio at 10 requests per second. ",
       "stars": "135",
       "forks": "11",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
-        "Agents"
+        "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+4",
-      "topic": "Agent Skills",
-      "url": "https://github.com/Vieeeeeee/wibi-style"
+      "starsToday": "+5",
+      "topic": "Ai",
+      "url": "https://github.com/nari-labs/nari-qwen3-tts"
     },
     {
       "rank": 31,
       "name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
-      "stars": "198.9k",
+      "stars": "199.3k",
       "forks": "76.3k",
       "lang": "C++",
       "langColor": "#f34b7d",
@@ -548,7 +547,7 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "169.5k",
+      "stars": "169.6k",
       "forks": "21.8k",
       "lang": "HTML",
       "langColor": "#8b949e",
@@ -565,7 +564,7 @@
       "name": "huggingface/transformers",
       "owner": "huggingface",
       "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "stars": "164.9k",
+      "stars": "165.0k",
       "forks": "34.5k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -600,7 +599,7 @@
       "owner": "pytorch",
       "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "stars": "102.8k",
-      "forks": "29.1k",
+      "forks": "29.2k",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
@@ -616,7 +615,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "90.2k",
+      "stars": "90.3k",
       "forks": "22.2k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -650,7 +649,7 @@
       "name": "netdata/netdata",
       "owner": "netdata",
       "desc": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "stars": "80.4k",
+      "stars": "80.5k",
       "forks": "6.6k",
       "lang": "Go",
       "langColor": "#00ADD8",
@@ -737,7 +736,7 @@
       "name": "ultralytics/ultralytics",
       "owner": "ultralytics",
       "desc": "Ultralytics YOLO26, YOLO11, YOLOv8 \u2014 object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
-      "stars": "61.3k",
+      "stars": "61.4k",
       "forks": "11.7k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -754,7 +753,7 @@
       "name": "rohitg00/ai-engineering-from-scratch",
       "owner": "rohitg00",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "52.6k",
+      "stars": "52.8k",
       "forks": "9.2k",
       "lang": "Python",
       "langColor": "#3572A5",

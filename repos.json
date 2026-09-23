@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T02:41:12.770866",
+  "updated": "2026-09-23T02:41:32.505067",
   "count": 50,
   "repos": [
     {
@@ -7,15 +7,15 @@
       "name": "shadcn-ui/lint",
       "owner": "shadcn-ui",
       "desc": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
-      "stars": "2.4k",
-      "forks": "44",
+      "stars": "2.6k",
+      "forks": "47",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+126",
+      "starsToday": "+129",
       "topic": "Agents",
       "url": "https://github.com/shadcn-ui/lint"
     },
@@ -25,14 +25,14 @@
       "owner": "jtydhr88",
       "desc": "Professional agent skills for screenwriting, television writing and dramaturgy",
       "stars": "1.3k",
-      "forks": "151",
+      "forks": "152",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+88",
+      "starsToday": "+84",
       "topic": "Ai",
       "url": "https://github.com/jtydhr88/screenwriting-skills"
     },
@@ -50,7 +50,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+56",
+      "starsToday": "+53",
       "topic": "Ai",
       "url": "https://github.com/2akouwu/reverify"
     },
@@ -60,14 +60,14 @@
       "owner": "unstablebuild",
       "desc": "the development environment for pros",
       "stars": "1.1k",
-      "forks": "82",
+      "forks": "86",
       "lang": "Go",
       "langColor": "#00ADD8",
       "niche": [
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+96",
+      "starsToday": "+89",
       "topic": "Agent Orchestration",
       "url": "https://github.com/unstablebuild/rune"
     },
@@ -84,7 +84,7 @@
         "Data"
       ],
       "trend": "trending",
-      "starsToday": "+84",
+      "starsToday": "+76",
       "topic": "Ai",
       "url": "https://github.com/kruzovic7/ai-data-extractor"
     },
@@ -93,15 +93,15 @@
       "name": "Colafornia/short-video-generator-AI",
       "owner": "Colafornia",
       "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stars": "761",
-      "forks": "115",
+      "stars": "780",
+      "forks": "117",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+58",
+      "starsToday": "+55",
       "topic": "Ai",
       "url": "https://github.com/Colafornia/short-video-generator-AI"
     },
@@ -110,7 +110,7 @@
       "name": "hkqr/my-free-code",
       "owner": "hkqr",
       "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stars": "639",
+      "stars": "640",
       "forks": "212",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -119,7 +119,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+25",
+      "starsToday": "+24",
       "topic": "Ai",
       "url": "https://github.com/hkqr/my-free-code"
     },
@@ -128,15 +128,15 @@
       "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "owner": "pallavi-shekhar",
       "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-      "stars": "603",
-      "forks": "42",
+      "stars": "626",
+      "forks": "43",
       "lang": "Markdown",
       "langColor": "#8b949e",
       "niche": [
         "LLMs"
       ],
       "trend": "new",
-      "starsToday": "+301",
+      "starsToday": "+208",
       "topic": "Ai",
       "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
     },
@@ -145,59 +145,59 @@
       "name": "devagrawal09/jev-review",
       "owner": "devagrawal09",
       "desc": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-      "stars": "495",
-      "forks": "32",
+      "stars": "554",
+      "forks": "34",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
         "General AI"
       ],
       "trend": "new",
-      "starsToday": "+99",
+      "starsToday": "+92",
       "topic": "Ai",
       "url": "https://github.com/devagrawal09/jev-review"
     },
     {
       "rank": 10,
-      "name": "Merit-Systems/OpenInstinct",
-      "owner": "Merit-Systems",
-      "desc": "iMessage personal assistant + password vault",
-      "stars": "351",
-      "forks": "55",
-      "lang": "TypeScript",
-      "langColor": "#2b7489",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+13",
-      "topic": "Agent",
-      "url": "https://github.com/Merit-Systems/OpenInstinct"
-    },
-    {
-      "rank": 11,
       "name": "aimeoa/hanshuang-codex",
       "owner": "aimeoa",
       "desc": "\u9488\u5bf9GPT 6.0,workbuddyV4.1flash\u7684\u7834\u7532\u5b9e\u9a8c\u9879\u76ee",
-      "stars": "344",
-      "forks": "62",
+      "stars": "384",
+      "forks": "67",
       "lang": "Python",
       "langColor": "#3572A5",
       "niche": [
         "LLMs"
       ],
       "trend": "trending",
-      "starsToday": "+22",
+      "starsToday": "+24",
       "topic": "Ai",
       "url": "https://github.com/aimeoa/hanshuang-codex"
+    },
+    {
+      "rank": 11,
+      "name": "Merit-Systems/OpenInstinct",
+      "owner": "Merit-Systems",
+      "desc": "iMessage personal assistant + password vault",
+      "stars": "356",
+      "forks": "57",
+      "lang": "TypeScript",
+      "langColor": "#2b7489",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+12",
+      "topic": "Agent",
+      "url": "https://github.com/Merit-Systems/OpenInstinct"
     },
     {
       "rank": 12,
       "name": "useagenthq/useagent",
       "owner": "useagenthq",
       "desc": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "stars": "325",
-      "forks": "58",
+      "stars": "337",
+      "forks": "60",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -212,28 +212,10 @@
     },
     {
       "rank": 13,
-      "name": "XHToken/Spark-X2.5",
-      "owner": "XHToken",
-      "desc": "Spark-x2.5 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models",
-      "stars": "298",
-      "forks": "41",
-      "lang": null,
-      "langColor": "#8b949e",
-      "niche": [
-        "LLMs",
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+10",
-      "topic": "Agent",
-      "url": "https://github.com/XHToken/Spark-X2.5"
-    },
-    {
-      "rank": 14,
       "name": "Vincent-Xi08/IntentRoute-AI",
       "owner": "Vincent-Xi08",
       "desc": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
-      "stars": "269",
+      "stars": "274",
       "forks": "3",
       "lang": "C#",
       "langColor": "#8b949e",
@@ -246,7 +228,7 @@
       "url": "https://github.com/Vincent-Xi08/IntentRoute-AI"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "acryldev/acryl",
       "owner": "acryldev",
       "desc": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
@@ -263,46 +245,12 @@
       "url": "https://github.com/acryldev/acryl"
     },
     {
-      "rank": 16,
-      "name": "yudaprasetya007/routeVSCODE",
-      "owner": "yudaprasetya007",
-      "desc": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
-      "stars": "239",
-      "forks": "0",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
-      "niche": [
-        "LLMs"
-      ],
-      "trend": "trending",
-      "starsToday": "+19",
-      "topic": "9Router",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE"
-    },
-    {
-      "rank": 17,
-      "name": "yuyuanweb/ai-picture-editor",
-      "owner": "yuyuanweb",
-      "desc": "2026 \u5e74\u7f16\u7a0b\u5bfc\u822a AI \u7f16\u7a0b\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e React 19 + FastAPI + LangChain + LangGraph + Konva \u7684 AI \u4fee\u56fe\u667a\u80fd\u4f53\uff0c\u652f\u6301\u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u4fee\u56fe\u300121 \u79cd\u7f16\u8f91\u5de5\u5177\u3001\u6587\u751f\u56fe\u3001\u667a\u80fd\u62a0\u56fe\u3001\u56fe\u5c42\u62c6\u5206\u3001\u533a\u57df\u7f16\u8f91\u3001\u591a\u6b65\u8ba1\u5212\u3002\u8986\u76d6 AI Agent \u67b6\u6784\u3001SSE \u5b9e\u65f6\u63a8\u9001\u3001\u5f02\u6b65\u4efb\u52a1\u961f\u5217\u3001Canvas \u753b\u5e03\u5f15\u64ce\u3002\u7528\u4e00\u5957\u6559\u7a0b\u638c\u63e1 AI Agent \u5168\u6808\u5f00\u53d1\uff0c\u4e0d\u5230\u4e00\u5468\u5b66\u5b8c\uff0c\u7ed9\u4f60\u7684\u7b80\u5386\u589e\u52a0\u7ade\u4e89\u529b",
-      "stars": "229",
-      "forks": "47",
-      "lang": "Python",
-      "langColor": "#3572A5",
-      "niche": [
-        "Agents"
-      ],
-      "trend": "trending",
-      "starsToday": "+11",
-      "topic": "Ai",
-      "url": "https://github.com/yuyuanweb/ai-picture-editor"
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "name": "Loopera-ai/loopera",
       "owner": "Loopera-ai",
       "desc": "\u9762\u5411\u57fa\u672c\u9762\u56e0\u5b50\u7814\u7a76\u7684\u667a\u80fd\u4f53-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-      "stars": "229",
-      "forks": "38",
+      "stars": "246",
+      "forks": "43",
       "lang": null,
       "langColor": "#8b949e",
       "niche": [
@@ -314,11 +262,45 @@
       "url": "https://github.com/Loopera-ai/loopera"
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "name": "yuyuanweb/ai-picture-editor",
+      "owner": "yuyuanweb",
+      "desc": "2026 \u5e74\u7f16\u7a0b\u5bfc\u822a AI \u7f16\u7a0b\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e React 19 + FastAPI + LangChain + LangGraph + Konva \u7684 AI \u4fee\u56fe\u667a\u80fd\u4f53\uff0c\u652f\u6301\u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u4fee\u56fe\u300121 \u79cd\u7f16\u8f91\u5de5\u5177\u3001\u6587\u751f\u56fe\u3001\u667a\u80fd\u62a0\u56fe\u3001\u56fe\u5c42\u62c6\u5206\u3001\u533a\u57df\u7f16\u8f91\u3001\u591a\u6b65\u8ba1\u5212\u3002\u8986\u76d6 AI Agent \u67b6\u6784\u3001SSE \u5b9e\u65f6\u63a8\u9001\u3001\u5f02\u6b65\u4efb\u52a1\u961f\u5217\u3001Canvas \u753b\u5e03\u5f15\u64ce\u3002\u7528\u4e00\u5957\u6559\u7a0b\u638c\u63e1 AI Agent \u5168\u6808\u5f00\u53d1\uff0c\u4e0d\u5230\u4e00\u5468\u5b66\u5b8c\uff0c\u7ed9\u4f60\u7684\u7b80\u5386\u589e\u52a0\u7ade\u4e89\u529b",
+      "stars": "239",
+      "forks": "49",
+      "lang": "Python",
+      "langColor": "#3572A5",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+11",
+      "topic": "Ai",
+      "url": "https://github.com/yuyuanweb/ai-picture-editor"
+    },
+    {
+      "rank": 17,
+      "name": "0xNatoshi/jev-codex-router",
+      "owner": "0xNatoshi",
+      "desc": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+      "stars": "227",
+      "forks": "26",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "LLMs"
+      ],
+      "trend": "new",
+      "starsToday": "+45",
+      "topic": "Ai",
+      "url": "https://github.com/0xNatoshi/jev-codex-router"
+    },
+    {
+      "rank": 18,
       "name": "FankChen/tracecrate",
       "owner": "FankChen",
       "desc": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
-      "stars": "190",
+      "stars": "201",
       "forks": "4",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -326,33 +308,50 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+17",
+      "starsToday": "+16",
       "topic": "Ai",
       "url": "https://github.com/FankChen/tracecrate"
     },
     {
+      "rank": 19,
+      "name": "haplollc/ThinkingOrbs",
+      "owner": "haplollc",
+      "desc": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
+      "stars": "187",
+      "forks": "15",
+      "lang": "Swift",
+      "langColor": "#8b949e",
+      "niche": [
+        "Agents"
+      ],
+      "trend": "new",
+      "starsToday": "+62",
+      "topic": "Ai",
+      "url": "https://github.com/haplollc/ThinkingOrbs"
+    },
+    {
       "rank": 20,
-      "name": "0xNatoshi/jev-codex-router",
-      "owner": "0xNatoshi",
-      "desc": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
-      "stars": "177",
-      "forks": "18",
+      "name": "yudaprasetya007/routeVSCODE",
+      "owner": "yudaprasetya007",
+      "desc": "\u26a1 Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "stars": "182",
+      "forks": "0",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "LLMs"
       ],
-      "trend": "new",
-      "starsToday": "+44",
-      "topic": "Ai",
-      "url": "https://github.com/0xNatoshi/jev-codex-router"
+      "trend": "trending",
+      "starsToday": "+14",
+      "topic": "9Router",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE"
     },
     {
       "rank": 21,
       "name": "jiabaobei/memory-bridge",
       "owner": "jiabaobei",
       "desc": "\u8bb0\u5fc6\u6865 MemoryBridge \u2014 \u8de8\u8bbe\u5907\u3001\u8de8\u5e73\u53f0\u7684 AI \u5171\u4eab\u8bb0\u5fc6\u5c42 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
-      "stars": "168",
+      "stars": "175",
       "forks": "2",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -370,15 +369,15 @@
       "name": "lakeday-org/perch",
       "owner": "lakeday-org",
       "desc": "Semantic code linting with Jev",
-      "stars": "167",
-      "forks": "12",
+      "stars": "170",
+      "forks": "13",
       "lang": "JavaScript",
       "langColor": "#f1e05a",
       "niche": [
         "General AI"
       ],
       "trend": "new",
-      "starsToday": "+33",
+      "starsToday": "+28",
       "topic": "Ai",
       "url": "https://github.com/lakeday-org/perch"
     },
@@ -387,8 +386,8 @@
       "name": "liyupi/ai-model-world",
       "owner": "liyupi",
       "desc": "AI \u5927\u6a21\u578b\u4e16\u754c\uff0c\u628a 556 \u4e2a\u5927\u6a21\u578b\u62df\u4eba\u5316\u6210\u50cf\u7d20\u5c0f\u4eba\u7684\u53ef\u89c6\u5316\u7ad9\u70b9\u3002\u8fdb\u6765\u5c31\u80fd\u770b\u5230\u6b64\u523b\u8c01\u6700\u806a\u660e\u3001\u8c01\u6700\u4f1a\u5199\u4ee3\u7801\u3001\u8c01\u6700\u4fbf\u5b9c\u3001\u8c01\u521a\u53d1\u5e03\uff0c\u5f80\u4e0b\u662f\u56fd\u5185\u4e0e\u56fd\u5916\u5206\u533a\u7684\u5382\u5546\u5e7f\u573a\u3001\u5b8c\u6574\u7684\u53d1\u5e03\u65f6\u95f4\u7ebf\u548c\u591a\u7ef4\u6392\u884c\u699c\u3002\u641c\u7d22\u8ba4\u6a21\u578b\u540d\u3001\u5382\u5546\u548c\u80fd\u529b\uff0c\u8f93\u5165\u300c\u591a\u6a21\u6001\u300d\u4f1a\u76f4\u63a5\u5217\u51fa\u5168\u90e8\u591a\u6a21\u6001\u6a21\u578b\u3002\u6570\u636e\u53d6\u81ea Epoch AI\u3001models.dev\u3001LiveBench \u4e0e Hugging Face\uff0c\u6bcf\u5c0f\u65f6\u81ea\u52a8\u540c\u6b65\uff0c\u6240\u6709\u6587\u6848\u7531\u771f\u5b9e\u6570\u636e\u751f\u6210\uff0c\u4e0d\u8c03\u7528\u4efb\u4f55 LLM\u3002Next.js \u9759\u6001\u5bfc\u51fa\uff0c\u96f6\u540e\u7aef\u3002",
-      "stars": "165",
-      "forks": "27",
+      "stars": "170",
+      "forks": "29",
       "lang": "TypeScript",
       "langColor": "#2b7489",
       "niche": [
@@ -396,33 +395,33 @@
         "Data"
       ],
       "trend": "new",
-      "starsToday": "+41",
+      "starsToday": "+34",
       "topic": "Ai",
       "url": "https://github.com/liyupi/ai-model-world"
     },
     {
       "rank": 24,
-      "name": "haplollc/ThinkingOrbs",
-      "owner": "haplollc",
-      "desc": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
-      "stars": "159",
+      "name": "isas1/skills",
+      "owner": "isas1",
+      "desc": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
+      "stars": "153",
       "forks": "12",
-      "lang": "Swift",
+      "lang": null,
       "langColor": "#8b949e",
       "niche": [
-        "Agents"
+        "General AI"
       ],
       "trend": "new",
-      "starsToday": "+79",
+      "starsToday": "+51",
       "topic": "Ai",
-      "url": "https://github.com/haplollc/ThinkingOrbs"
+      "url": "https://github.com/isas1/skills"
     },
     {
       "rank": 25,
       "name": "wemux-ai/wemux",
       "owner": "wemux-ai",
       "desc": "Wemux - self-hostable AI agent collaboration platform (Apache-2.0, community edition)",
-      "stars": "143",
+      "stars": "146",
       "forks": "39",
       "lang": "TypeScript",
       "langColor": "#2b7489",
@@ -440,7 +439,7 @@
       "name": "ZSeven-W/rish-app",
       "owner": "ZSeven-W",
       "desc": "Your pocket agent. Local-first AI agents on iOS and Android \u2014 real workspaces, tool execution with approvals, and your choice of model (DSH \u00b7 Claude Code \u00b7 Codex \u00b7 GLM).",
-      "stars": "142",
+      "stars": "145",
       "forks": "16",
       "lang": "Objective-C++",
       "langColor": "#8b949e",
@@ -455,23 +454,6 @@
     },
     {
       "rank": 27,
-      "name": "isas1/skills",
-      "owner": "isas1",
-      "desc": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
-      "stars": "137",
-      "forks": "11",
-      "lang": null,
-      "langColor": "#8b949e",
-      "niche": [
-        "General AI"
-      ],
-      "trend": "new",
-      "starsToday": "+68",
-      "topic": "Ai",
-      "url": "https://github.com/isas1/skills"
-    },
-    {
-      "rank": 28,
       "name": "ara-mkr/Wonder-Pill",
       "owner": "ara-mkr",
       "desc": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions \u2014 no answers, no ranking, just provocations.",
@@ -483,9 +465,27 @@
         "General AI"
       ],
       "trend": "trending",
-      "starsToday": "+6",
+      "starsToday": "+5",
       "topic": "Ai",
       "url": "https://github.com/ara-mkr/Wonder-Pill"
+    },
+    {
+      "rank": 28,
+      "name": "tshemsedinov/reslop",
+      "owner": "tshemsedinov",
+      "desc": "\ud83d\udc41\ufe0f Review AI generated code and plan changes",
+      "stars": "121",
+      "forks": "7",
+      "lang": "JavaScript",
+      "langColor": "#f1e05a",
+      "niche": [
+        "LLMs",
+        "Agents"
+      ],
+      "trend": "trending",
+      "starsToday": "+7",
+      "topic": "Agent",
+      "url": "https://github.com/tshemsedinov/reslop"
     },
     {
       "rank": 29,
@@ -507,28 +507,28 @@
     },
     {
       "rank": 30,
-      "name": "tshemsedinov/reslop",
-      "owner": "tshemsedinov",
-      "desc": "\ud83d\udc41\ufe0f Review AI generated code and plan changes",
-      "stars": "118",
-      "forks": "6",
-      "lang": "JavaScript",
-      "langColor": "#f1e05a",
+      "name": "Noisyxl/brier",
+      "owner": "Noisyxl",
+      "desc": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs \u2014 sealed before the answer exists, graded with proper scoring rules.",
+      "stars": "117",
+      "forks": "8",
+      "lang": "HTML",
+      "langColor": "#8b949e",
       "niche": [
         "LLMs",
         "Agents"
       ],
       "trend": "trending",
       "starsToday": "+7",
-      "topic": "Agent",
-      "url": "https://github.com/tshemsedinov/reslop"
+      "topic": "Ai",
+      "url": "https://github.com/Noisyxl/brier"
     },
     {
       "rank": 31,
       "name": "tensorflow/tensorflow",
       "owner": "tensorflow",
       "desc": "An Open Source Machine Learning Framework for Everyone",
-      "stars": "200.2k",
+      "stars": "200.3k",
       "forks": "77.0k",
       "lang": "C++",
       "langColor": "#f34b7d",
@@ -545,7 +545,7 @@
       "name": "f/prompts.chat",
       "owner": "f",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
-      "stars": "170.9k",
+      "stars": "171.0k",
       "forks": "22.0k",
       "lang": "HTML",
       "langColor": "#8b949e",
@@ -613,7 +613,7 @@
       "name": "microsoft/ML-For-Beginners",
       "owner": "microsoft",
       "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "stars": "90.8k",
+      "stars": "90.9k",
       "forks": "22.4k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -630,7 +630,7 @@
       "name": "Developer-Y/cs-video-courses",
       "owner": "Developer-Y",
       "desc": "List of Computer Science courses with video lectures.",
-      "stars": "83.5k",
+      "stars": "83.6k",
       "forks": "11.5k",
       "lang": null,
       "langColor": "#8b949e",
@@ -701,7 +701,7 @@
       "name": "microsoft/AI-For-Beginners",
       "owner": "microsoft",
       "desc": "12 Weeks, 24 Lessons, AI for All!",
-      "stars": "68.8k",
+      "stars": "68.9k",
       "forks": "13.3k",
       "lang": "Jupyter Notebook",
       "langColor": "#8b949e",
@@ -769,7 +769,7 @@
       "name": "rohitg00/ai-engineering-from-scratch",
       "owner": "rohitg00",
       "desc": "Learn it. Build it. Ship it for others.",
-      "stars": "55.2k",
+      "stars": "55.3k",
       "forks": "9.7k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -778,7 +778,7 @@
         "Agents"
       ],
       "trend": "trending",
-      "starsToday": "+295",
+      "starsToday": "+294",
       "topic": "Agents",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
     },
@@ -821,7 +821,7 @@
       "name": "microsoft/qlib",
       "owner": "microsoft",
       "desc": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
-      "stars": "48.7k",
+      "stars": "48.8k",
       "forks": "7.7k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -839,7 +839,7 @@
       "name": "apache/airflow",
       "owner": "apache",
       "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "stars": "46.9k",
+      "stars": "47.0k",
       "forks": "17.9k",
       "lang": "Python",
       "langColor": "#3572A5",
@@ -857,7 +857,7 @@
       "name": "paperless-ngx/paperless-ngx",
       "owner": "paperless-ngx",
       "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "stars": "45.8k",
+      "stars": "45.9k",
       "forks": "3.2k",
       "lang": "Python",
       "langColor": "#3572A5",
